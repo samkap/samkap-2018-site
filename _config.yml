@@ -37,12 +37,12 @@ logo-image: /img/ampersam.svg
 nav-breaking-point: 520px
 
 paginate_path: "/page-:num/"
-permalink: pretty
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      excerpt_separator: "<!--more-->"
+# permalink: pretty
+# defaults:
+#   -
+#     scope:
+#       path: ""
+#       type: "posts"
+#     values:
+#       layout: "post"
+#       excerpt_separator: "<!--more-->"
