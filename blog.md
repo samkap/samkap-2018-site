@@ -1,13 +1,14 @@
 ---
 title: Blog
 layout: page
+permalink: /blog/
 ---
 
 <p>
 Articles, thoughts, and long-form.
   {% for post in site.posts %}
 
-   
+
     {% unless post.next %}
       <h3>{{ post.date | date: '%Y' }}</h3>
     {% else %}
