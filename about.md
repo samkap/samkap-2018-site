@@ -46,6 +46,16 @@ I speak and write about design and design education. Here’s some of that:
 <h3>Writing</h3>
 <p>Along with being a monthly contributor for <a href="http://www.creativebloq.com" class="bold">net magazine</a>'s “Focus On“ column, here is some pieces I've written:</p>
 <ul class="aboutlist">
+<li><a href="http://www.creativebloq.com/features/how-to-enhance-photography-on-your-website" class="bold">How to enhance photography on your site</a>, net Magazine, December 2016 issue and online</li>
+<li><a href="http://www.creativebloq.com/features/3-top-tools-for-testing-web-performance" class="bold">3 top tools for testing web performance</a>, net Magazine, November 2016 issue and online</li>
+<li><a href="http://www.creativebloq.com/features/creating-web-icons-that-break-the-language-barrier" class="bold">Creating web icons that break the language barrier</a>, net Magazine, November 2016 issue and online</li>
+<li><a href="http://www.creativebloq.com/inspiration/how-to-create-a-delightful-website" class="bold">How to create a delightful website</a>, net Magazine, October 2016 issue and online</li>
+<li><a href="" class="bold"></a>, net Magazine, September 2016 issue and online</li>
+<li><a href="http://www.creativebloq.com/features/4-great-try-before-you-buy-font-services" class="bold">Great try-before-you-buy font services</a>, net Magazine, August 2016 issue and online</li>
+<li><a href="http://www.creativebloq.com/web-design/4-great-examples-food-websites-71621257" class="bold">4 great examples of food websites</a>, net Magazine, July 2016 issue and online</li>
+<li><a href="http://www.creativebloq.com/web-design/tips-choosing-vibrant-colours-web-projects-61620832" class="bold">Tips for choosing vibrant colours for web projects</a>, net Magazine, June 2016 issue and online</li>
+<li><a href="http://www.creativebloq.com/web-design/learn-how-animate-scalable-vector-graphics-51620196" class="bold">Learn how to animate Scalable Vector Graphics</a>, net Magazine, May 2016 issue and online</li>
+
 <li><a href="http://www.creativebloq.com/portfolios/how-make-cohesive-online-design-portfolio-111517909" class="bold">Focus On Portfolio Design</a>, net Magazine, December 2015 issue and online.</li>
 <!-- <li><a href="" class="bold"></a></li> -->
 <li><a href="https://the-pastry-box-project.net/sameera-kapila/2015-december-10" class="bold">“You've got this”</a>, The Pastry Box Project, December 2015</li>
@@ -62,13 +72,15 @@ I speak and write about design and design education. Here’s some of that:
 
 <h3>Interviews</h3>
 <ul>
+
 <li><a href="http://funsize.co/hustle" class="bold">Hustle Podcast</a>, Feb 2016</li>
-<li><a href="#" class="bold">Buck's Nashville show</a></li>
+<li><a href="https://www.lynda.com/Web-Design-tutorials/Web-Design-Fundamentals/177837-2.html" class="bold">Web Design Fundamentals: A Life of Learning</a>, Lynda.com course, Nov 2014</li>
 <li> <a class="bold" href="http://www.shoptalkshow.com/episodes/121-sam-kapila/" target="_blank">ShopTalk Show</a>, June 2014</li>
 <li><a class="bold" href="http://goodstuff.fm/smym/39" target="_blank">Show Me Your Mic</a>, Mar 2014</li>
 <li><a class="bold" href="http://atxwebshow.com/2013/05/16/64-with-sam-kapila/" target="_blank">The ATX Web Show</a>, May 2013</li>
 <li><a class="bold" href="http://5by5.tv/eastwing/52" target="_blank">The East Wing</a>, Apr 2013</li>
 <li><a class="bold" href="http://5by5.tv/frequency/27" target="_blank">The Frequency</a>, Nov 2012</li>
+
 </ul>
 
 <hr>
