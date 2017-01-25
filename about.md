@@ -95,5 +95,5 @@ I speak and write about design and design education. Here’s some of that:
       <li><a href="http://samkap.vsco.co/">Viewing on VSCO Grid</a></li>
       <!-- <li><a href="https://www.everlane.com/n/sl6ruw">Buy clothing from Everlane</a> -->
     </ul>
-    <p><a href="http://www.samkapila.com/journal/feed">RSS</a></p>
+    <p><a href="http://www.samkapila.com/feed">RSS</a></p>
   </div>
