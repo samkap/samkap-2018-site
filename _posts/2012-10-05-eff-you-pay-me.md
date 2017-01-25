@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "F*** You, Pay Me : Mike Monteiro on Clients"
+title:  F*** You, Pay Me, Mike Monteiro on Clients
 date:   2012-10-05 22:05
-tags: 
+tags:
 - video
 - advice
 category: clips

@@ -4,6 +4,13 @@ date: 2016-09-10
 layout: post
 crosspost_to_medium: true
 cover-image:
+tags:
+- white-house
+- opportunity
+- diversity
+- inclusion
+- scholarship
+- the-iron-yard
 ---
 
 ![Megan Smith, CTO for the US, Jessica, and Sam](http://blog.theironyard.com/wp-content/uploads/2016/09/Pasted-image-at-2016_09_14-03_34-PM-1024x768.png)

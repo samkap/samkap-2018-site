@@ -2,7 +2,7 @@
 layout: post
 title: Wrote, spoke, and two months later
 date: 2014-07-04
-Tags: 
+Ttgs:
 - articles
 - writing
 - design

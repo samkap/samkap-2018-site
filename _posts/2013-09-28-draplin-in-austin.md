@@ -3,7 +3,7 @@ layout: post
 title: Draplin / Field Notes in Austin
 date: 2013-09-28
 desc: Recap of the notebook workshop and lectures by thickline logo slingin' and kind-hearted Draplin.
-Tags: 
+tags:
 - austin
 - books
 - lecture

@@ -3,7 +3,7 @@ layout: post
 title: Huge podcasting news!
 date: 2013-06-18
 desc: Recently, I was interviewed by the ATX Web Show! Now I'm excited to join them as a co-host. I also just joined the Non-breaking Space Show as a co-host!
-Tags:
+tags:
 - podcasts
 - speaking
 - austin

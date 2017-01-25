@@ -4,7 +4,7 @@ title: Paravel Inc is coming to Texas State!
 Date: 2012-10-29 12:00
 Desc: Lecture annoucement for Austin's very own leaders in Responsive Web Design, Paravel Inc, visiting Texas State University's School of Art and Design on November 7th, 2013!
 
-Tags: 
+tags:
 - lecture
 - texas-state
 - austin

@@ -2,19 +2,14 @@
 layout: post
 title: Choosing Nothing - Be Kind, Please Unwind
 date: 2015-10-07
-
-
-
-Tags: 
+Tags:
 - articles
 - writing
 - music
 - process
 - design
 - health
-
-
---- 
+---
 
 *This piece was originally written and published for [The Pastry Box Project](https://the-pastry-box-project.net/sameera-kapila/2015-october-7)*
 

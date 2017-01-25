@@ -1,8 +1,8 @@
-﻿---
+---
 layout: post
 title: National Geographic's Deadly Beauty
 date: 2014-09-06
-Tags: 
+tags:
 - photography
 - inspiration
 - florida

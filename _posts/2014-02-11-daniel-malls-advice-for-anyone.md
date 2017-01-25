@@ -3,7 +3,7 @@ layout: post
 title: Daniel Mall, on getting the work you want.
 date: 2014-02-11
 desc: A link to Daniel Mall’s article with advice for design students and professionals about making the work you want.
-Tags: 
+tags:
 - writing
 - community
 - inspiration

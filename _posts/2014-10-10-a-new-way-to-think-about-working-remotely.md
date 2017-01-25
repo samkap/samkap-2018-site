@@ -2,7 +2,7 @@
 layout: post
 title: A new way to think about working remotely
 date: 2014-10-10
-Tags: 
+tags:
 - inspiration
 - interesting
 - share

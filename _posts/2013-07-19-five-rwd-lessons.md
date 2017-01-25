@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 5 Lessons from a RWD Classroom
-date: 2013-07-19 
+date: 2013-07-19
 desc: I wrote an article about teaching Responsive Web Design for .net Magazine. It covers what I've learned the last two years of teaching RWD to college students.
-Tags:
+tags:
 - articles
 - rwd
 - writing

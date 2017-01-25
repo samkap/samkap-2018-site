@@ -3,7 +3,7 @@ layout: post
 title: Ira Glass on Storytelling
 date: 2013-11-25
 desc: A video with typographic elements and Ira Glass audio. I could listen to him all day.
-Tags: 
+tags:
 - video
 - process
 - typography

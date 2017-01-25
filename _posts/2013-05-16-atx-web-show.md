@@ -3,7 +3,7 @@ layout: post
 title: ATX Web Show
 date: 2013-05-16
 desc: I was interviewed by Travis Swicegood of the ATX Web Show. We talked about a lot of fun different things like what I'm teaching at Texas State.
-Tags: 
+tags:
 - podcasts
 - speaking
 - austin

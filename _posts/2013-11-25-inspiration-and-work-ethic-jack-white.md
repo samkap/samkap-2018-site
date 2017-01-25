@@ -3,7 +3,7 @@ layout: post
 title: Jack White on inspiration and work ethic
 date: 2013-11-25 16:02
 desc: A short video of Jack White speaking on creativity, work ethic, and inspiration.
-Tags: 
+tags:
 - video
 - inspiration
 - process

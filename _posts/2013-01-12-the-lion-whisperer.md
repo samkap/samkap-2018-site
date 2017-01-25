@@ -3,7 +3,7 @@ layout: post
 title: The Lion Whisperer and a GoPro
 date: 2013-01-12
 desc: A touching video of Kevin Richardson, called the "Lion Whisperer" wears a GoPro Hero and shares his unique relationship with lions in Africa.
-Tags: 
+tags:
 - interesting
 - video
 category: clips
