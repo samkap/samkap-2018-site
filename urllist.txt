@@ -35,8 +35,6 @@ http://samkapila.com/2014/06/27/shop-talk-show-episode-121.html
 http://samkapila.com/2014/06/18/html-css-duck-hunt-codepen.html
 http://samkapila.com/2014/06/09/like-what-like-victore.html
 http://samkapila.com/2014/05/27/ozark-country-blues.html
-http://samkapila.com/2014/04/25/two-jolenes.html
-http://samkapila.com/2014/04/21/wrote-spoke-two-months-later-copy.html
 http://samkapila.com/2014/04/21/advice-for-students-on-soft-skills.html
 http://samkapila.com/2014/04/20/the-hard-truth-about-soft-skills.html
 http://samkapila.com/2014/04/16/read-more.html
@@ -92,6 +90,7 @@ http://samkapila.com/clips/2015/04/27/debugging-gender-gap.html
 http://samkapila.com/clips/2014/12/28/design-watch.html
 http://samkapila.com/clips/2014/11/16/idea-evolution.html
 http://samkapila.com/clips/2014/10/10/a-new-way-to-think-about-working-remotely.html
+http://samkapila.com/clips/2014/04/25/two-jolenes.html
 http://samkapila.com/clips/2014/02/22/pomplamoose-mashup-pharrell.html
 http://samkapila.com/clips/2013/11/25/ira-glass-on-storytelling.html
 http://samkapila.com/clips/2013/01/12/the-lion-whisperer.html
