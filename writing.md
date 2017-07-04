@@ -5,10 +5,6 @@ Key:
 layout: page
 ---
 
----
-title: Writing
-layout: page
----
 Articles, thoughts, and long-form.
 
   {% for post in site.posts %}
