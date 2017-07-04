@@ -1,14 +1,12 @@
 ---
-title: Blog
+title: Writing
 permalink: "/blog/"
 layout: page
 ---
-
 <p>
 Articles, thoughts, and long-form.
+</p>
   {% for post in site.posts %}
-
-
     {% unless post.next %}
       <h3>{{ post.date | date: '%Y' }}</h3>
     {% else %}
