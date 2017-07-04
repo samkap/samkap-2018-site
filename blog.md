@@ -1,11 +1,15 @@
 ---
 title: Writing
-permalink: "/blog/"
 layout: page
 ---
 
-<p>Articles, thoughts, and long-form.</p>
+<p>
+Shorter notes, links, and thoughts. This is where I collect, where I organize, and where I think.
+</p>
   {% for post in site.posts %}
+
+
+
     {% unless post.next %}
       <h3>{{ post.date | date: '%Y' }}</h3>
     {% else %}
@@ -16,7 +20,6 @@ layout: page
       {% endif %}
     {% endunless %}
 
-   {% unless post.categories == 'clips' %}
     <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><small> • {{ post.date | date: site.date_format }}</small></p>
-         {% endunless %}
+         {% endif %}
   {% endfor %}
