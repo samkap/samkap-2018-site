@@ -7,7 +7,6 @@ layout: page
 ---
 title: Writing
 layout: page
-Permalink: /blog/
 ---
 Articles, thoughts, and long-form.
 
