@@ -383,7 +383,9 @@ nav a {
   border-radius: 4px;
   overflow: hidden;
   position: relative;
-  color: $color4;
+  font-size: .7em;
+  font-weight: 600;
+  
 }
 nav a:hover {
   color: $color3;
