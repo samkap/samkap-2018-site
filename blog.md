@@ -3,6 +3,7 @@ title: Writing
 permalink: "/blog/"
 layout: page
 ---
+
 Articles, thoughts, and long-form.
 
 {% for post in site.posts %}
