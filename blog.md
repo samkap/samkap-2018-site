@@ -1,6 +1,6 @@
 ---
 title: Writing
-permalink: /blog/
+permalink: "/blog/"
 layout: page
 ---
 
