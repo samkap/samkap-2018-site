@@ -1,14 +1,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width">
 
-<title>
-{% if page.title %}
-{{ page.title }} • {{ site.name }}
-{% else %}
-{{ site.name }}
-{% endif %}
-</title>
-<meta name="description" content="{{ page.summary }} {{ site.description.meta }}">
+<title>{{ page.title }} » {{ site.name }} </title>
+<meta name="description" content="{{ page.summary }} {{ site.description }}">
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="{{ site.baseurl }}/feed.xml">
 <meta name="google-site-verification" content="l1IVAKljgrF-R5QSMkS4ECiHDzWUK08Xb8YHxe8d7-0" />
 <!-- icons -->
@@ -37,14 +31,8 @@
 {% endif %}
 <meta property="og:type" content="website">
 <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
-<meta property="og:description" content="
-{% if page.summary %}
-{{ page.summary }}
-{% else %}
-{{ site.description.meta }}
-{% endif %}">
+<meta property="og:description" content="{{ site.description }}">
 <!-- /og tags -->
-
 <!-- <link rel="stylesheet" href="{{ site.baseurl }}/css/reset.css"> -->
 <!-- <link rel="stylesheet" href="{{ site.baseurl }}/css/pygments.css"> -->
 <!-- {% if site.display-social-icons %}
