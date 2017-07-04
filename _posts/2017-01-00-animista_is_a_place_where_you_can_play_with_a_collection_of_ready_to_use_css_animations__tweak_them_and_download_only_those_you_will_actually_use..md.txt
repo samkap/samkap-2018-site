@@ -1,0 +1,9 @@
+---
+title: Animista is a place where you can play with a collection of ready to use CSS animations, tweak them and download only those you will actually use.
+date: March 17, 2017 at 11:10AM
+layout: post
+category: clips
+crosspost_to_medium: false
+---
+Animista is a place where you can play with a collection of ready to use CSS animations, tweak them and download only those you will actually use.
+from: http://ift.tt/2nvLnbQ
