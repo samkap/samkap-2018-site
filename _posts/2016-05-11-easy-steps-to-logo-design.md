@@ -1,7 +1,8 @@
 ---
 title: Easy Steps to Logo Design
-category: clips
-date: 2016-05-11
+date: 2016-05-11 00:00:00 Z
+categories:
+- clips
 layout: post
 ---
 

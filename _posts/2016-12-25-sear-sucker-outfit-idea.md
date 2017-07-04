@@ -1,8 +1,9 @@
 ---
-title:  Searsucker button down and high waist jeans
-date: December 25, 2016 at 07:03PM
+title: Searsucker button down and high waist jeans
+date: 2016-12-25 19:03:00 Z
+categories:
+- clips
 layout: post
-category: clips
 crosspost_to_medium: false
 ---
 

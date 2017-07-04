@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Recommendations
+layout: page
 ---
 
 ## Travel

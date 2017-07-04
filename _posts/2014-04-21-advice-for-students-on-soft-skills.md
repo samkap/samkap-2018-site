@@ -1,8 +1,8 @@
 ---
-layout: post
 title: Advice on soft skills
-date: 2014-04-21
-Tags: 
+date: 2014-04-21 00:00:00 Z
+layout: post
+Tags:
 - articles
 - writing
 - design

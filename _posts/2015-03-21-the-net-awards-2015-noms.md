@@ -1,9 +1,9 @@
 ---
-layout: post
 title: The net awards nominations are now open
-date: 2015-03-21
-desc:
-Tags: 
+date: 2015-03-21 00:00:00 Z
+layout: post
+desc: 
+Tags:
 - design
 - awards
 - competitions

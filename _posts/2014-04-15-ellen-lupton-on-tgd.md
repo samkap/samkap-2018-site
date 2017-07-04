@@ -1,9 +1,11 @@
 ---
-layout: post
 title: Ellen Lupton on The Great Discontent
-date: 2014-04-15
-desc: Sharing my thoughts on another great interview by TGD with one of design’s leading ladies, Ellen Lupton, who is a designer and author.
-tags: design,texas-state,education,books,quotes,writing
+date: 2014-04-15 00:00:00 Z
+tags:
+- design,texas-state,education,books,quotes,writing
+layout: post
+desc: Sharing my thoughts on another great interview by TGD with one of design’s leading
+  ladies, Ellen Lupton, who is a designer and author.
 ---
 
 I'm always delighted by [The Great Discontent](https://thegreatdiscontent.com/)'s content and design and this week's TGD post is no different. Ryan and Tina interviewed [Ellen Lupton](https://thegreatdiscontent.com/ellen-lupton), who—to me—is one of the leaders in design. Ellen Lupton is also the author of many of the first design texts I ever purchased, specifically [Thinking With Type](http://www.thinkingwithtype.com) and [Designing Writing Research](http://www.amazon.com/Design-Writing-Research-Ellen-Lupton/dp/0714838519/ref=sr_1_7?ie=UTF8&qid=1397572981&sr=8-7&keywords=ellen+lupton). I appreciate how she has been a bridge between design academia and the industry. Connecting the industry and academia is a huge issue that I deal with everyday, and I've strived to bridge the gap between the two as much as she does. I enjoyed reading this TGD post, and thought I'd share my favorite quotes and my thoughts on them.

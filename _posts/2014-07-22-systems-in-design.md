@@ -1,13 +1,13 @@
 ---
+title: Systems In Design
+date: 2014-07-22 00:00:00 Z
 Title: Systems in Design [full article]
 layout: post
-Date: 2014-07-22
-Tags: 
+Date: 2014-07-22 00:00:00 Z
+Tags:
 - articles
 - writing
 - design
-
-
 ---
 
 It’s easy to get caught up in all the elements related to building a site: content, code, design, progressive enhancement, testing, etc. So much goes into that one final deliverable, that we can forget about how the site comes across to a user, how scalable it is, and how long it can last. These questions focus on the experience of what we create. The core of brand design is that experience. In his book, The Brand Gap, brand strategist Marty Neumeier defines a brand as “a person's gut feeling about a product, service, or company”. By following this definition, it is safe to say that what we create needs to translate into a larger, global end product, where one deliverable—like a website—isn't the product, but just one component of the product, which is the overall system. The more brand- and system-based thinking we bring into web design, the better off web design will be.

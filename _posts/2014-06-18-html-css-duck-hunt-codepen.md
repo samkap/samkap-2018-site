@@ -1,10 +1,10 @@
 ---
-layout: post
 title: HTML/CSS Duck Hunt CodePen
-date: 2014-06-18
+date: 2014-06-18 00:00:00 Z
+tags:
+- interesting,gaming
+layout: post
 desc: Someone took the time to make a function version of Duck Hunt using HTML/CSS
-tags: interesting,gaming
-
 ---
 
 This [Codepen](http://codepen.io/vaielab/pen/yoKEF/) is the most amazing use of inputs in HTML and CSS that I have ever seen! If you can hit the hidden input checkbox on the duck, it falls! This is just like when I stood directly in front of the TV and held the bright orange gun up screen as ducks flew around. Check it out:</p>

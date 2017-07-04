@@ -1,7 +1,8 @@
 ---
-title: It's okay to... 
-category: clips
-date: 2016-06-03
+title: It's okay to...
+date: 2016-06-03 00:00:00 Z
+categories:
+- clips
 layout: post
 ---
 

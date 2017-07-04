@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Choosing Nothing - Be Kind, Please Unwind
-date: 2015-10-07
+date: 2015-10-07 00:00:00 Z
+layout: post
 Tags:
 - articles
 - writing

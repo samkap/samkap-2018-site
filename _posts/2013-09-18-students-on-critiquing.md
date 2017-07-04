@@ -1,13 +1,13 @@
 ---
-layout: post
 title: Students on Critiquing
-date: 2013-09-18
+date: 2013-09-18 00:00:00 Z
 tags:
 - rwd
 - writing
 - students
 - texas state
 - teaching
+layout: post
 ---
 
 Over two years ago, I wrote developed the new curriculum for my department's ARTC4308 course. Interactive II covers advanced topics in web design including web typography, Responsive Web Design, and an intro to CMSs, as well as introducing students to the professional practices involved with designing, coding, and presenting websites. To kick off the course, every semester, students read Cassie McDaniel’s article [Design Criticism and the Creative Process][1] as the first reading/response assignment. This fall semester is no different. Last week, I assigned it, as usual, and sent students on their way to a long Labor Day weekend. While I’m always impressed with the responses, I thought I would share some of the responses made by students this semester that really stood out.

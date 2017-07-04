@@ -1,7 +1,7 @@
 ---
-layout: about
-permalink: /about/
 title: About
+permalink: "/about/"
+layout: about
 ---
 
 <!-- Here's a [list of things I recommend or enjoy](/recommend.html). -->

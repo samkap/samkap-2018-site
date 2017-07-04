@@ -1,9 +1,11 @@
 ---
-layout: post
 title: Design.watch
-date: 2014-12-28
+date: 2014-12-28 00:00:00 Z
+categories:
+- clips
+layout: post
 desc: 
-Tags: 
+Tags:
 - video
 - inspiration
 - interesting
@@ -11,10 +13,7 @@ Tags:
 - process
 - typography
 - education
-
-category: clips
-
---- 
+---
 
 [Design.watch](http://designers.watch/) is a lovely list of inspiring documentaries for designers and artists that my friend [Greg](http://twitter.com/brilliantcrank) shared today. I shared my favorite three, that I found the most thought-provoking and must-sees for designers and design students.
 

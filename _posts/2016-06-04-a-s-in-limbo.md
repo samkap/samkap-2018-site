@@ -1,7 +1,8 @@
 ---
 title: Laugh at the confusion
-category: clips
-date: 2016-06-04
+date: 2016-06-04 00:00:00 Z
+categories:
+- clips
 layout: post
 ---
 

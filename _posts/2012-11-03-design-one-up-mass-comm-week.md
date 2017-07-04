@@ -1,12 +1,13 @@
 ---
-layout: post
 title: Design 1-Up, A Panel at Mass Comm Week
-Date: 2012-11-03
+date: 2012-11-03 00:00:00 Z
 tags:
 - video
 - speaking
 - texas-state
 - conference
+layout: post
+Date: 2012-11-03 00:00:00 Z
 ---
 
 I was recently invited by Professor Cindy Royal, from Texas State University's Department of Mass Communication and Journalism, to moderate a panel at Mass Communication Week. I invited two extremely talented and experienced friends to be a part of the panel, Anthony Armendariz and Courtney Buie.

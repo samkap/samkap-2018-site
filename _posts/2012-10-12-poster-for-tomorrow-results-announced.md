@@ -1,12 +1,14 @@
 ---
-layout: post
 title: PosterForTomorrow Results Announced
-date: October 12, 2012 at 06:00PM
-desc: After months of waiting, we got GREAT news regarding my poster class' submissions to PosterForTomorrow.
+date: 2012-10-12 18:00:00 Z
 tags:
 - awards
 - student-work
 - texas-state
+layout: post
+desc: After months of waiting, we got GREAT news regarding my poster class' submissions
+  to PosterForTomorrow.
 ---
+
 After waiting for months to hear results, we just found today that posters by my Summer 2012 Poster class students, Zachary Colquitt and Stephanie Triplett, were shortlisted by <a href="http://www.posterfortomorrow.org/en/gallery/competitions/gender-equality-now" target="_blank">PosterForTomorrow</a>. Their posters will exhibit in 24 countries all over the world to raise awareness for gender equality. Below is Zac's poster.
 <img src="{{site.url}}img/posts/zacposter.jpg" alt="Student's Poster that was shortlisted for the competition">

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Mad Marchness
-date: 2014-04-06
+date: 2014-04-06 00:00:00 Z
+tags:
+- podcasts,community,texas-state,austin,travel,music
+layout: post
 desc: The month where everything happens and I'm playing catch-up!
-tags: podcasts,community,texas-state,austin,travel,music
 ---
 
 As I suspected, March came and went. Since I moved to Texas six years ago, it has been this way, usually because of SXSW. This year was no different. I want to recap things quickly, so I have them recorded (for myself), and also to make myself feel a bit guilty that I haven't been writing.

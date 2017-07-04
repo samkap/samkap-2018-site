@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Ozark Country Blues
-tags: music,share
-date: 2014-05-27
+date: 2014-05-27 00:00:00 Z
+tags:
+- music,share
+layout: post
 desc: One of my favorite songs and music videos
 ---
 

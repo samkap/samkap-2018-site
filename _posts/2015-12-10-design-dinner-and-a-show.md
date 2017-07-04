@@ -1,18 +1,14 @@
 ---
-layout: post
 title: You've got this!
-date: 2015-12-10
-
-
-Tags: 
+date: 2015-12-10 00:00:00 Z
+layout: post
+Tags:
 - articles
 - writing
 - music
 - process
 - design
-
-
---- 
+---
 
 *This piece was originally written and published for [The Pastry Box Project](https://the-pastry-box-project.net/sameera-kapila/2015-december-10)*
 

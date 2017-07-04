@@ -1,7 +1,7 @@
 ---
 title: Blog
+permalink: "/blog/"
 layout: page
-permalink: /blog/
 ---
 
 <p>

@@ -1,17 +1,17 @@
 ---
-layout: post
 title: NBSP returns live with Micah Godbolt
-date: 2015-02-24
-desc:
-Tags: 
+date: 2015-02-24 00:00:00 Z
+layout: post
+desc: 
+Tags:
 - podcasts
 - austin
 - Sketchnotes
 - design
 - process
 - education
-
 ---
+
 Good news, y’all! [NBSP](http://goodstuff.fm/nbsp) is back on GoodStuff.fm and recording live using Google Hangouts Air with Youtube.
 
 This past Friday, [Chris](http://www.twitter.com/teleject) and I went live with [Micah Godbolt](https://twitter.com/micahgodbolt). We spoke about Sass and Front End Architecture, and it a lot of what FE Architect is about blew my mind.

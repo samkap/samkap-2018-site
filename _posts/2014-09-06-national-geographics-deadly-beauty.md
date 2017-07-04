@@ -1,11 +1,11 @@
 ---
-layout: post
 title: National Geographic's Deadly Beauty
-date: 2014-09-06
+date: 2014-09-06 00:00:00 Z
 tags:
 - photography
 - inspiration
 - florida
+layout: post
 ---
 
 <img src="http://news.nationalgeographic.com/news/features/2014/08/140821-portuguese-man-of-war-animal-ocean-science-pictures/assets/img/10.jpg"><cite><small>Photograph by Aaron Ansarov for [National Geographic](http://news.nationalgeographic.com/news/features/2014/08/140821-portuguese-man-of-war-animal-ocean-science-pictures/assets/img/10.jpg).</small></cite>

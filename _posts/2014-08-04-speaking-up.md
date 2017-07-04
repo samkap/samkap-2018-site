@@ -1,13 +1,13 @@
 ---
-layout: post
 title: Speaking Up
+date: 2014-08-04 00:00:00 Z
 tags:
 - conference
 - speaking
 - articles
 - writing
 - education
-date: 2014-08-04
+layout: post
 ---
 
 When I was asked to be a keynote speaker at [ConvergeSE](http://www.convergese.com)—a conference that brings together designers, developers, musicians, and other makers for a few days of merging ideas—I instantly said “yes”. I had already fallen in love with the conference series, after attending [ConvergeFL](http://www.convergefl.com) in Jacksonville the year prior. I learned more than I could imagine at the event, and met friends in the web industry that I will forever hold dear to my heart. Talk ideas started to ruminate in my head.

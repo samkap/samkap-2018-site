@@ -1,21 +1,19 @@
 ---
-layout: post
 title: Design, Dinner, and A Show
-date: 2015-08-14
-desc: Whenever I worked on design projects, I always used to get stuck. I’d become nervous, vulnerable, and incapable, questioning the project, comparing my work to others, and beating myself up. I’d do what a lot of fresh out of school designers would do, which was something that we were taught. In art school, I remember
-
-
-
-Tags: 
+date: 2015-08-14 00:00:00 Z
+layout: post
+desc: Whenever I worked on design projects, I always used to get stuck. I’d become
+  nervous, vulnerable, and incapable, questioning the project, comparing my work to
+  others, and beating myself up. I’d do what a lot of fresh out of school designers
+  would do, which was something that we were taught. In art school, I remember
+Tags:
 - articles
 - writing
 - music
 - process
 - design
 - food
-
-
---- 
+---
 
 *This piece was originally written and published for [The Pastry Box Project](https://the-pastry-box-project.net/sameera-kapila/2015-august-14)*
 

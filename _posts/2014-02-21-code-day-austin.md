@@ -1,14 +1,15 @@
 ---
-layout: post
 title: Code Day Austin
-date: 2014-02-21
-desc: I had the privilege of judging Code Day Austin, a weekend hackathon for middle and high school students in Austin, Texas.
+date: 2014-02-21 00:00:00 Z
 tags:
 - community
 - hackathon
 - productivity
-
+layout: post
+desc: I had the privilege of judging Code Day Austin, a weekend hackathon for middle
+  and high school students in Austin, Texas.
 ---
+
 <img src="http://samkapila.com/img/posts/codedayaustin.jpg" alt="awards at codeday">
 
 This past weekend I stopped [Code Day Austin](http://feb.2014.austin.codeday.org/) at HubAustin. My friend and bro-host, [Andy](http://www.twitter.com/alwaysunday) joined two other Austin folks to judge the work that about 20 middle and high school students created on over the weekend.

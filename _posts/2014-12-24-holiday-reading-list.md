@@ -1,10 +1,9 @@
 ---
-layout: post
 title: Holiday Reading List
-
-date: 2014-12-24
+date: 2014-12-24 00:00:00 Z
+layout: post
 desc: 
-Tags: 
+Tags:
 - books
 - travel
 - austin
@@ -13,9 +12,7 @@ Tags:
 - education
 - florida
 - productivity
-
-
---- 
+---
 
 I just returned to Austin, TX after three months of working in Greenville, South Carolina at my awesome job at [The Iron Yard](http://www.theironyard.com) as a Web Design Instructor (more on this later!). During my brief time in SC, I’ve read in the green, green grass next to gushing waterfalls and pleasant rivers, gone on conference talk and day long vacation trips to Austin, the border where the Carolinas meet, Charleston and Columbia, SC, Louisville, KY, Memphis, TN, Atlanta, GA,  Jacksonville, FL, and New Orleans, LA. I’ve seen parts of the country I’ve never seen before and been in airports I *actually* wish I had more time in (I’m looking at you, Detroit Metro). And in this time on (airport terminal) trains, planes, and automobiles, I read and listened to quite a few awesome books. I’ve knocked out 2.5 books in the last 5 days and they’ve all been amazing.
 

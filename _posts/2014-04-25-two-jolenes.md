@@ -1,10 +1,12 @@
 ---
-layout: post
 title: Two Jolenes
-date: 2014-04-25
+date: 2014-04-25 00:00:00 Z
+categories:
+- clips
+tags:
+- music,video
+layout: post
 desc: The various versions of a song I’ve had stuck in my head all week
-tags: music,video
-category: clips
 ---
 
 Earlier this week, Austin-based designer [Reagan Ray](https://twitter.com/raygunray/status/458647623784611841) shared a video of Dolly Parton’s “Jolene”at 33rpm. I’ve been listening to it since. It’s slow, sad, and lovely.

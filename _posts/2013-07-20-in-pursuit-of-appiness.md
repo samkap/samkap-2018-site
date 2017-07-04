@@ -1,16 +1,18 @@
 ---
-layout: post
 title: In the Pursuit of Appiness
-date: 2013-07-20 16:02
-desc: For a long time I've been struggling with finding a good workflow with apps, until now. Here's my list of mobile and desktop applications that have lead me to pure happiness through productivity.
+date: 2013-07-20 16:02:00 Z
 tags:
 - productivity
 - articles
 - writing
 - process
 - coffee
-
+layout: post
+desc: For a long time I've been struggling with finding a good workflow with apps,
+  until now. Here's my list of mobile and desktop applications that have lead me to
+  pure happiness through productivity.
 ---
+
 For some reason, this morning I decided to wake up an hour before my alarm clock went off, make a cup of coffee, and read some of my "read later" bookmarks. This was an attempt to start my morning on a calm note, rather than my super efficient, _Im-Going-To-Be-Late-But-I-Still-Need-Coffee-First_ routine. The coffee was new ([Cuvee's Kumurembe][1]) and, as the cats huddled around me, I read a post about happiness on [Medium][2]. [Erin Frey][3], a community director for [LiftApp][4], wrote about [10 Habits of Happiness][5]. Not only was this an enjoyable post, it also inspired me to write about what apps or services improve my life. I should preface this list, by saying that I use [Google Chrome][6] more than any other browser installed on my computer or phone, both Apple devices. So, while it seems that many are only supported by Google Chrome, most of these have separate apps or services available. Now that that's out of the way, here's a list or two:
 ### Apps I Always Need
 *  **[Silverbird][7]** : A Google Chrome Extension for Twitter notifications. It's nice to log out of the Twitter site and ignore/stop checking the timeline every 15 minutes.

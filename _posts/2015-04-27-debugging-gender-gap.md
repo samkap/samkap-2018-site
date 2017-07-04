@@ -1,18 +1,17 @@
 ---
-layout: post
 title: Debugging the Gender Gap [video]
-date: 2015-04-27
-desc:
+date: 2015-04-27 00:00:00 Z
+categories:
+- clips
+layout: post
+desc: 
 Tags:
 - gender
 - video
 - design
 - tech
 - education
-category: clips
-
 ---
-
 
 Debudding the Gender Gap
 

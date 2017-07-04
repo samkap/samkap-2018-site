@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Sketchnotes with Margot Bloomstein on NBSP
-date: 2015-03-04
-desc:
+date: 2015-03-04 00:00:00 Z
+layout: post
+desc: 
 ---
+
 Check out [audio](http://goodstuff.fm/nbsp) and sketchnotes (below) from an NBSP chat with content strategist, Margot Bloomstein!
 ![Margotsketchnotes]({{base.url}}/img/posts/margotsketches.jpg)
 

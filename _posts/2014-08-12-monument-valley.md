@@ -1,13 +1,12 @@
 ---
-layout: post
 title: Monument Valley
-date: 2014-08-12
+date: 2014-08-12 00:00:00 Z
 tags:
 - gaming
 - design
 - music
-desc:
-
+layout: post
+desc: 
 ---
 
 [Monument Valley](http://www.monumentvalleygame.com/) is easily one of the best games<sup>1</sup> I’ve ever played. Every part of the game is perfection, and every detail is delightful and soothing. Even more, the Monument Valley Soundtrack (below) is absolutely stunning. It’s been out on iTunes for a while, but was just added today on <strike>Rdio,</strike> Spotify, and others according to [Jason Kottke](http://kottke.org/14/08/monument-valley-soundtrack).

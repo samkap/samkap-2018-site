@@ -1,10 +1,10 @@
 ---
 title: The more I play. The more I feel my hum.
-category: clips
-date: 2016-06-04
+date: 2016-06-04 00:00:00 Z
+categories:
+- clips
 layout: post
 crosspost_to_medium: true
-
 ---
 
 From Ted.com:

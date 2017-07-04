@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Web Design at TIY Austin Week 1
-date: 2015-02-03
-desc: The Web Design class started last week in Austin, and it was really exciting to get the class going here.  We moved into our second space at
+date: 2015-02-03 00:00:00 Z
+layout: post
+desc: The Web Design class started last week in Austin, and it was really exciting
+  to get the class going here.  We moved into our second space at
 Tags:
 - design
 - austin

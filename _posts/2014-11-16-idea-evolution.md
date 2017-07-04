@@ -1,15 +1,16 @@
 ---
-layout: post
 title: Idea Evolution
-date: 2014-11-16
-Tags: 
+date: 2014-11-16 00:00:00 Z
+categories:
+- clips
+layout: post
+Tags:
 - inspiration
 - interesting
 - share
 - design
 - process
 - productivity
-category: clips
 ---
 
 Just read a quote by Jason Santa Maria in his recent [Pastry Box Project post](https://the-pastry-box-project.net/jason-santa-maria/2014-november-15) that I thought I’d share.

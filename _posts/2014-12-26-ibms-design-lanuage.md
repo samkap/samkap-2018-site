@@ -1,16 +1,14 @@
 ---
-layout: post
 title: IBM’s Design Language
-date: 2014-12-26
-desc:
+date: 2014-12-26 00:00:00 Z
+layout: post
+desc: 
 Tags:
 - austin
 - design
 - student-work
 - teaching
 - process
-
-
 ---
 
 Austin’s [IBM Design](http://www.ibm.com/design) is doing some pretty cool stuff. I got a chance to visit their office in north Austin in August and got to see my former design students Miles Anderson and Austin Auth in their gorgeous and exciting workspace.
