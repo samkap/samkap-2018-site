@@ -1,11 +1,10 @@
 ---
-title: Photo of pierogi
+title: Austin Cooking Classes - Freda's
 date: 2017-03-04 10:53:00 Z
 categories:
 - clips
-layout: post
 crosspost_to_medium: false
+layout: post
 ---
 
-Photo of pierogi
-from: http://ift.tt/2mQWGbe
+[Freda's](http://ift.tt/2mQWGbe)
