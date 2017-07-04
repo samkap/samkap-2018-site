@@ -3,9 +3,12 @@ title: Writing
 layout: page
 ---
 
-<p>
-Shorter notes, links, and thoughts. This is where I collect, where I organize, and where I think.
-</p>
+---
+title: Writing
+layout: page
+---
+Articles, thoughts, and long-form.
+
   {% for post in site.posts %}
 
 
