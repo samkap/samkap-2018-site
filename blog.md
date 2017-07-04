@@ -18,5 +18,5 @@ layout: page
 
    {% unless post.categories == 'clips' %}
     <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><small> • {{ post.date | date: site.date_format }}</small></p>
-         {% endif %}
+         {% endunless %}
   {% endfor %}
