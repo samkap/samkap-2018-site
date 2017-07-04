@@ -3,6 +3,7 @@ title: Writing
 permalink: "/blog/"
 layout: page
 ---
+
 <p>
 Articles, thoughts, and long-form.
 </p>
