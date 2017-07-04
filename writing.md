@@ -1,5 +1,6 @@
 ---
 title: Writing
+permalink: writing
 Key: 
 layout: page
 ---
