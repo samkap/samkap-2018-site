@@ -8,9 +8,6 @@ layout: page
 Articles, thoughts, and long-form.
 
   {% for post in site.posts %}
-
-
-
     {% unless post.next %}
       <h3>{{ post.date | date: '%Y' }}</h3>
     {% else %}
@@ -22,5 +19,5 @@ Articles, thoughts, and long-form.
     {% endunless %}
 gkffghfhf
     <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><small> • {{ post.date | date: site.date_format }}</small></p>
-         {% endif %}
+   
   {% endfor %}
