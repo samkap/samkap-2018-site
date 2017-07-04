@@ -22,7 +22,7 @@ Articles, thoughts, and long-form.
         <h3>{{ post.date | date: '%Y' }}</h3>
       {% endif %}
     {% endunless %}
-
+gkffghfhf
     <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><small> • {{ post.date | date: site.date_format }}</small></p>
          {% endif %}
   {% endfor %}
