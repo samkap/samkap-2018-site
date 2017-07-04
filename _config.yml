@@ -9,15 +9,14 @@ collections:
     title: Uploads
     output: true
 email: your-email@domain.com
-description: 'Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-
-'
+description: Sam Kapila is a design and educator in Austin, TX. Sam writes and speaks
+  about Responsive Web Design, design strategy, and research, and diversity and inclusion
+  in tech. She is the Director of Academic Operations and Diversity at The Iron Yard,
+  and taught at Texas State University for six years before that.
 baseurl: 
 url: 
-twitter_username: jekyllrb
-github_username: jekyll
+twitter_username: samkap
+github_username: samkap
 paginate: 3
 markdown: kramdown
 theme: minima
