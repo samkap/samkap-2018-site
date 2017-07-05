@@ -9,4 +9,5 @@ layout: default
  <a href="{{ post.url | prepend: site.baseurl }}"><h2>{{ post.title }}</h2></a>
  <p>{{ post.content | truncatewords:30 | strip_html }}&nbsp;<a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> {{ site.var_read }}  →</a>
  </p>
+ </article>
  {% endfor %}
