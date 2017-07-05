@@ -4,20 +4,13 @@ permalink: "/about/"
 layout: about
 ---
 
-<!-- Here's a [list of things I recommend or enjoy](/recommend.html). -->
+---
+### Status Update
+Currently Eating: Tikka veggies and rice from Clay Pit 
 
+Currently Reading: Hidden Figures
 ---
 
-<h3>Status Update</h3>
-
-
-
-<div class="inline-container"><p class="inline">Currently Eating: Tikka veggies and rice from Clay Pit </p>
-</div>
-<div class="inline-container">
-<p class="inline">Currently Reading: Hidden Figures</p>
-</div>
----
 
 I speak and write about design and design education. Here’s some of that:
 
