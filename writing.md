@@ -6,19 +6,15 @@ layout: page
 ---
 
 Articles, thoughts, and long-form.
- 
-  // looping trough all posts
-    {% for post in site.posts limit: 1 %}
 
-    // if the category we want to exclude matches
-        {% if post.category == "clips" %}
-        // we do nothing
-        {% else if %}
-        <article>
-        <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-        </article>
-        {% endif %}  
-    {% endfor %}
+{% for post in site.posts limit: 1 %}
+ {% if post.category == "clips" %}
+ {% else if %}
+<article>
+<p><a href="{{ post.url }}">{{ post.title }}</a></p>
+</article>
+ {% endif %}  
+ {% endfor %}
 
 {% for post in site.posts %}
  {% unless post.next %}<h3>{{ post.date | date: '%Y' }}</h3>
