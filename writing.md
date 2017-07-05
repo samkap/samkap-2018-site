@@ -2,7 +2,7 @@
 title: Writing
 permalink: "/writing/"
 Key: 
-layout: default
+layout: home
 ---
 
 Articles, thoughts, and long-form.
