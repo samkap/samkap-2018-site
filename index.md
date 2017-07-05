@@ -20,21 +20,10 @@ I’m the Director of Academic Operations and Diversity at [The Iron Yard](http:
 {% else %}
   {% assign read-time = minutes | append: "&nbsp;" | append: site.var_min_read %}
 {% endif %}
-
-  <article>
-    <span class="meta">
-
-      {{ post.date | date: site.date_format }}</span>
-  	<a href="{{ post.url | prepend: site.baseurl }}"><h1>{{ post.title }}</h1></a>
-      <p>
-<!--       {% if post.summary %}
-        {{ post.summary }}&nbsp;<a class="read-more" href="{{ post.url | prepend: site.baseurl }}">{{ site.var_read }}  →</a>
-      {% else %} -->
-        {{ post.content | truncatewords:30 | strip_html }}&nbsp;<a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> {{ site.var_read }}  →</a>
-      <!-- {% endif %} -->
-      </p>
-
-  </article>
+<article><span class="meta">{{ post.date | date: site.date_format }}</span>
+<a href="{{ post.url | prepend: site.baseurl }}"><h1>{{ post.title }}</h1></a>
+<p>{{ post.content | truncatewords:30 | strip_html }}&nbsp;<a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> {{ site.var_read }}  →</a></p>
+</article>
 {% endfor %}
 </div>
 </div>
@@ -43,13 +32,7 @@ I’m the Director of Academic Operations and Diversity at [The Iron Yard](http:
 <div class="recent">
 <h3> Recent </h3>
 <div class="recent-posts">
-   {% for post in site.posts limit: 3 %}
- 
-<article>
- <span class="meta">{{ post.date | date: site.date_format }}</span>
- <a href="{{ post.url | prepend: site.baseurl }}"><h2>{{ post.title }}</h2></a>
- <p>{{ post.content | truncatewords:30 | strip_html }}&nbsp;<a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> {{ site.var_read }}  →</a>
- </p>
-</article>
-    {% endfor %}
+{% for post in site.posts limit: 3 %}
+<article><span class="meta">{{ post.date | date: site.date_format }}</span><a href="{{ post.url | prepend: site.baseurl }}"><h2>{{ post.title }}</h2></a><p>{{ post.content | truncatewords:30 | strip_html }}&nbsp;<a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> {{ site.var_read }} →</a></p></article>
+{% endfor %}
 </div>
