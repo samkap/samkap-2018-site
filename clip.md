@@ -6,12 +6,10 @@ layout: page
 
 <p>
 Shorter notes, links, and thoughts. This is where I collect, where I organize, and where I think.
-</p>
+</p> test
+
   {% for post in site.posts %}
-
-
-
-    {% unless post.next %}
+{% unless post.next %}
       <h3>{{ post.date | date: '%Y' }}</h3>
     {% else %}
       {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
