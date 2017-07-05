@@ -9,6 +9,7 @@ layout: about
 ### Status Update
 
 Currently Eating: Polenta & tri-color pepper sauce
+
 Currently Reading: The Open Org
 
 ---
