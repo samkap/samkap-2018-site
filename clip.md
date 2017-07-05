@@ -1,5 +1,6 @@
 ---
 title: Clips
+permalink: "/clips/"
 layout: page
 ---
 
