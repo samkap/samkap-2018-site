@@ -10,6 +10,8 @@ I’m the Director of Academic Operations and Diversity at [The Iron Yard](http:
 </div><div class="recent">
 {% for post in site.posts limit: 3 %}
 <article>
-<p><a href="{{ post.url }}">{{ post.title }}</a> • <small>{{ post.date | date: site.date_format }}</small></p>
-</article>
+ <span class="meta">{{ post.date | date: site.date_format }}</span>
+ <a href="{{ post.url | prepend: site.baseurl }}"><h2>{{ post.title }}</h2></a>
+ <p>{{ post.content | truncatewords:30 | strip_html }}&nbsp;<a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> {{ site.var_read }}  →</a>
+ </p>
  {% endfor %}
