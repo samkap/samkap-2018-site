@@ -1,6 +1,6 @@
 ---
 title: Writing
-permalink: writing
+permalink: "/writing/"
 Key: 
 layout: default
 ---
