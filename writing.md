@@ -2,7 +2,7 @@
 title: Writing
 permalink: writing
 Key: 
-layout: page
+layout: default
 ---
 
 Articles, thoughts, and long-form.
