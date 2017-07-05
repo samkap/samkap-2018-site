@@ -15,7 +15,7 @@ Articles, thoughts, and long-form.
  {% if post.categories contains "clips" %}
  {% else if %}
 <article>
-<p><a href="{{ post.url }}">{{ post.title }}</a></p>
+<p><a href="{{ post.url }}">{{ post.title }}</a> • {{ post.date | date: site.date_format }}</p>
 </article>
  {% endif %}  
  {% endfor %}
