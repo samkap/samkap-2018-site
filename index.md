@@ -15,3 +15,17 @@ I’m the Director of Academic Operations and Diversity at [The Iron Yard](http:
 <article><span class="meta">{{ post.date | date: site.date_format }}</span><a href="{{ post.url | prepend: site.baseurl }}"><h2>{{ post.title }}</h2></a><p>{{ post.content | truncatewords:30 | strip_html }}&nbsp;<a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> {{ site.var_read }} →</a></p></article>
 {% endfor %}
 </div>
+
+
+{% for post in site.posts %}
+ {% unless post.next %}<h3>{{ post.date | date: '%Y' }}</h3>
+{% else %}{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}{% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+{% if year != nyear %}<h3>{{ post.date | date: '%Y' }}</h3>{% endif %}
+{% endunless %}
+ {% if post.categories contains "clips" %}
+ {% else if %}
+<article>
+<p><a href="{{ post.url }}">{{ post.title }}</a> • <small>{{ post.date | date: site.date_format }}</small></p>
+</article>
+ {% endif %}  
+ {% endfor %}
