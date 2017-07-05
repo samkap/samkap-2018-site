@@ -1,7 +1,7 @@
 ---
 title: Home
 home: true
-layout: page
+layout: home
 ---
 
 Hi! I’m Sam Kapila. I’m a designer and educator living in Austin, TX. I write and speak about Responsive Web Design, Diversity and Inclusion in Tech, and design research and process. 
