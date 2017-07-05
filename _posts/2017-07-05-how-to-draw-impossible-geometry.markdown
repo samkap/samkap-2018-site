@@ -3,6 +3,8 @@ title: How to draw impossible geometry
 date: 2017-07-05 03:18:00 -05:00
 categories:
 - clips
+tags:
+- gaming
 ---
 
 Monument Valley 2 is out and it's short, but lovely.
