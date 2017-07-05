@@ -7,7 +7,7 @@ layout: page
 
 Articles, thoughts, and long-form.
 
-{% for post in site.posts limit: 1 %}
+{% for post in site.posts %}
  {% if post.category == "clips" %}
  {% else if %}
 <article>
