@@ -9,7 +9,6 @@ Articles, thoughts, and long-form.
 
 {% for post in site.posts %}
  {% if post.categories == "clips" %}
-
  {% else if %}
 <article>
 <p><a href="{{ post.url }}">{{ post.title }}</a></p>
