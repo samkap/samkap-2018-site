@@ -4,9 +4,7 @@ permalink: "/clips/"
 layout: page
 ---
 
-<p>
 Shorter notes, links, and thoughts. This is where I collect, where I organize, and where I think.
-</p> test
 
 {% for post in site.posts %}
  {% unless post.next %}
