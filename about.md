@@ -7,9 +7,8 @@ layout: about
 ---
 ### Status Update
 
-Currently Eating: Tikka veggies and rice from Clay Pit 
-
-Currently Reading: Hidden Figures
+Currently Eating: Polenta & tri-color pepper sauce
+Currently Reading: The Open Org
 
 ---
 
