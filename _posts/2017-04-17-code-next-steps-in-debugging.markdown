@@ -4,6 +4,7 @@ date: 2017-04-17 23:42:00 -05:00
 published: false
 ---
 
+Originally posted on [The Iron Yard Blog](http://blog.theironyard.com/2017/04/17/code-next-steps-debugging/).
 Over the last few months, each Iron Yard campus held a movie screening for <a href="https://www.codedoc.co/"><span style="font-weight: 400;">CODE: Debugging the Gender Gap</span></a>for our students and communities. Released in 2016 with critical acclaim, the movie talks about three huge gaps in the tech industry—a gender gap, a race gap, and a pay gap—what causes them, and how to start working through them.
 
 ## Gender representation
