@@ -27,7 +27,7 @@ I speak and write about design and design education. Here’s some of that:
 <li><a href="https://creativemornings.com/talks/sam-kapila/" class="bold">ConvergeSE</a>, July 2017, Austin, TX, “Equality”</li>
 <li><a href="http://www.convergese.com" class="bold">ConvergeSE</a>, June 2017, Columbia,
  SC, “Using Design to improve Diversity & Inclusion”</li>
-<li>SXSW (HBCU Panel), March 2017, Austin, TX, “Announcing The #YesWeCode Fund”</li>
+<li><span class="bold">SXSW Interactive</span> (HBCU Panel), March 2017, Austin, TX, “Announcing The #YesWeCode Fund”</li>
 <li><a href="http://www.designcontentconf.com/" class="bold">Design/Content</a>, July 2016, Vancover, BC, Canada, Speaker, “Design Responsive Systems”</li>
 <li><a href="http://www.frontenddesignconference.com/" class="bold">Front End Design Conference</a>, June 2016, St Pete, Florida</li>
 <li><a class="bold" href="https://www.eventbrite.com/e/refresh-columbia-november-2014-registration-14328658403">Refresh Columbia</a>, Nov 2014, Speaker, “Design Research”</li>
