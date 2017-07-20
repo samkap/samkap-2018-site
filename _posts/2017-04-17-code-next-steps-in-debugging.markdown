@@ -4,9 +4,9 @@ date: 2017-04-17 23:42:00 -05:00
 published: false
 ---
 
-<span style="font-weight: 400;">Over the last few months, each Iron Yard campus held a movie screening for </span><a href="https://www.codedoc.co/"><span style="font-weight: 400;">CODE: Debugging the Gender Gap</span></a><span style="font-weight: 400;"> for our students and communities. Released in 2016 with critical acclaim, the movie talks about three huge gaps in the tech industry—a gender gap, a race gap, and a pay gap—what causes them, and how to start working through them.</span><!--more-->
+Over the last few months, each Iron Yard campus held a movie screening for <a href="https://www.codedoc.co/"><span style="font-weight: 400;">CODE: Debugging the Gender Gap</span></a>for our students and communities. Released in 2016 with critical acclaim, the movie talks about three huge gaps in the tech industry—a gender gap, a race gap, and a pay gap—what causes them, and how to start working through them.
 
-<b>Gender representation</b>
+## Gender representation
 
 <span style="font-weight: 400;">The first programmers were female. Women such as </span><a href="http://www.biography.com/people/ada-lovelace-20825323"><span style="font-weight: 400;">Ada Lovelace</span></a><span style="font-weight: 400;">, </span><a href="http://www.space.com/34851-margaret-hamilton-biography.html"><span style="font-weight: 400;">Margaret Hamilton</span></a><span style="font-weight: 400;"> and </span><a href="http://www.biography.com/people/grace-hopper-21406809"><span style="font-weight: 400;">Grace Hopper</span></a> <span style="font-weight: 400;">were</span><span style="font-weight: 400;"> all featured in the film. Some of our classrooms across Iron Yard campuses are named after them. These women were some of the first pioneers—not only the “firsts" in their field—but also the “</span><b>she</b><span style="font-weight: 400;">ros” of people with similar backgrounds like </span><a href="https://www.jsc.nasa.gov/Bios/htmlbios/chawla.html"><span style="font-weight: 400;">Kalpana Chawla</span></a><span style="font-weight: 400;"> and </span><a href="https://www.nasa.gov/content/katherine-johnson-biography"><span style="font-weight: 400;">Katherine Johnson</span></a><span style="font-weight: 400;">. </span>
 
@@ -14,7 +14,7 @@ published: false
 
 <span style="font-weight: 400;">The more women and people of color we see represented in tech and developer roles on TV, but also in real life, the more we can change toxic stereotypes that currently exist with being a developer and person in the tech industry.</span>
 
-<b>The meritocracy vs. access problem</b>
+## The meritocracy vs. access problem
 
 <span style="font-weight: 400;">In the movie, </span><a href="https://twitter.com/triketora"><span style="font-weight: 400;">Tracy Chou</span></a><span style="font-weight: 400;">, the former senior engineer for Pinterest spoke about the issue with the current state of making jobs available for all backgrounds. With a meritocracy system, the best developers would presumably get the best jobs because they meet the qualifications. And for a lot of the tech industry, this makes sense as an end goal. </span>
 
@@ -22,7 +22,7 @@ published: false
 
 <span style="font-weight: 400;">Exposure to those people who do represent a more diverse population is also a big part of this. Exposure to opportunities, to education, funding, problem-solving skills, etc. all are critical too. We cannot fully say the tech industry can be a merit-based industry until we level the playing field and increase exposure to opportunity for all, not just those already exposed.</span>
 
-<b>Mentorship stages</b>
+## Mentorship stages
 
 <span style="font-weight: 400;">According to various women in the movie, and a reality of our industry, mentorship needs to improve in various stages of the working world. From education (access to technology, access to funding education, and access to soft skills training) to the workplace (hiring, recruiting, and retention), there isn’t enough mentorship and support. </span>
 
