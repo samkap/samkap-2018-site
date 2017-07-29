@@ -1,6 +1,12 @@
 ---
 title: Creative Morning's Equality Sketches
 date: 2017-07-29 12:02:00 -05:00
+tags:
+- conference
+- talks
+- sketch
+- austin
+- community
 ---
 
 Last Friday, I spoke at \[Creative Mornings\] in Austin about their monthly, global theme, "equality". Here are some AWESOME sketches from the talk, by artist, [Ami Plasse](http://amidrawstx.tumblr.com/post/163541590683/creativemorningsaustin-72117-on-the-topic-of).
