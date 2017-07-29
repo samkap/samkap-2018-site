@@ -1,6 +1,6 @@
 ---
 title: Creative Morning’s Equality Sketches
-date: 2017-07-29 12:02:00 -05:00
+date: 2017-07-28 23:02:00 -05:00
 tags:
 - conference
 - talks
