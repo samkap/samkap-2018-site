@@ -1,7 +1,7 @@
 ---
 title: Posts
 permalink: "/posts/"
-Key:
+Key: 
 layout: page
 ---
 

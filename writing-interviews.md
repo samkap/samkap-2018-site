@@ -1,6 +1,6 @@
 ---
 title: Writing & Interviews
-permalink: /writing-interviews/
+permalink: "/writing-interviews/"
 layout: default
 ---
 

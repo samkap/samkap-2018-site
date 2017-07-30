@@ -1,6 +1,6 @@
 ---
 title: Speaking
-layout:  default
+layout: default
 ---
 
 ## Speaking

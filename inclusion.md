@@ -1,7 +1,7 @@
 ---
 title: Equity & Inclusion
 permalink: "/inclusion/"
-Key:
+Key: 
 layout: page
 ---
 
