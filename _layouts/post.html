@@ -1,15 +1,9 @@
 ---
 layout: default
+comments: true
 ---
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script src="{{ site.baseurl }}/js/fitvids.js"></script>
-<script>
-  $(document).ready(function() {
-    // Target your .container, .wrapper, .post, etc.
-    $("article").fitVids();
-  });
-</script>
+
 
 
 {% assign minutes = content | number_of_words | divided_by: 180 %} {% if minutes == 0 %} {% assign read-time = site.var_less_than_a_minute_read %} {% else %} {% assign read-time = minutes | append: "&nbsp;" | append: site.var_min_read %} {% endif %}
@@ -23,6 +17,16 @@ layout: default
 {{ tag | append: "&nbsp;" }}
 {% endfor %}</em></small>
 </article>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="{{ site.baseurl }}/js/fitvids.js"></script>
+<script>
+  $(document).ready(function() {
+    // Target your .container, .wrapper, .post, etc.
+    $("article").fitVids();
+  });
+</script>
+
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
