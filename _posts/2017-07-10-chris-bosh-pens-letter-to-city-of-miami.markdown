@@ -1,8 +1,11 @@
 ---
 title: Chris Bosh pens letter to city of Miami
 date: 2017-07-10 17:58:00 -05:00
+categories:
+- clips
 tags:
 - sports
+- code
 ---
 
 Heat Player Chris Bosh writes [letter to city of Miami / Heat fans](http://www.chrisbosh.com/a-letter-to-miami/). I'm gonna miss this guy.
