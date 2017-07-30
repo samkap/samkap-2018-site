@@ -4,7 +4,7 @@ permalink: "/clips/"
 layout: page
 ---
 
-Shorter notes, links, and thoughts. This is where I collect, where I organize, and where I think.
+## Shorter notes, links, and thoughts. This is where I collect, where I organize, and where I think.
 
 {% for post in site.posts %}
  {% unless post.next %}<h3>{{ post.date | date: '%Y' }}</h3>

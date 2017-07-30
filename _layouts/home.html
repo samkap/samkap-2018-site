@@ -1,13 +1,26 @@
 ---
 layout: default
 ---
-
+<div class="recent">
+  {% for post in site.posts limit: 4 %}
+  <article>
+   <span class="meta">{{ post.date | date: site.date_format }}</span>
+   <a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
+   <p>{{ post.content | truncatewords:30 | strip_html }}&nbsp;
+     <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">→</a>
+   </p>
+   </article>
+    {% endfor %}
+ </div>
+</main>
+ <div class="about-me">
+   <div class="intro">
 {{ content }}
-</div><div class="recent">{% for post in site.posts limit: 3 %}
-<article>
- <span class="meta">{{ post.date | date: site.date_format }}</span>
- <a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
- <p>{{ post.content | truncatewords:30 | strip_html }}&nbsp;<a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> {{ site.var_read }}  →</a>
- </p>
- </article>
- {% endfor %}
+</div>
+
+<figure>
+<img src="../img/samkap.jpg" alt="Sam">
+<figcaption>Photo by Wesley Werhoeve, for <a href="http://www.oneofmany.co">One of Many</a></figcaption>
+</figure>
+
+</div>

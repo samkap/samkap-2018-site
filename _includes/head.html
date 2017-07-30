@@ -19,25 +19,13 @@
 <!-- og tags -->
 <meta property="og:site_name" content="{{ site.name }}">
 <meta property="og:title" content="{% if page.title %}{{ page.title }} • {{ site.name }}{% else %}{{ site.name }}{% endif %}">
-<meta property="og:locale" content="{{ site.lang }}">
-{% if page.og-image %}
-  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/{{ page.og-image }}">
-{% else %}
-  {% if page.cover-image %}
-    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/{{ page.cover-image }}">
-  {% else %}
-    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/og-image.jpg">
-  {% endif %}
-{% endif %}
+<meta property="og:locale" content="{{ site.lang }}"> {% if page.og-image %}
+<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/{{ page.og-image }}"> {% else %} {% if page.cover-image %}
+<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/{{ page.cover-image }}"> {% else %}
+<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/og-image.jpg"> {% endif %} {% endif %}
 <meta property="og:type" content="website">
 <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
 <meta property="og:description" content="{{ site.description }}">
-<!-- /og tags -->
-<!-- <link rel="stylesheet" href="{{ site.baseurl }}/css/reset.css"> -->
-<!-- <link rel="stylesheet" href="{{ site.baseurl }}/css/pygments.css"> -->
-<!-- {% if site.display-social-icons %}
-<link rel="stylesheet" href="{{ site.baseurl }}/css/font-awesome.css">
-{% endif %} -->
 <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
 <!--[if gte IE 9]>
   <style type="text/css">
@@ -47,27 +35,10 @@
   </style>
 <![endif]-->
 <script src="https://use.typekit.net/ibi2nzd.js"></script>
-<script>try{Typekit.load({ async: true });}catch(e){}</script>
-<!-- <script type="text/javascript" src="//fast.fonts.net/jsapi/649239c9-6f42-43dd-be74-79bf6adbf021.js"></script> -->
-<!--
-{% if page.home != true or site.show-subtitle == false and site.display-social-icons == false %}
-<style>
-header {
-  margin-bottom: 40px;
-}
-@media all and (min-width: 500px) {
-  header {
-    margin-bottom: 100px;
-  }
-}
-header::after {
-  display: none;
-}
-</style>
-{% endif %}
- -->
-<!--
- <div class="floral">
-   hi
- </div>
- <section role="main" class="main"> -->
+<script>
+  try {
+    Typekit.load({
+      async: true
+    });
+  } catch (e) {}
+</script>

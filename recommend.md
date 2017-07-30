@@ -1,24 +1,33 @@
 ---
 title: Recommendations
+permalink: "/recommendations/"
 layout: page
 ---
 
-## Travel
+## Recommendations
 
-## Spices
+I share recommendations a lot, so here they are all in one place!
+
+### Travel
+
+
+### Spices
 * Turmeric
 * Coriander
 * Cumin
 * Garam Masala
-* 
 
-## Blogs
 
-## Books
+### Blogs
 
-## Newsletters
+### Books
 
-## Podcasts
+### Newsletters
+
+### Podcasts
+
+### Not Design-related
+
 
 ### Web Design and Dev
 * [The Responsive Web Design Podcast](http://responsivewebdesign.com/podcast/)

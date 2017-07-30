@@ -54,3 +54,15 @@ layout: default
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 {% endif %}
+
+<script>
+  $("article").fitVids();
+  $('article p').each(function(i) {
+    if (($(this).find('img').length) && (!$.trim($(this).text()).length)) {
+      $(this).addClass('img-only');
+    }
+    if ($.trim($(this).text()).length - $.trim($(this).find('small').text()).length == 0 && ($(this).find('img').length)) {
+      $(this).addClass('img-only-source');
+    }
+  });
+</script>
