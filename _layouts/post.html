@@ -20,7 +20,7 @@ layout: default
   {{ content }}
   <br>
   <small><em>tags: {% for tag in page.tags %}
-{{ tag }}
+{{ tag | append: "&nbsp;" }}
 {% endfor %}</em></small>
 </article>
 
