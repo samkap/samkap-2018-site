@@ -3,9 +3,6 @@ layout: default
 comments: true
 ---
 
-
-
-
 {% assign minutes = content | number_of_words | divided_by: 180 %} {% if minutes == 0 %} {% assign read-time = site.var_less_than_a_minute_read %} {% else %} {% assign read-time = minutes | append: "&nbsp;" | append: site.var_min_read %} {% endif %}
 
 <article class="posts">
