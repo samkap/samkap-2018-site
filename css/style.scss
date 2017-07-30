@@ -483,6 +483,9 @@ footer .inner {
   .wrap {
     Flex-basis: 80%;
     Order: 1;
+    main > article {
+      padding-top: 2em;
+    }
   }
 
   header {
