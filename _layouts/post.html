@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="{{ site.baseurl }}/js/fitvids.js"></script>
 
 {% assign minutes = content | number_of_words | divided_by: 180 %}
 {% if minutes == 0 %}
@@ -56,13 +58,8 @@ layout: default
 {% endif %}
 
 <script>
-  $("article").fitVids();
-  $('article p').each(function(i) {
-    if (($(this).find('img').length) && (!$.trim($(this).text()).length)) {
-      $(this).addClass('img-only');
-    }
-    if ($.trim($(this).text()).length - $.trim($(this).find('small').text()).length == 0 && ($(this).find('img').length)) {
-      $(this).addClass('img-only-source');
-    }
+  $(document).ready(function(){
+    // Target your .container, .wrapper, .post, etc.
+    $(article).fitVids();
   });
 </script>
