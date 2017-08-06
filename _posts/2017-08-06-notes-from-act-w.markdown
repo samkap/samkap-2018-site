@@ -87,3 +87,13 @@ Speaker: Dee Kapila (my amazing sister)
 - grater flexibility and a fun, varied career
 - career insurance
 - you become in demand by the X-men
+
+> In order to succeed you have to adapt
+
+### Suggested Secondary mutations
+- you can learn a little bit of code - star with what you want to do and work backwards to determine a skill st you want to pursue
+- vertical and lateral skill spread, think of T-shaped people.
+- keep track of customer requests
+- accountability
+- don't undervalue 'soft' skills 
+ 
