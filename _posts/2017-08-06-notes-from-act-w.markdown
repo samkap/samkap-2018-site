@@ -57,11 +57,11 @@ Speaker: Evan Schmiedehaus
 > A good idea for mid-level managers is to post three good things that happened. Gratitude advances positive results. Do this in the morning, publicly.
 
 ### Purpose and Meaning in practice
-- Purpose and meaning - defined
+- Purpose and meaning, defined
 - affirm and reward pro-social efforts
 - build cross-departmental collaboration
-- altruism - help because you can
-- challenge transactional thinking- no quid pro quo
+- altruism: help because you can
+- challenge transactional thinking—no quid pro quo
 
 ### Positive Emotion
 - Positive primers increases resistance to negativity
@@ -95,10 +95,21 @@ Speaker: Dee Kapila (my amazing sister)
 - vertical and lateral skill spread, think of T-shaped people.
 - keep track of customer requests
 - accountability
-- don't undervalue 'soft' skills 
+- don't undervalue ‘soft’ skills 
  
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hiring Mgrs looking for T-shaped people: You have have lots of breadth across many topics while deep in one area <a href="https://twitter.com/deekapila">@deekapila</a> <a href="https://twitter.com/hashtag/ACTWATX?src=hash">#ACTWATX</a></p>&mdash; Claire Flanagan (@cflanagan) <a href="https://twitter.com/cflanagan/status/894246363998846976">August 6, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Skills
 - lynda, udacity, coursera, local meetups, orgs, tech book clubs, slack channels, create your own learning community at work, majority of people do not use their education allowance/benefit at work.
+
+### Dora Milaje
+- Dora Milaje, from _Black Panther_ : not just mentors or sponsors, but also *peers*
+- they don't have to be older than you
+- they don't have to be in your industry
+- should be a mutually beneficial relationship
+- stand up for each other, speak up in meetings
+- vent/safe space
+- share tips that helps, do retros on what didn’t
+- celebrate your Dora Milaje’s accomplishments!
+- help each other gain more visibility (at work, in the community, within each others’ network)
