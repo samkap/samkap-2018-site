@@ -56,3 +56,20 @@ Speaker: Evan Schmiedehaus
 
 > A good idea for mid-level managers is to post three good things that happened. Gratitude advances positive results. Do this in the morning, publicly.
 
+### Purpose and Meaning in practice
+- Purpose and meaning - defined
+- affirm and reward pro-social efforts
+- build cross-departmental collaboration
+- altruism - help because you can
+- challenge transactional thinking- no quid pro quo
+
+### Positive Emotion
+- Positive primers increases resistance to negativity
+- priming helps us connect to positive outcomes
+- primers help activate our memory
+- primers help achieve focus
+- how can we use positive primers in our relationships and on our teams?
+
+Contact info: 
+[growflourishlead.com](growflourishlead.com)
+[leadershipandreasoning.com](leadershipandreasoning.com)
