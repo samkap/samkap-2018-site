@@ -75,7 +75,8 @@ Contact info:
 [leadershipandreasoning.com](leadershipandreasoning.com)
 
 
-## DEEEEEEEEE
+## Everything I Learned About Navigating My Career,
+I Learned From Female Superheroes
 Speaker: Dee Kapila (my amazing sister)
 
 ### what do secondary mutations have to do with your career?
@@ -128,3 +129,6 @@ Speaker: Dee Kapila (my amazing sister)
 - [Crucial Conversations](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822) books
 
 > What would be better than that free lunch is if you paid me market rate
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“What would be better than that free lunch is if you paid me market rate” — <a href="https://twitter.com/deekapila">@deekapila</a>, my sister on negotiation. <a href="https://twitter.com/hashtag/actwatx?src=hash">#actwatx</a> <a href="https://twitter.com/ChickTechATX">@ChickTechATX</a></p>&mdash; Sam Kap (@samkap) <a href="https://twitter.com/samkap/status/894250374013607936">August 6, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
