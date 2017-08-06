@@ -11,7 +11,7 @@ tags:
 - speaking
 ---
 
-### Intro to Positive Leadership and Flourishing Organizations 
+## Intro to Positive Leadership and Flourishing Organizations 
 
 Speaker: Evan Schmiedehaus
 
@@ -73,3 +73,17 @@ Speaker: Evan Schmiedehaus
 Contact info: 
 [growflourishlead.com](growflourishlead.com)
 [leadershipandreasoning.com](leadershipandreasoning.com)
+
+
+## DEEEEEEEEE
+Speaker: Dee Kapila (my amazing sister)
+
+### what do secondary mutations have to do with your career?
+- lifelong learning
+- reinvention, relevance
+- interdisciplinary skills
+- adapt to a rapidly changing landscape
+- you're a better, safer bet
+- grater flexibility and a fun, varied career
+- career insurance
+- you become in demand by the X-men
