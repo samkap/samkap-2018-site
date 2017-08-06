@@ -114,3 +114,15 @@ Speaker: Dee Kapila (my amazing sister)
 - share tips that helps, do retros on what didn’t
 - celebrate your Dora Milaje’s accomplishments!
 - help each other gain more visibility (at work, in the community, within each others’ network)
+
+### what is this hype (things are are no bueno)
+- remote work is a must. I am currently working from the beach in my fli flops and you're not. LOL see you on insta.
+- really love to work. I feel so bad for people who dread mondays. workaholics are so mis-understood
+- free lunches : they want u to stay there
+- failure is amaze.
+- entrepreneurships is for the most special amazing people ever. 
+
+
+- Cassandra Anderson: focus
+- *Negosh the sitch*: She-Hulk, lawyer, tactical strategy, handles stress well, her flight instinct doesn’t kick in.
+- 
