@@ -116,13 +116,15 @@ Speaker: Dee Kapila (my amazing sister)
 - help each other gain more visibility (at work, in the community, within each others’ network)
 
 ### what is this hype (things are are no bueno)
-- remote work is a must. I am currently working from the beach in my fli flops and you're not. LOL see you on insta.
-- really love to work. I feel so bad for people who dread mondays. workaholics are so mis-understood
+- remote work is a must. I am currently working from the beach in my flip flops and you're not. LOL see you on insta.
+- really love to work. I feel so bad for people who dread Mondays. workaholics are so mis-understood
 - free lunches : they want u to stay there
 - failure is amaze.
-- entrepreneurships is for the most special amazing people ever. 
+- entrepreneurship is for the most special amazing people ever. 
 
 
 - Cassandra Anderson: focus
 - *Negosh the sitch*: She-Hulk, lawyer, tactical strategy, handles stress well, her flight instinct doesn’t kick in.
-- 
+- [Crucial Conversations](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822) books
+
+> What would be better than that free lunch is if you paid me market rate
