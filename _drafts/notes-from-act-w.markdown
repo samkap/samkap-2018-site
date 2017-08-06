@@ -40,3 +40,16 @@ Speaker: Evan Schmiedehaus
 - attainment: clear goals, measurable, resources, adaptability, and resilience.
 - positive emotion
 - five positive exchanges make up for one negative one to get a relationship back to neutral.
+
+### Culture of Positive Emotional
+- Trust-building
+- Honesty, then trust? Not in organizations
+- Be honest, be vulnerable
+- Transparency
+- Process praise vs people praise
+- Gratitude
+- 3 Good things
+- Wonderment board
+- Journaling
+- Mindfulness
+- Best possible future self
