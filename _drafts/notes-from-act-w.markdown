@@ -1,6 +1,14 @@
 ---
 title: Notes from ACT-W
 date: 2017-08-06 11:42:00 -05:00
+tags:
+- conference
+- women
+- diversity
+- equality
+- inclusion
+- meditation
+- speaking
 ---
 
 ### Intro to Positive Leadership and Flourishing Organizations 
@@ -21,11 +29,14 @@ Speaker: Evan Schmiedehaus
 - what are the habits of positive leaders? Meditation, willingness to try and fail, set intention and establish clear goals
 - meditations are about focus. Set intentions. Who do I chose to be? What I choose to let go?
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">5 tenants of flourishing <a href="https://twitter.com/hashtag/ACTWATX?src=hash">#ACTWATX</a> <a href="https://t.co/kcgT3C5JeO">pic.twitter.com/kcgT3C5JeO</a></p>&mdash; Claire Flanagan (@cflanagan) <a href="https://twitter.com/cflanagan/status/894238626699251712">August 6, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### REMAP
 - Relationships: vested, genuine, shared values
-- in relationships: avoid the four hoursemen: criticism, stonewalling, defensiveness, contempt—sarcasm is a for of contempt/
+- in relationships: avoid the four horsemen: criticism, stonewalling, defensiveness, contempt—sarcasm is a for of contempt/
 - Engagement and flow
 - purpose and meaning: why do we do what we do and our connection to the greater good.
-- attainment: clear goals, measurable, resources, adaptibility, and resilience.
+- attainment: clear goals, measurable, resources, adaptability, and resilience.
 - positive emotion
 - five positive exchanges make up for one negative one to get a relationship back to neutral.
