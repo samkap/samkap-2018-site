@@ -97,3 +97,8 @@ Speaker: Dee Kapila (my amazing sister)
 - accountability
 - don't undervalue 'soft' skills 
  
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hiring Mgrs looking for T-shaped people: You have have lots of breadth across many topics while deep in one area <a href="https://twitter.com/deekapila">@deekapila</a> <a href="https://twitter.com/hashtag/ACTWATX?src=hash">#ACTWATX</a></p>&mdash; Claire Flanagan (@cflanagan) <a href="https://twitter.com/cflanagan/status/894246363998846976">August 6, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Skills
+- lynda, udacity, coursera, local meetups, orgs, tech book clubs, slack channels, create your own learning community at work, majority of people do not use their education allowance/benefit at work.
