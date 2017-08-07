@@ -20,7 +20,13 @@ I share recommendations a lot, so here they are all in one place!
 
 ### Blogs
 
-### Books
+## Books
+
+### JavaScript
+1. [JavaScript & jQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)
+2. [Eloquent JavaScript](https://www.amazon.com/Eloquent-JavaScript-2nd-Ed-Introduction/dp/1593275846/ref=sr_1_8?s=books&ie=UTF8&qid=1502142089&sr=1-8&keywords=javascript)
+3. [JavaScript for Web Designers](https://abookapart.com/products/javascript-for-web-designers)
+4. [JavaScript & jQuery The Missing Manual]( https://www.amazon.com/JavaScript-jQuery-Missing-Manual-Manuals/dp/1491947071/ref=sr_1_3?ie=UTF8&qid=1502142181&sr=8-3&keywords=javascript+jquery)
 
 ### Newsletters
 
