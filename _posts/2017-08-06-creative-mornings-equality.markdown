@@ -1,6 +1,6 @@
 ---
 title: Creative Mornings / Austin Equality talk
-date: 2017-07-28 23:02:00 -05:00
+date: 2017-08-06 23:02:00 -05:00
 tags:
 - conference
 - talks
