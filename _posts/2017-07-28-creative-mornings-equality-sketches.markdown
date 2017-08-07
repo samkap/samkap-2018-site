@@ -1,5 +1,5 @@
 ---
-title: Creative Morning’s Equality Sketches
+title: Creative Mornings / Austin Equality talk
 date: 2017-07-28 23:02:00 -05:00
 tags:
 - conference
@@ -9,7 +9,14 @@ tags:
 - community
 ---
 
-Last Friday, I spoke at [Creative Mornings](https://creativemornings.com/talks/sam-kapila) in Austin about their monthly, global theme, “equality”. Here are some AWESOME sketches from the talk, by artist, [Ami Plasse](http://amidrawstx.tumblr.com/post/163541590683/creativemorningsaustin-72117-on-the-topic-of).
+On August 21st, I spoke at [Creative Mornings](https://creativemornings.com/talks/sam-kapila) in Austin about their monthly, global theme, “equality”. 
+
+This was somethign I’ve only dreamed of since Creative Mornings began, so getting to speak in my home city in front of people I love and people I admire, was a honor. 
+
+Creative Mornings uploaded the edited video of my talk, some awesome attendees made sketches, and I felt really lucky to be able to speak about a topic I care about deeply: Equality.
+
+
+Here are some AWESOME sketches from the talk, by artist, [Ami Plasse](http://amidrawstx.tumblr.com/post/163541590683/creativemorningsaustin-72117-on-the-topic-of).
 
 ![tumblr_ottry9Mh1U1s5q8eso4_1280.jpg](/uploads/tumblr_ottry9Mh1U1s5q8eso4_1280.jpg)
 
