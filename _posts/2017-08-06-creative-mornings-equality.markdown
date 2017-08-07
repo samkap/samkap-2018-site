@@ -15,7 +15,7 @@ This was somethign I’ve only dreamed of since Creative Mornings began, so gett
 
 Creative Mornings uploaded the edited video of my talk, some awesome attendees made sketches, and I felt really lucky to be able to speak about a topic I care about deeply: *Equality*. Check out some parts of the event below!
 
-<iframe src="https://creativemornings.com/videos/embed/6785" width="500" height="281" frameborder="0"></iframe>
+<iframe width="1080" height="630" src="https://www.youtube.com/embed/5pj8E-XbRzE" frameborder="0" allowfullscreen></iframe>
 
 
 Here are some AWESOME sketches from the talk, by artist, [Ami Plasse](http://amidrawstx.tumblr.com/post/163541590683/creativemorningsaustin-72117-on-the-topic-of).
