@@ -4,7 +4,7 @@ permalink: "/recommendations/"
 layout: page
 ---
 
-## Recommendations
+# Recommendations
 
 I share recommendations a lot, so here they are all in one place!
 
