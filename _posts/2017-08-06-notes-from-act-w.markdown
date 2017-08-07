@@ -75,8 +75,7 @@ Contact info:
 [leadershipandreasoning.com](leadershipandreasoning.com)
 
 
-## Everything I Learned About Navigating My Career,
-I Learned From Female Superheroes
+## Everything I Learned About Navigating My Career, I Learned From Female Superheroes
 Speaker: Dee Kapila (my amazing sister)
 
 ### what do secondary mutations have to do with your career?
