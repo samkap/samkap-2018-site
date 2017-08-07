@@ -13,7 +13,9 @@ On August 21st, I spoke at [Creative Mornings](https://creativemornings.com/talk
 
 This was somethign I’ve only dreamed of since Creative Mornings began, so getting to speak in my home city in front of people I love and people I admire, was a honor. 
 
-Creative Mornings uploaded the edited video of my talk, some awesome attendees made sketches, and I felt really lucky to be able to speak about a topic I care about deeply: Equality.
+Creative Mornings uploaded the edited video of my talk, some awesome attendees made sketches, and I felt really lucky to be able to speak about a topic I care about deeply: *Equality*. Check out some parts of the event below!
+
+<iframe src="https://creativemornings.com/videos/embed/6785" width="500" height="281" frameborder="0"></iframe>
 
 
 Here are some AWESOME sketches from the talk, by artist, [Ami Plasse](http://amidrawstx.tumblr.com/post/163541590683/creativemorningsaustin-72117-on-the-topic-of).
