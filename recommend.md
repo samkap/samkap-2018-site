@@ -60,3 +60,4 @@ I share recommendations a lot, so here they are all in one place!
 * Coriander
 * Cumin
 * Garam Masala
+* Harissa
