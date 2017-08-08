@@ -10,7 +10,6 @@ layout: default
 
 ### Past
 <ul>
-<li><a href="http://fusionconf.io/" class="bold">FusionConf</a>, September 2017, Charlotte, NC, TBD</li>
 <li><a href="https://creativemornings.com/talks/sam-kapila/" class="bold">ACT-W</a>, August 2017, Austin, TX, “Challenging the Status Quo”</li>
 <li><a href="https://creativemornings.com/talks/sam-kapila/" class="bold">Creative Mornings / Austin</a>, July 2017, Austin, TX, “Equality”</li>
 <li><a href="http://www.convergese.com" class="bold">ConvergeSE</a>, June 2017, Columbia,
