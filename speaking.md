@@ -9,7 +9,7 @@ layout: default
 - **[FusionConf](http://fusionconf.io/)**, Sept 2017, Speaker, Charlotte, NC, TBD
 
 
-### Past
+### Recent
 - **[ACT-W](http://austin.act-w.org)**, Aug 2017, Speaker, Austin, TX, “Challenging the Status Quo”
 - **[CreativeMornings / Austin](https://creativemornings.com/talks/sam-kapila/)**, July 2017, Speaker, Austin, TX, “Equality”
 - **[ConvergeSE](http://austin.act-w.org)**, June 2017, Speaker, Columbia, SC, “Using Design to improve Diversity & Inclusion”
@@ -17,7 +17,7 @@ layout: default
 - **[Design/Content](http://www.designcontentconf.com/)**, July 2016, Vancouver, BC, Canada, Speaker, “Design Responsive Systems”
 -  **[Front End Design Conference](http://www.frontenddesignconference.com/)**, June 2016, St Pete, Florida, “Design Research”
 
-<ul>
+### Past
 <li><a class="bold" href="https://www.eventbrite.com/e/refresh-columbia-november-2014-registration-14328658403">Refresh Columbia</a>, Nov 2014, Speaker, “Design Research”</li>
 <li><a class="bold" href="http://www.convergefl.com">ConvergeFL</a>, Nov 2014, Keynote, “The (hover) state of web design education” </li>
 <li><a class="bold" href="http://www.tennshow2014.com">AIGA Tenn Show 2014</a>, Oct 2014, Judge and Guest Speaker</li>
