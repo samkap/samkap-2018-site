@@ -5,6 +5,10 @@ layout: default
 
 ## Speaking
 
+### Upcoming
+- *[FunsionConf](http://fusionconf.io/)*,class="bold">, September 2017, Charlotte, NC, TBD</li>
+
+### Past
 <ul>
 <li><a href="http://fusionconf.io/" class="bold">FusionConf</a>, September 2017, Charlotte, NC, TBD</li>
 <li><a href="https://creativemornings.com/talks/sam-kapila/" class="bold">ACT-W</a>, August 2017, Austin, TX, “Challenging the Status Quo”</li>
