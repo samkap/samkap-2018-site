@@ -6,17 +6,18 @@ layout: default
 ## Speaking
 
 ### Upcoming
-- **[FusionConf](http://fusionconf.io/)**, September 2017, Charlotte, NC, TBD
+- **[FusionConf](http://fusionconf.io/)**, Sept 2017, Speaker, Charlotte, NC, TBD
+
 
 ### Past
+- **[ACT-W](http://austin.act-w.org)**, Aug 2017, Speaker, Austin, TX, “Challenging the Status Quo”
+- **[CreativeMornings / Austin](https://creativemornings.com/talks/sam-kapila/)**, July 2017, Speaker, Austin, TX, “Equality”
+- **[ConvergeSE](http://austin.act-w.org)**, June 2017, Speaker, Columbia, SC, “Using Design to improve Diversity & Inclusion”
+- **[SXSW Interactive](http://opportunityhub.co/2017hbcusxsw/)**, March 2017, Austin, TX, Panelist, “Announcing The #YesWeCode Fund”
+- **[Design/Content](http://www.designcontentconf.com/)**, July 2016, Vancouver, BC, Canada, Speaker, “Design Responsive Systems”
+-  **[Front End Design Conference](http://www.frontenddesignconference.com/)**, June 2016, St Pete, Florida, “Design Research”
+
 <ul>
-<li><a href="https://creativemornings.com/talks/sam-kapila/" class="bold">ACT-W</a>, August 2017, Austin, TX, “Challenging the Status Quo”</li>
-<li><a href="https://creativemornings.com/talks/sam-kapila/" class="bold">Creative Mornings / Austin</a>, July 2017, Austin, TX, “Equality”</li>
-<li><a href="http://www.convergese.com" class="bold">ConvergeSE</a>, June 2017, Columbia,
- SC, “Using Design to improve Diversity & Inclusion”</li>
-<li><a class="bold" href="http://opportunityhub.co/2017hbcusxsw/">SXSW Interactive</a> (HBCU Panel), March 2017, Austin, TX, “Announcing The #YesWeCode Fund”</li>
-<li><a href="http://www.designcontentconf.com/" class="bold">Design/Content</a>, July 2016, Vancouver, BC, Canada, Speaker, “Design Responsive Systems”</li>
-<li><a href="http://www.frontenddesignconference.com/" class="bold">Front End Design Conference</a>, June 2016, St Pete, Florida</li>
 <li><a class="bold" href="https://www.eventbrite.com/e/refresh-columbia-november-2014-registration-14328658403">Refresh Columbia</a>, Nov 2014, Speaker, “Design Research”</li>
 <li><a class="bold" href="http://www.convergefl.com">ConvergeFL</a>, Nov 2014, Keynote, “The (hover) state of web design education” </li>
 <li><a class="bold" href="http://www.tennshow2014.com">AIGA Tenn Show 2014</a>, Oct 2014, Judge and Guest Speaker</li>
