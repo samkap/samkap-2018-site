@@ -6,7 +6,7 @@ layout: default
 ## Speaking
 
 ### Upcoming
-- *[FunsionConf](http://fusionconf.io/)*, September 2017, Charlotte, NC, TBD</li>
+- *[FunsionConf](http://fusionconf.io/)*, September 2017, Charlotte, NC, TBD
 
 ### Past
 <ul>
