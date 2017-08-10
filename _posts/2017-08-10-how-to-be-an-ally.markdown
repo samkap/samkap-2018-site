@@ -33,7 +33,7 @@ It's all exhausting, but I have good news! If you'd like to be an active ally fo
 
 **Want more?** See videos and links below 
 
-- [Video 1: How to be an ally](http://samkapila.com/2014/12/10/five-tips-on-how-to-be-an-ally-video.html)
+- [Video 1: How to be an ally](http://samkapila.com/2014/12/09/five-tips-on-how-to-be-an-ally-video.html)
 
 - [Video 2: Getting Called out: How to Apologize](https://www.youtube.com/watch?v=C8xJXKYL8pU)
 
