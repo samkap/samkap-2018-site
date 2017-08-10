@@ -29,7 +29,7 @@ It's all exhausting, but I have good news! If you'd like to be an active ally fo
 
 7) If you're in the position to bring someone up, especially someone who has been ignored even with the slightest discrimination, **speak up for them**, not at them or over them, and call out those ignoring them (respectfully, if you can).
 
-8) **Ask people what pronoun they use (via [this tweet](https://twitter.com/angelacdumlao/status/886698018279444480) **from Angela Dumlao)**, not what they prefer**, and then try not to say "guys". Y'all works. They works. Everybody/one works.
+8) **Ask people what pronoun they use** (via [this tweet](https://twitter.com/angelacdumlao/status/886698018279444480) from Angela Dumlao)**, not what they prefer**, and then try not to say "guys". Y'all works. They works. Everybody/one works.
 
 **Want more?** See videos and links below 
 
