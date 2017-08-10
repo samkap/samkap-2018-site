@@ -29,17 +29,16 @@ It's all exhausting, but I have good news! If you'd like to be an active ally fo
 
 7) If you're in the position to bring someone up, especially someone who has been ignored even with the slightest discrimination, speak up for them, not at them, and call out those ignoring them (respectfully, if you can)
 
-8) Ask people what pronoun they use, not what they prefer, and then try not to say "guys". Y'all works. They works. Everybody/one works.
+8) Ask people what pronoun they use (via [this tweet](https://twitter.com/angelacdumlao/status/886698018279444480) from Angela Dumlao), not what they prefer, and then try not to say "guys". Y'all works. They works. Everybody/one works.
 
-Want more? See video and links below: 
+Want more? See videos and links below: 
 
-Video 1: How to be an ally: http://samkapila.com/2014/12/10/five-tips-on-how-to-be-an-ally-video.html
+- [Video 1: How to be an ally](http://samkapila.com/2014/12/10/five-tips-on-how-to-be-an-ally-video.html)
 
-Video 2: Getting Called out: How to Apologize:
-https://www.youtube.com/watch?v=C8xJXKYL8pU 
+- [Video 2: Getting Called out: How to Apologize](https://www.youtube.com/watch?v=C8xJXKYL8pU)
 
-Guide to Allyship: http://www.guidetoallyship.com/
+- [Guide to Allyship](http://www.guidetoallyship.com/)
 
-10 ways to be an ally: http://everydayfeminism.com/2013/11/things-allies-need-to-know/ 
+- [10 ways to be an ally](http://everydayfeminism.com/2013/11/things-allies-need-to-know/)
 
-GLAAD's 10 ways to be an ally: https://www.glaad.org/resources/ally/2 
+- [GLAAD's 10 ways to be an ally](https://www.glaad.org/resources/ally/2)
