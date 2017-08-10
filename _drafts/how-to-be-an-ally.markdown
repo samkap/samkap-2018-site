@@ -1,6 +1,12 @@
 ---
 title: How to be an Ally
 date: 2017-08-10 00:28:00 -05:00
+tags:
+- diversity
+- inclusion
+- ally
+- talks
+- culture
 ---
 
 I'm not going to read the Google memo. Like many other women in tech have said, it's just reading what we experience on the daily. The "oh you code"'s, the very conscious bias, the "how can you do conferences? Don't you have children?" judgey question, the fact that we have to support each other in meetings or meet-ups with Shine Theory, taking credit for their work, etc the list goes on—it's all very tiring and exhausting. 
