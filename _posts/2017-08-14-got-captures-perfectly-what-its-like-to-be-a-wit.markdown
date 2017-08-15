@@ -1,6 +1,8 @@
 ---
 title: GoT captures  perfectly what its like to be a WIT
 date: 2017-08-14 22:41:00 -05:00
+categories:
+- clips
 tags:
 - television
 - women
