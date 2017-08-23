@@ -10,5 +10,5 @@ layout: page
 
 This page is a growing resource of thoughts and resources around Equity and Inclusion. Last Updated: **Aug 23**. 
 
-Resources: 
+### Resources 
 - [Project Implicit from Harvard](https://implicit.harvard.edu/implicit/)
