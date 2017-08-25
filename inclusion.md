@@ -27,5 +27,6 @@ This page is a growing resource of thoughts and resources around Equity and Incl
 - [A11yProject.com](http://a11yproject.com/)
 - [Color Accessibility Workflows from A List Apart](https://alistapart.com/article/color-accessibility-workflows)
 - [WebAIM](http://webaim.org/)
+- [WCAG 2.0 Checklist](http://webaim.org/standards/wcag/checklist)
 
 
