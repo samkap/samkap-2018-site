@@ -14,7 +14,7 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 - [American Red Cross](https://www.redcross.org/donate/hurricane-harvey?campname=Harvey&campmedium=aspot). I know there are some articles on Twitter going around about this, but in Texas we're seeing them feed displaced families and individuals. Please help. It's easy.
 - [Texas Diaper Bank](texasdiaperbank.org/)
 - [SPCA of Texas](http://spca.org/give)
-- [Austin Pet Alive!](https://www.austinpetsalive.org/hurricane-harvey-evacuations/)
+- [Austin Pet Alive!](https://www.austinpetsalive.org/hurricane-harvey-evacuations/). Their site seems to be having high traffic outages, so [this is an alternative for APA!](https://t.co/pGfccAoGQe).
 - [Houston Food Bank](http://www.houstonfoodbank.org/donate/donate-money/)
 - [Portlight](http://portlight.org). Disaster relief for disabled people
 - [Houston Coalition for the Homeless](https://www.homelesshouston.org/take-action/donate/)
