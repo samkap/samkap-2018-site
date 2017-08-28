@@ -55,5 +55,8 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 - **[Operation Hope](https://www.operationhope.org/hope-coalition-america)**. They have free financial services for Harvey victims
 - **[Tips on how to file claims from USAA](https://communities.usaa.com/t5/USAA-News/USAA-Offers-Tips-on-How-to-File-Claims-After-Hurricane-Harvey/ba-p/135513?sf61899364=1)**
 
+### Proceed Donations
+- [Texas Humor](https://txhumor.com/) has 100% of proceeds going to relief.
 
-A lot of these links came from social media, mostly from **[@jiatolentino](https://twitter.com/jiatolentino/status/901851531577884674)**. See more **[here](https://medium.com/@Celeste_pewter/how-to-help-the-victims-of-hurricane-harvey-f876ae7e7ed)** by Celeste Pewter and [Texas Monthly](http://www.texasmonthly.com/the-daily-post/ways-can-help-people-hurricane-harvey/)
+
+**Note:** A lot of these links came from social media, mostly from **[@jiatolentino](https://twitter.com/jiatolentino/status/901851531577884674)**. See more **[here](https://medium.com/@Celeste_pewter/how-to-help-the-victims-of-hurricane-harvey-f876ae7e7ed)** by Celeste Pewter and [Texas Monthly](http://www.texasmonthly.com/the-daily-post/ways-can-help-people-hurricane-harvey/)
