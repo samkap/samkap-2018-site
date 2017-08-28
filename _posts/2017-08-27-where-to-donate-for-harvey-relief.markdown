@@ -36,6 +36,7 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 
 ### For the disabled
 - **[Portlight](http://portlight.org).** Disaster relief for disabled people
+- If you know disabled people who need help, they can call **800-626-4959**
 
 ### For the homeless
 - **[Houston Coalition for the Homeless](https://www.homelesshouston.org/take-action/donate/)**
