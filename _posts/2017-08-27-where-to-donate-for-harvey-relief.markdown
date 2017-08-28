@@ -19,12 +19,13 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 - Multiple **[GoFundMe accounts raising funds](https://www.gofundme.com/hurricaneharvey)**
 - [Local volunteer info in Austin, TX](http://austintexas.gov/help)
 
-### Food and Diaper Banks
+### Food, Diaper, and Blood Banks
 - **[Texas Diaper Bank](texasdiaperbank.org/)**
 - **[Houston Food Bank](http://www.houstonfoodbank.org/donate/donate-money/)**
 - **[Corpus Christi Food Bank](http://www.foodbankcc.com/)**
 - **[Galveston Food Bank](http://www.galvestoncountyfoodbank.org/)**
 - **[Victoria Food Bank](https://www.unitedwayvictoria.org/help)**
+- **[We are Blood](www.weareblood.org/donate-blood/donation-locations)**. A blood bank local to Austin, TX.
 
 ### Children's Hospitals
 - [Driscoll Children's Hospital](https://co.clickandpledge.com/advanced/default.aspx?wid=45664)
