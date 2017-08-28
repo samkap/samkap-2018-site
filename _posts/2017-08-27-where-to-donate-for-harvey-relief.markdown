@@ -57,6 +57,7 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 
 ### Proceed Donations
 - [Texas Humor](https://txhumor.com/) has 100% of proceeds going to relief.
+- [A Book Apart](https://abookapart.com/blogs/press/hurricane-harvey) is donating 15% of all sales from now until August 31st to various organizations.
 
 
 **Note:** A lot of these links came from social media, mostly from **[@jiatolentino](https://twitter.com/jiatolentino/status/901851531577884674)**. See more **[here](https://medium.com/@Celeste_pewter/how-to-help-the-victims-of-hurricane-harvey-f876ae7e7ed)** by Celeste Pewter and [Texas Monthly](http://www.texasmonthly.com/the-daily-post/ways-can-help-people-hurricane-harvey/)
