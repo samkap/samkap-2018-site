@@ -24,6 +24,9 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 - **[Corpus Christi Food Bank](http://www.foodbankcc.com/)**
 - **[Galveston Food Bank](http://www.galvestoncountyfoodbank.org/)**
 
+### Children's Hospitals
+- [Driscoll Children's Hospital](https://co.clickandpledge.com/advanced/default.aspx?wid=45664)
+
 ### For our furry friends
 - **[SPCA of Texas](http://spca.org/give)**
 - **[Austin Pet Alive!](https://www.austinpetsalive.org/hurricane-harvey-evacuations/).** Their site seems to be having high traffic outages, so [this is an alternative for APA!](https://t.co/pGfccAoGQe).
