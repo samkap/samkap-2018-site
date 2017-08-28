@@ -59,8 +59,6 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 ### Financial Support and Attorneys for Disaster Relief
 Note: Attorneys will be needed because officials in Texas changed the laws on how much people can claim due to natural disasters. Learn more about that **[here](https://twitter.com/MsSamAdams/status/902202431542525953)** on Twitter and **[here](https://www.dallasnews.com/news/texas-legislature/2017/08/28/lawyers-harvey-victims-file-insurance-claims-law-changes-sept-1-risk-losing-money)** from The Dallas Morning News.
 
-
-
 - **[State Bar of Texas](https://www.texasbar.com/AM/Template.cfm?Section=Disaster_Relief_Resources1&Template=%2FCM%2FHTMLDisplay.cfm&ContentID=29730)**. Came across [this in a status update on Facebook](https://www.facebook.com/ivan.turingan/posts/1649329761766524) on why legal help is needed.
 - **[Operation Hope](https://www.operationhope.org/hope-coalition-america)**. They have free financial services for Harvey victims
 - **[Tips on how to file claims from USAA](https://communities.usaa.com/t5/USAA-News/USAA-Offers-Tips-on-How-to-File-Claims-After-Hurricane-Harvey/ba-p/135513?sf61899364=1)**
