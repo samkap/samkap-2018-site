@@ -26,6 +26,7 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 - **[Galveston Food Bank](http://www.galvestoncountyfoodbank.org/)**
 - **[Victoria Food Bank](https://www.unitedwayvictoria.org/help)**
 - **[We are Blood](www.weareblood.org/donate-blood/donation-locations)**. A blood bank local to Austin, TX.
+- Latest updates from [H-E-B and where they're open](https://www.heb.com/static-page/Disaster-Relief)
 
 ### Children's Hospitals
 - [Driscoll Children's Hospital](https://co.clickandpledge.com/advanced/default.aspx?wid=45664)
