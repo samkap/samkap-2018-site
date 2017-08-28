@@ -42,7 +42,7 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 - **[Covenant House](https://www.covenanthouse.org/donation-options/donate-now)**. They've got about 70 homeless youth to feed so far.
 
 ### Financial Support and Attorneys for Disaster Relief
-- **[State Bar of Texas](https://www.texasbar.com/AM/Template.cfm?Section=Disaster_Relief_Resources1&Template=%2FCM%2FHTMLDisplay.cfm&ContentID=29730)**
+- **[State Bar of Texas](https://www.texasbar.com/AM/Template.cfm?Section=Disaster_Relief_Resources1&Template=%2FCM%2FHTMLDisplay.cfm&ContentID=29730)**. Came across [this in a status update on Facebook](https://www.facebook.com/ivan.turingan/posts/1649329761766524) on why legal help is needed.
 - **[Operation Hope](https://www.operationhope.org/hope-coalition-america). They have free financial services for Harvey victims
 - **[Tips on how to file claims from USAA](https://communities.usaa.com/t5/USAA-News/USAA-Offers-Tips-on-How-to-File-Claims-After-Hurricane-Harvey/ba-p/135513?sf61899364=1)**
 
