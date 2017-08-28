@@ -42,6 +42,9 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 ### Helping Schools
 - [Donor's Choose](https://www.donorschoose.org/hurricane-harvey)
 
+### Shelter
+- [AirBnB](https://www.airbnb.com/disaster/hurricaneharveyevacuees?sf109003285=1) has free places to stay with no service fees. 
+
 ### Boats needed for rescue
 - Harris County rescue efforts need to borrow boats/high water vehicles: call 713-881-3100
 
