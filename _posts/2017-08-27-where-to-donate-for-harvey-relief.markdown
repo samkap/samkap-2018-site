@@ -57,7 +57,7 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 - **[State Bar of Texas](https://www.texasbar.com/AM/Template.cfm?Section=Disaster_Relief_Resources1&Template=%2FCM%2FHTMLDisplay.cfm&ContentID=29730)**. Came across [this in a status update on Facebook](https://www.facebook.com/ivan.turingan/posts/1649329761766524) on why legal help is needed.
 - **[Operation Hope](https://www.operationhope.org/hope-coalition-america)**. They have free financial services for Harvey victims
 - **[Tips on how to file claims from USAA](https://communities.usaa.com/t5/USAA-News/USAA-Offers-Tips-on-How-to-File-Claims-After-Hurricane-Harvey/ba-p/135513?sf61899364=1)**
-- **[Lone Star Legal Aid](https://t.co/SK9ftRveLd)** — Update, their Houston location had a fire and explosion today causing reported injuries to local fire personnel.
+- **[Lone Star Legal Aid](https://www.disasterlegalaid.org/)** — Update, their Houston location had a fire and explosion today causing reported injuries to local fire personnel.
 
 ### Proceed Donations
 - **[Texas Humor](https://txhumor.com/)** has 100% of proceeds going to relief.
