@@ -20,6 +20,7 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 - [Local volunteer info in Austin, TX](http://austintexas.gov/help)
 - [Austin Disaster Relief Network](https://adrn.org/disaster-relief/hurricaneharvey/)
 - [Americares](https://secure.americares.org/site/Donation2?df_id=22188&mfc_pref=T&22188.donation=form1&_ga=2.27797372.1946876975.1503855566-771809081.1503855566)
+- [Greater Houston Community Foundation](http://ghcf.org/hurricane-relief/)
 
 
 ### Food, Diaper, and Blood Banks
@@ -58,8 +59,8 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 - **[Tips on how to file claims from USAA](https://communities.usaa.com/t5/USAA-News/USAA-Offers-Tips-on-How-to-File-Claims-After-Hurricane-Harvey/ba-p/135513?sf61899364=1)**
 
 ### Proceed Donations
-- [Texas Humor](https://txhumor.com/) has 100% of proceeds going to relief.
-- [A Book Apart](https://abookapart.com/blogs/press/hurricane-harvey) is donating 15% of all sales from now until August 31st to various organizations.
+- **[Texas Humor](https://txhumor.com/)** has 100% of proceeds going to relief.
+- **[A Book Apart](https://abookapart.com/blogs/press/hurricane-harvey)** is donating 15% of all sales from now until August 31st to various organizations.
 
 
 **Note:** A lot of these links came from social media, mostly from **[@jiatolentino](https://twitter.com/jiatolentino/status/901851531577884674)**. See more **[here](https://medium.com/@Celeste_pewter/how-to-help-the-victims-of-hurricane-harvey-f876ae7e7ed)** by Celeste Pewter and [Texas Monthly](http://www.texasmonthly.com/the-daily-post/ways-can-help-people-hurricane-harvey/)
