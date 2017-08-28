@@ -15,7 +15,7 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 ### General
 - **[American Red Cross](https://www.redcross.org/donate/hurricane-harvey?campname=Harvey&campmedium=aspot).** I know there are some articles on Twitter going around about this, but in Texas we're seeing them feed displaced families and individuals. Please help. It's easy.
 - **[Salvation Army Austin](https://give.salvationarmyusa.org/site/Donation2;jsessionid=00000000.app340b?df_id=27651&mfc_pref=T&27651.donation=form1&NONCE_TOKEN=09144B4DDAFD7687A8B0C5937B421EC6)**
-- Local to Houston, [The Montrose Center](https://my.reason2race.com/DNicol/HurricaneHarveyLGBTQDisasterReliefFund2017)
+- Local to Houston, [The Montrose Center](https://my.reason2race.com/DNicol/HurricaneHarveyLGBTQDisasterReliefFund2017). TMC specifically helps the LGBTQ community but is helping everyone during this time.
 - **[Team Rubicon](https://teamrubiconusa.org/)**
 - Multiple **[GoFundMe accounts raising funds](https://www.gofundme.com/hurricaneharvey)**
 - [Local volunteer info in Austin, TX](http://austintexas.gov/help)
