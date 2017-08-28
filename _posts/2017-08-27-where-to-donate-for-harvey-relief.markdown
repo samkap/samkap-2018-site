@@ -35,6 +35,9 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 ### Helping Schools
 - [Donor's Choose](https://www.donorschoose.org/hurricane-harvey)
 
+### Boats needed for rescue
+- Harris County rescue efforts need to borrow boats/high water vehicles: call 713-881-3100
+
 ### For our furry friends
 - **[SPCA of Texas](http://spca.org/give)**
 - **[Austin Pet Alive!](https://www.austinpetsalive.org/hurricane-harvey-evacuations/).** Their site seems to be having high traffic outages, so [this is an alternative for APA!](https://t.co/pGfccAoGQe). And you can donate directly to their [Amazon Wishlist](https://www.amazon.com/registry/wishlist/E82TAHUQLYW8/ref=cm_sw_r_cp_ep_ws_o.dOzb4M9214S).
