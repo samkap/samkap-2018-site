@@ -41,4 +41,10 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 - **[Houston Coalition for the Homeless](https://www.homelesshouston.org/take-action/donate/)**
 - **[Covenant House](https://www.covenanthouse.org/donation-options/donate-now)**. They've got about 70 homeless youth to feed so far.
 
+### Financial Support and Attorneys for Disaster Relief
+- **[State Bar of Texas](https://www.texasbar.com/AM/Template.cfm?Section=Disaster_Relief_Resources1&Template=%2FCM%2FHTMLDisplay.cfm&ContentID=29730)**
+- **[Operation Hope](https://www.operationhope.org/hope-coalition-america). They have free financial services for Harvey victims
+- **[Tips on how to file claims from USAA](https://communities.usaa.com/t5/USAA-News/USAA-Offers-Tips-on-How-to-File-Claims-After-Hurricane-Harvey/ba-p/135513?sf61899364=1)**
+
+
 A lot of these links came from social media, mostly from **[@jiatolentino](https://twitter.com/jiatolentino/status/901851531577884674)**. See more **[here](https://medium.com/@Celeste_pewter/how-to-help-the-victims-of-hurricane-harvey-f876ae7e7ed)** by Celeste Pewter and [Texas Monthly](http://www.texasmonthly.com/the-daily-post/ways-can-help-people-hurricane-harvey/)
