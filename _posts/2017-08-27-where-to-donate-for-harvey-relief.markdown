@@ -20,9 +20,9 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 - **[Portlight](http://portlight.org).** Disaster relief for disabled people
 - **[Houston Coalition for the Homeless](https://www.homelesshouston.org/take-action/donate/)**
 - **[Salvation Army Austin](https://give.salvationarmyusa.org/site/Donation2;jsessionid=00000000.app340b?df_id=27651&mfc_pref=T&27651.donation=form1&NONCE_TOKEN=09144B4DDAFD7687A8B0C5937B421EC6)**
-- [Convenant House](https://www.covenanthouse.org/donation-options/donate-now). They've got about 70 homeless youth to feed so far.
-- [Team Rubicon](https://teamrubiconusa.org/)
-- And finally, multiple [GoFundMe accounts raising funds](https://www.gofundme.com/hurricaneharvey)
+- **[Covenant House](https://www.covenanthouse.org/donation-options/donate-now)**. They've got about 70 homeless youth to feed so far.
+- **[Team Rubicon](https://teamrubiconusa.org/)**
+- And finally, multiple **[GoFundMe accounts raising funds](https://www.gofundme.com/hurricaneharvey)**
 
 
-A lot of these links came from twitter, mostly from [@jiatolentino](https://twitter.com/jiatolentino/status/901851531577884674). See more [here](https://medium.com/@Celeste_pewter/how-to-help-the-victims-of-hurricane-harvey-f876ae7e7ed) by Celeste Pewter.
+A lot of these links came from twitter, mostly from **[@jiatolentino](https://twitter.com/jiatolentino/status/901851531577884674)**. See more **[here](https://medium.com/@Celeste_pewter/how-to-help-the-victims-of-hurricane-harvey-f876ae7e7ed)** by Celeste Pewter.
