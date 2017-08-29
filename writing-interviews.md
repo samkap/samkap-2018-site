@@ -33,7 +33,7 @@ Along with being a monthly contributor for [net magazine](http://www.creativeblo
 - [Web Design Fundamentals: A Life of Learning](https://www.lynda.com/Web-Design-tutorials/Web-Design-Fundamentals/177837-2.html), Lynda.com course, Nov 2014
 - [ShopTalk Show](http://www.shoptalkshow.com/episodes/121-sam-kapila/), June 2014
 - [Show Me Your Mic](http://goodstuff.fm/smym/39), Mar 2014
-- <a class="bold" href="<http://atxwebshow.com/2013/05/16/64-with-sam-kapila/>" target=">The ATX Web Show, May 2013
+- [The ATX Web Show](http://atxwebshow.com/2013/05/16/64-with-sam-kapila/), May 2013
 - [The East Wing](http://5by5.tv/eastwing/52), Apr 2013
 - [The Frequency](http://5by5.tv/frequency/27), Nov 2012
 
