@@ -76,7 +76,7 @@ Note: Attorneys will be needed because officials in Texas changed the laws on ho
 ## Proceed Donations
 - **[Texas Humor](https://txhumor.com/)** has 100% of proceeds going to relief.
 - **[A Book Apart](https://abookapart.com/blogs/press/hurricane-harvey)** is donating 15% of all sales from now until August 31st to various organizations.
-- Austin business with proceeds going to flood and hurricane relief from Eater Austin.
+- **[Austin dining business](http://dining.blog.austin360.com/2017/08/28/austin-restaurants-and-bars-donating-to-hurricane-harvey-flood-relief/)** with proceeds going to flood and hurricane relief from Eater Austin.
 
 
 ### A note
