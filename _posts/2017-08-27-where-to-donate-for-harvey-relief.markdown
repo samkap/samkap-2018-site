@@ -29,6 +29,7 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 - **[Casa de Ana y Organizacion Latina de Trans en Texas](http://www.latinatranstexas.org/)** are helping house trans communities members. They need monetary or physical goods like mattresses
 - **[Montrose Center](https://my.reason2race.com/DNicol/HurricaneHarveyLGBTQDisasterReliefFund2017)** started a LGBTQ Disaster Relief Fund which includes housing, counseling, and so much more. (Yes I know it's listed twice).
 - [Lazarus Brewing](http://www.lazarusbrewing.com/) in Austin is taking vans over with donated items. 
+- **[Church Project](http://www.churchproject.org/hurricaneharveyresponse)**
 
 ### Food, Diaper, and Blood Banks
 - **[Texas Diaper Bank](texasdiaperbank.org/)**
