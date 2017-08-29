@@ -12,7 +12,6 @@ Along with being a monthly contributor for [net magazine](http://www.creativeblo
 - [3 top tools for testing web performance](http://www.creativebloq.com/features/3-top-tools-for-testing-web-performance), net Magazine, November 2016 issue and online
 - [Creating web icons that break the language barrier](http://www.creativebloq.com/features/creating-web-icons-that-break-the-language-barrier), net Magazine, November 2016 issue and online
 - [How to create a delightful website](http://www.creativebloq.com/inspiration/how-to-create-a-delightful-website), net Magazine, October 2016 issue and online
-- [](), net Magazine, September 2016 issue and online
 - [Great try-before-you-buy font services](http://www.creativebloq.com/features/4-great-try-before-you-buy-font-services), net Magazine, August 2016 issue and online
 - [4 great examples of food websites](http://www.creativebloq.com/web-design/4-great-examples-food-websites-71621257), net Magazine, July 2016 issue and online
 - [Tips for choosing vibrant colours for web projects](http://www.creativebloq.com/web-design/tips-choosing-vibrant-colours-web-projects-61620832), net Magazine, June 2016 issue and online
