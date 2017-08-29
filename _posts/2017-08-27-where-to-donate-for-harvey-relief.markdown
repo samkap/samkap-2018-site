@@ -13,7 +13,6 @@ tags:
 Houston has seen 22in+ with more expectation and surrounding areas like Austin have seen 4-9in. I'm seeing a lot of great tweets about where to donate, so I thought I'd share a list here of what I've come across or donated to thus far.
 
 ### General
-- **[American Red Cross](https://www.redcross.org/donate/hurricane-harvey?campname=Harvey&campmedium=aspot).** I know there are some articles on Twitter going around about this, but in Texas we're seeing them feed displaced families and individuals. Please help. It's easy.
 - **[Launch Good](https://www.launchgood.com/project/storm_harvey_emergency_response#!/)**. Launch Good is a Muslim crowdfunding site. They're raising 10k.
 - **[Salvation Army Austin](https://give.salvationarmyusa.org/site/Donation2;jsessionid=00000000.app340b?df_id=27651&mfc_pref=T&27651.donation=form1&NONCE_TOKEN=09144B4DDAFD7687A8B0C5937B421EC6)**
 - Local to Houston, **[The Montrose Center](https://my.reason2race.com/DNicol/HurricaneHarveyLGBTQDisasterReliefFund2017)**. TMC specifically helps the LGBTQ community but is helping everyone during this time.
@@ -24,6 +23,7 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 - [Americares](https://secure.americares.org/site/Donation2?df_id=22188&mfc_pref=T&22188.donation=form1&_ga=2.27797372.1946876975.1503855566-771809081.1503855566)
 - [Greater Houston Community Foundation](http://ghcf.org/hurricane-relief/)
 - [UnitedWay Victoria, TX](unitedwayvictoria.org/help )
+- **[American Red Cross](https://www.redcross.org/donate/hurricane-harvey?campname=Harvey&campmedium=aspot).** I know there are some articles on Twitter going around about this, but in Texas we're seeing them feed displaced families and individuals. Please help. It's easy.
 
 ### Support for the LGBTQ community
 - [Casa de Ana y Organizacion Latina de Trans en Texas] (http://www.latinatranstexas.org/) are helping house trans communities members. They need monetary or physical goods like mattresses
