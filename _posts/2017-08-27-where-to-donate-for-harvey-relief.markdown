@@ -18,16 +18,16 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 - Local to Houston, **[The Montrose Center](https://my.reason2race.com/DNicol/HurricaneHarveyLGBTQDisasterReliefFund2017)**. TMC specifically helps the LGBTQ community but is helping everyone during this time.
 - **[Team Rubicon](https://teamrubiconusa.org/)**
 - Multiple **[GoFundMe accounts raising funds](https://www.gofundme.com/hurricaneharvey)**
-- [Local volunteer info in Austin, TX](http://austintexas.gov/help)
-- [Austin Disaster Relief Network](https://adrn.org/disaster-relief/hurricaneharvey/)
-- [Americares](https://secure.americares.org/site/Donation2?df_id=22188&mfc_pref=T&22188.donation=form1&_ga=2.27797372.1946876975.1503855566-771809081.1503855566)
-- [Greater Houston Community Foundation](http://ghcf.org/hurricane-relief/)
-- [UnitedWay Victoria, TX](unitedwayvictoria.org/help )
+- **[Local volunteer info in Austin, TX](http://austintexas.gov/help)**
+- **[Austin Disaster Relief Network](https://adrn.org/disaster-relief/hurricaneharvey/)**
+- **[Americares](https://secure.americares.org/site/Donation2?df_id=22188&mfc_pref=T&22188.donation=form1&_ga=2.27797372.1946876975.1503855566-771809081.1503855566)**
+- **[Greater Houston Community Foundation](http://ghcf.org/hurricane-relief/)**
+- **[UnitedWay Victoria, TX](unitedwayvictoria.org/help )**
 - **[American Red Cross](https://www.redcross.org/donate/hurricane-harvey?campname=Harvey&campmedium=aspot).** I know there are some articles on Twitter going around about this, but in Texas we're seeing them feed displaced families and individuals. Please help. It's easy.
 
 ### Support for the LGBTQ community
-- [Casa de Ana y Organizacion Latina de Trans en Texas] (http://www.latinatranstexas.org/) are helping house trans communities members. They need monetary or physical goods like mattresses
-- [Montrose Center](https://my.reason2race.com/DNicol/HurricaneHarveyLGBTQDisasterReliefFund2017) started a LGBTQ Disaster Relief Fund which includes housing, counseling, and so much more. (Yes I know it's listed twice).
+- **[Casa de Ana y Organizacion Latina de Trans en Texas](http://www.latinatranstexas.org/)** are helping house trans communities members. They need monetary or physical goods like mattresses
+- **[Montrose Center](https://my.reason2race.com/DNicol/HurricaneHarveyLGBTQDisasterReliefFund2017)** started a LGBTQ Disaster Relief Fund which includes housing, counseling, and so much more. (Yes I know it's listed twice).
 
 ### Food, Diaper, and Blood Banks
 - **[Texas Diaper Bank](texasdiaperbank.org/)**
@@ -37,19 +37,19 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 - **[United Way Victoria](https://www.unitedwayvictoria.org/help)**
 - **[Victoria Food Bank](http://www.victoriafoodbank.org/)**
 - **[We are Blood](www.weareblood.org/donate-blood/donation-locations)**. A blood bank local to Austin, TX.
-- Latest updates from [H-E-B and where they're open](https://www.heb.com/static-page/Disaster-Relief)
+- Latest updates from **[H-E-B and where they're open](https://www.heb.com/static-page/Disaster-Relief)**
 
 ### Children's Hospitals
-- [Driscoll Children's Hospital](https://co.clickandpledge.com/advanced/default.aspx?wid=45664)
+- **[Driscoll Children's Hospital](https://co.clickandpledge.com/advanced/default.aspx?wid=45664)**
 
 ### Helping Schools
-- [Donor's Choose](https://www.donorschoose.org/hurricane-harvey)
+- **[Donor's Choose](https://www.donorschoose.org/hurricane-harvey)**
 
 ### Shelter
-- [AirBnB](https://www.airbnb.com/disaster/hurricaneharveyevacuees?sf109003285=1) has free places to stay with no service fees. 
+- **[AirBnB](https://www.airbnb.com/disaster/hurricaneharveyevacuees?sf109003285=1)** has free places to stay with no service fees. 
 
 ### Boats needed for rescue
-- Harris County rescue efforts need to borrow boats/high water vehicles: call 713-881-3100
+- Harris County rescue efforts need to borrow boats/high water vehicles: **call 713-881-3100**
 
 ### For our furry friends
 - **[SPCA of Texas](http://spca.org/give)**
