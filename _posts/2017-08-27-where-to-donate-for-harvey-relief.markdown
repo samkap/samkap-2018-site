@@ -59,8 +59,8 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 - **[Dallas DogsRRR](https://www.dallasdogrrr.org/)** - Dogs were trapped in flooded kennels and boats turned away.
 
 ## For the disabled
-- **[Portlight](http://portlight.org).** Disaster relief for disabled people
-- If you know disabled people who need help, they can call **800-626-4959**, a [Disability Disaster Hotline from Disaster Strategies](http://disasterstrategies.org/application/files/3815/0370/1936/DisasterSurvivors-Hotline.pdf)
+- **[Portlight](http://portlight.org).** Disaster relief for disabled people.
+- If you know disabled people who need help, they can call **800-626-4959**, a **[Disability Disaster Hotline from Disaster Strategies](http://disasterstrategies.org/application/files/3815/0370/1936/DisasterSurvivors-Hotline.pdf)**.
 
 ## For the homeless
 - **[Houston Coalition for the Homeless](https://www.homelesshouston.org/take-action/donate/)**
@@ -81,4 +81,4 @@ Note: Attorneys will be needed because officials in Texas changed the laws on ho
 
 
 ### A note
-A lot of these links came from social media, mostly from **[@jiatolentino](https://twitter.com/jiatolentino/status/901851531577884674)**. See more **[here](https://medium.com/@Celeste_pewter/how-to-help-the-victims-of-hurricane-harvey-f876ae7e7ed)** by Celeste Pewter and [Texas Monthly](http://www.texasmonthly.com/the-daily-post/ways-can-help-people-hurricane-harvey/). [Creative Mornings Austin](https://docs.google.com/document/d/1ETBukCFXjV6hhSfKU2qE0tjvas6PqFt2pKhmKkg2f5A/edit) has an extensive list of places to donate and a [growing list of Austin businesses with proceeds being donated](https://docs.google.com/spreadsheets/d/1t-qHvcOa7ukKi2pqqDdSFhAj-w8vXhbvtIib0rT7MYA/edit#gid=0), as well.
+A lot of these links came from social media, mostly from **[@jiatolentino](https://twitter.com/jiatolentino/status/901851531577884674)**. See more **[here](https://medium.com/@Celeste_pewter/how-to-help-the-victims-of-hurricane-harvey-f876ae7e7ed)** by Celeste Pewter and **[Texas Monthly](http://www.texasmonthly.com/the-daily-post/ways-can-help-people-hurricane-harvey/)**. **[Creative Mornings Austin](https://docs.google.com/document/d/1ETBukCFXjV6hhSfKU2qE0tjvas6PqFt2pKhmKkg2f5A/edit)** has an extensive list of places to donate and a **[growing list of Austin businesses with proceeds being donated](https://docs.google.com/spreadsheets/d/1t-qHvcOa7ukKi2pqqDdSFhAj-w8vXhbvtIib0rT7MYA/edit#gid=0)**, as well.
