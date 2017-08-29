@@ -12,7 +12,7 @@ tags:
 
 Houston has seen 22in+ with more expectation and surrounding areas like Austin have seen 4-9in. I'm seeing a lot of great tweets about where to donate, so I thought I'd share a list here of what I've come across or donated to thus far.
 
-### General
+## General
 - **[Launch Good](https://www.launchgood.com/project/storm_harvey_emergency_response#!/)**. Launch Good is a Muslim crowdfunding site. They're raising 10k.
 - **[Salvation Army Austin](https://give.salvationarmyusa.org/site/Donation2;jsessionid=00000000.app340b?df_id=27651&mfc_pref=T&27651.donation=form1&NONCE_TOKEN=09144B4DDAFD7687A8B0C5937B421EC6)**
 - Local to Houston, **[The Montrose Center](https://my.reason2race.com/DNicol/HurricaneHarveyLGBTQDisasterReliefFund2017)**. TMC specifically helps the LGBTQ community but is helping everyone during this time.
@@ -25,13 +25,13 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 - **[UnitedWay Victoria, TX](unitedwayvictoria.org/help )**
 - **[American Red Cross](https://www.redcross.org/donate/hurricane-harvey?campname=Harvey&campmedium=aspot).** I know there are some articles on Twitter going around about this, but in Texas we're seeing them feed displaced families and individuals. Please help. It's easy.
 
-### Support for the LGBTQ community
+## Support for the LGBTQ community
 - **[Casa de Ana y Organizacion Latina de Trans en Texas](http://www.latinatranstexas.org/)** are helping house trans communities members. They need monetary or physical goods like mattresses
 - **[Montrose Center](https://my.reason2race.com/DNicol/HurricaneHarveyLGBTQDisasterReliefFund2017)** started a LGBTQ Disaster Relief Fund which includes housing, counseling, and so much more. (Yes I know it's listed twice).
 - [Lazarus Brewing](http://www.lazarusbrewing.com/) in Austin is taking vans over with donated items. 
 - **[Church Project](http://www.churchproject.org/hurricaneharveyresponse)**
 
-### Food, Diaper, and Blood Banks
+## Food, Diaper, and Blood Banks
 - **[Texas Diaper Bank](texasdiaperbank.org/)**
 - **[Houston Food Bank](http://www.houstonfoodbank.org/donate/donate-money/)**
 - **[Corpus Christi Food Bank](http://www.foodbankcc.com/)**
@@ -41,31 +41,31 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 - **[We are Blood](www.weareblood.org/donate-blood/donation-locations)**. A blood bank local to Austin, TX.
 - Latest updates from **[H-E-B and where they're open](https://www.heb.com/static-page/Disaster-Relief)**
 
-### Children's Hospitals
+## Children's Hospitals
 - **[Driscoll Children's Hospital](https://co.clickandpledge.com/advanced/default.aspx?wid=45664)**
 
-### Helping Schools
+## Helping Schools
 - **[Donor's Choose](https://www.donorschoose.org/hurricane-harvey)**
 
-### Shelter
+## Shelter
 - **[AirBnB](https://www.airbnb.com/disaster/hurricaneharveyevacuees?sf109003285=1)** has free places to stay with no service fees. 
 
-### Boats needed for rescue
+## Boats needed for rescue
 - Harris County rescue efforts need to borrow boats/high water vehicles: **call 713-881-3100**
 
-### For our furry friends
+## For our furry friends
 - **[SPCA of Texas](http://spca.org/give)**
 - **[Austin Pet Alive!](https://www.austinpetsalive.org/hurricane-harvey-evacuations/).** Their site seems to be having high traffic outages, so [this is an alternative for APA!](https://t.co/pGfccAoGQe). And you can donate directly to their [Amazon Wishlist](https://www.amazon.com/registry/wishlist/E82TAHUQLYW8/ref=cm_sw_r_cp_ep_ws_o.dOzb4M9214S).
 
-### For the disabled
+## For the disabled
 - **[Portlight](http://portlight.org).** Disaster relief for disabled people
 - If you know disabled people who need help, they can call **800-626-4959**, a [Disability Disaster Hotline from Disaster Strategies](http://disasterstrategies.org/application/files/3815/0370/1936/DisasterSurvivors-Hotline.pdf)
 
-### For the homeless
+## For the homeless
 - **[Houston Coalition for the Homeless](https://www.homelesshouston.org/take-action/donate/)**
 - **[Covenant House](https://www.covenanthouse.org/donation-options/donate-now)**. They've got about 70 homeless youth to feed so far.
 
-### Financial Support and Attorneys for Disaster Relief
+## Financial Support and Attorneys for Disaster Relief
 Note: Attorneys will be needed because officials in Texas changed the laws on how much people can claim due to natural disasters. Learn more about that **[here](https://twitter.com/MsSamAdams/status/902202431542525953)** on Twitter and **[here](https://www.dallasnews.com/news/texas-legislature/2017/08/28/lawyers-harvey-victims-file-insurance-claims-law-changes-sept-1-risk-losing-money)** from The Dallas Morning News.
 
 - **[State Bar of Texas](https://www.texasbar.com/AM/Template.cfm?Section=Disaster_Relief_Resources1&Template=%2FCM%2FHTMLDisplay.cfm&ContentID=29730)**. Came across [this in a status update on Facebook](https://www.facebook.com/ivan.turingan/posts/1649329761766524) on why legal help is needed.
@@ -73,10 +73,11 @@ Note: Attorneys will be needed because officials in Texas changed the laws on ho
 - **[Tips on how to file claims from USAA](https://communities.usaa.com/t5/USAA-News/USAA-Offers-Tips-on-How-to-File-Claims-After-Hurricane-Harvey/ba-p/135513?sf61899364=1)**
 - **[National Disaster Legal Aid](https://www.disasterlegalaid.org/)** — Update, their Houston location had a fire and explosion today causing reported injuries to local fire personnel.
 
-### Proceed Donations
+## Proceed Donations
 - **[Texas Humor](https://txhumor.com/)** has 100% of proceeds going to relief.
 - **[A Book Apart](https://abookapart.com/blogs/press/hurricane-harvey)** is donating 15% of all sales from now until August 31st to various organizations.
+- Austin business with proceeds going to flood and hurricane relief from Eater Austin.
 
 
-
-**Note:** A lot of these links came from social media, mostly from **[@jiatolentino](https://twitter.com/jiatolentino/status/901851531577884674)**. See more **[here](https://medium.com/@Celeste_pewter/how-to-help-the-victims-of-hurricane-harvey-f876ae7e7ed)** by Celeste Pewter and [Texas Monthly](http://www.texasmonthly.com/the-daily-post/ways-can-help-people-hurricane-harvey/)
+### A note
+A lot of these links came from social media, mostly from **[@jiatolentino](https://twitter.com/jiatolentino/status/901851531577884674)**. See more **[here](https://medium.com/@Celeste_pewter/how-to-help-the-victims-of-hurricane-harvey-f876ae7e7ed)** by Celeste Pewter and [Texas Monthly](http://www.texasmonthly.com/the-daily-post/ways-can-help-people-hurricane-harvey/). [Creative Mornings Austin](https://docs.google.com/document/d/1ETBukCFXjV6hhSfKU2qE0tjvas6PqFt2pKhmKkg2f5A/edit) has an extensive list of places to donate and a [growing list of Austin businesses with proceeds being donated](https://docs.google.com/spreadsheets/d/1t-qHvcOa7ukKi2pqqDdSFhAj-w8vXhbvtIib0rT7MYA/edit#gid=0), as well.
