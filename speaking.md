@@ -31,6 +31,5 @@ layout: default
 “Teaching the designer of the 21st century” with William Moner, Grayson Lawrence. <a href="http://eventifier.co/event/html5tx/samkap" >open session</a></li>
 <li><a class="bold" href="http://www.txstatemcweek.com">Mass Comm Week</a>, Oct 2012,
 “Design 1-Up”, Panel, <a href="http://www.ustream.tv/recorded/26581450" >video</a> and <a href="http://www.samkapila.com/sharing/mcweek" >notes</a></li>
-</ul>
 
 ![speaking at ConvergeSE 2017. Photo by Ben Callahan](/img/speaking.jpg)
