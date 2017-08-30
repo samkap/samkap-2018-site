@@ -24,12 +24,14 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 - **[Greater Houston Community Foundation](http://ghcf.org/hurricane-relief/)**
 - **[UnitedWay Victoria, TX](unitedwayvictoria.org/help )**
 - **[American Red Cross](https://www.redcross.org/donate/hurricane-harvey?campname=Harvey&campmedium=aspot).** I know there are some articles on Twitter going around about this, but in Texas we're seeing them feed displaced families and individuals. Please help. It's easy.
+- [Lazarus Brewing](http://www.lazarusbrewing.com/) in Austin is taking vans over with donated items. 
+- **[Church Project](http://www.churchproject.org/hurricaneharveyresponse)**
+
 
 ## Support for the LGBTQ community
 - **[Casa de Ana y Organizacion Latina de Trans en Texas](http://www.latinatranstexas.org/)** are helping house trans communities members. They need monetary or physical goods like mattresses
 - **[Montrose Center](https://my.reason2race.com/DNicol/HurricaneHarveyLGBTQDisasterReliefFund2017)** started a LGBTQ Disaster Relief Fund which includes housing, counseling, and so much more. (Yes I know it's listed twice).
-- [Lazarus Brewing](http://www.lazarusbrewing.com/) in Austin is taking vans over with donated items. 
-- **[Church Project](http://www.churchproject.org/hurricaneharveyresponse)**
+
 
 ## Food, Diaper, and Blood Banks
 - **[Texas Diaper Bank](texasdiaperbank.org/)**
