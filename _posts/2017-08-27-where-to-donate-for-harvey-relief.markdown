@@ -95,7 +95,8 @@ Note: Attorneys will be needed because officials in Texas changed the laws on ho
 - **[Austin dining business](http://dining.blog.austin360.com/2017/08/28/austin-restaurants-and-bars-donating-to-hurricane-harvey-flood-relief/)** with proceeds going to flood and hurricane relief from Eater Austin.
 - **[Cotton Bureau](http://www.cottonbureau.com) has a few tees up with designer proceeds going to Texas **[here](https://cottonbureau.com/products/texas-4)** and **[here](https://cottonbureau.com/products/lets-do-it-for-texas-yall)**
 
-
+## Scams to be aware of
+- [Marketplace](https://twitter.com/Marketplace/status/902730115838337024)
 
 ### Additional Resources
 - A lot of these links came from social media, mostly from **[@jiatolentino](https://twitter.com/jiatolentino/status/901851531577884674)**. 
