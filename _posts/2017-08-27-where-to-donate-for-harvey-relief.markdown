@@ -59,10 +59,17 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 - **[SPCA of Texas](http://spca.org/give)**
 - **[Austin Pet Alive!](https://www.austinpetsalive.org/hurricane-harvey-evacuations/).** Their site seems to be having high traffic outages, so [this is an alternative for APA!](https://t.co/pGfccAoGQe). And you can donate directly to their [Amazon Wishlist](https://www.amazon.com/registry/wishlist/E82TAHUQLYW8/ref=cm_sw_r_cp_ep_ws_o.dOzb4M9214S).
 - **[Dallas DogsRRR](https://www.dallasdogrrr.org/)** - Dogs were trapped in flooded kennels and boats turned away.
+- **[Animal Defense League of Texas](https://adltexas.org/)**
+
 
 ## For the disabled
 - **[Portlight](http://portlight.org).** Disaster relief for disabled people.
 - If you know disabled people who need help, they can call **800-626-4959**, a **[Disability Disaster Hotline from Disaster Strategies](http://disasterstrategies.org/application/files/3815/0370/1936/DisasterSurvivors-Hotline.pdf)**.
+- [Living Hope WheelChair Association](http://www.lhwassociation.org/donate)
+
+## For People of Color
+- [Black America Web ](https://blackamericaweb.com/black-america-web-relief-fund/)
+- 
 
 ## For the homeless
 - **[Houston Coalition for the Homeless](https://www.homelesshouston.org/take-action/donate/)**
@@ -80,7 +87,13 @@ Note: Attorneys will be needed because officials in Texas changed the laws on ho
 - **[Texas Humor](https://txhumor.com/)** has 100% of proceeds going to relief.
 - **[A Book Apart](https://abookapart.com/blogs/press/hurricane-harvey)** is donating 15% of all sales from now until August 31st to various organizations.
 - **[Austin dining business](http://dining.blog.austin360.com/2017/08/28/austin-restaurants-and-bars-donating-to-hurricane-harvey-flood-relief/)** with proceeds going to flood and hurricane relief from Eater Austin.
+- **[Cotton Bureau](http://www.cottonbureau.com) has a few tees up with designer proceeds going to Texas **[here](https://cottonbureau.com/products/texas-4)** and **[here](https://cottonbureau.com/products/lets-do-it-for-texas-yall)**
 
 
-### A note
-A lot of these links came from social media, mostly from **[@jiatolentino](https://twitter.com/jiatolentino/status/901851531577884674)**. See more **[here](https://medium.com/@Celeste_pewter/how-to-help-the-victims-of-hurricane-harvey-f876ae7e7ed)** by Celeste Pewter and **[Texas Monthly](http://www.texasmonthly.com/the-daily-post/ways-can-help-people-hurricane-harvey/)**. **[Creative Mornings Austin](https://docs.google.com/document/d/1ETBukCFXjV6hhSfKU2qE0tjvas6PqFt2pKhmKkg2f5A/edit)** has an extensive list of places to donate and a **[growing list of Austin businesses with proceeds being donated](https://docs.google.com/spreadsheets/d/1t-qHvcOa7ukKi2pqqDdSFhAj-w8vXhbvtIib0rT7MYA/edit#gid=0)**, as well.
+
+### Additional Resources
+- A lot of these links came from social media, mostly from **[@jiatolentino](https://twitter.com/jiatolentino/status/901851531577884674)**. 
+- See more **[here](https://medium.com/@Celeste_pewter/how-to-help-the-victims-of-hurricane-harvey-f876ae7e7ed)** by Celeste Pewter and **[Texas Monthly](http://www.texasmonthly.com/the-daily-post/ways-can-help-people-hurricane-harvey/)**. 
+- **[Creative Mornings Austin](https://docs.google.com/document/d/1ETBukCFXjV6hhSfKU2qE0tjvas6PqFt2pKhmKkg2f5A/edit)** has an extensive list of places to donate 
+- A **[growing list of Austin businesses with proceeds being donated](https://docs.google.com/spreadsheets/d/1t-qHvcOa7ukKi2pqqDdSFhAj-w8vXhbvtIib0rT7MYA/edit#gid=0)**, as well.
+- **[How to Help Communities of Color](http://www.colorlines.com/articles/how-donate-money-and-other-aid-communities-color-houston)**
