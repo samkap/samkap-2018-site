@@ -34,6 +34,7 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 - **[Montrose Center](https://my.reason2race.com/DNicol/HurricaneHarveyLGBTQDisasterReliefFund2017)** started a LGBTQ Disaster Relief Fund which includes housing, counseling, and so much more. (Yes I know it's listed twice).
 - **[Trans Foundation of America
 ](http://www.tfahouston.com/all-catagories/news/trans-relief-fund/)**
+- **[St. Edward's in Austin](https://www.stedwards.edu/campus-living/housing/housing-services)** is collecting the following items by Friday 9/1 in their Residence Life Office: water, non-perishable food, non-prescription drugs, hygiene products, feminine products, baby products
 
 ## Food, Diaper, Woman's Health, and Blood Banks
 - **[Texas Diaper Bank](texasdiaperbank.org/)**
