@@ -93,7 +93,7 @@ Note: Attorneys will be needed because officials in Texas changed the laws on ho
 - **[Texas Humor](https://txhumor.com/)** has 100% of proceeds going to relief.
 - **[A Book Apart](https://abookapart.com/blogs/press/hurricane-harvey)** is donating 15% of all sales from now until August 31st to various organizations.
 - **[Austin dining business](http://dining.blog.austin360.com/2017/08/28/austin-restaurants-and-bars-donating-to-hurricane-harvey-flood-relief/)** with proceeds going to flood and hurricane relief from Eater Austin.
-- **[Cotton Bureau](http://www.cottonbureau.com) has a few tees up with designer proceeds going to Texas **[here](https://cottonbureau.com/products/texas-4)** and **[here](https://cottonbureau.com/products/lets-do-it-for-texas-yall)**
+- **[Cotton Bureau](http://www.cottonbureau.com)** has a few tees up with designer proceeds going to Texas **[here](https://cottonbureau.com/products/texas-4)** and **[here](https://cottonbureau.com/products/lets-do-it-for-texas-yall)**
 
 ## Scams to be aware of
 - Info from NPR's [Marketplace](https://www.marketplace.org/2017/08/29/life/hurricane-harvey-flooding-dredges-scams-and-hoaxes)
