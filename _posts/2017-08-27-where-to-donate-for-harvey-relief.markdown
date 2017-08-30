@@ -28,12 +28,14 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 - **[Church Project](http://www.churchproject.org/hurricaneharveyresponse)**
 
 
+
 ## Support for the LGBTQ community
 - **[Casa de Ana y Organizacion Latina de Trans en Texas](http://www.latinatranstexas.org/)** are helping house trans communities members. They need monetary or physical goods like mattresses
 - **[Montrose Center](https://my.reason2race.com/DNicol/HurricaneHarveyLGBTQDisasterReliefFund2017)** started a LGBTQ Disaster Relief Fund which includes housing, counseling, and so much more. (Yes I know it's listed twice).
+- **[Trans Foundation of America
+](http://www.tfahouston.com/all-catagories/news/trans-relief-fund/)**
 
-
-## Food, Diaper, and Blood Banks
+## Food, Diaper, Woman's Health, and Blood Banks
 - **[Texas Diaper Bank](texasdiaperbank.org/)**
 - **[Houston Food Bank](http://www.houstonfoodbank.org/donate/donate-money/)**
 - **[Corpus Christi Food Bank](http://www.foodbankcc.com/)**
@@ -42,6 +44,7 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 - **[Victoria Food Bank](http://www.victoriafoodbank.org/)**
 - **[We are Blood](www.weareblood.org/donate-blood/donation-locations)**. A blood bank local to Austin, TX.
 - Latest updates from **[H-E-B and where they're open](https://www.heb.com/static-page/Disaster-Relief)**
+- [The Homeless PERIOD Project ATX](https://www.youcaring.com/frontstepshomelessshelter-785947)
 
 ## Children's Hospitals
 - **[Driscoll Children's Hospital](https://co.clickandpledge.com/advanced/default.aspx?wid=45664)**
@@ -55,7 +58,7 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 ## Boats needed for rescue
 - Harris County rescue efforts need to borrow boats/high water vehicles: **call 713-881-3100**
 
-## For our furry friends
+## For our fuzzy pet friends
 - **[SPCA of Texas](http://spca.org/give)**
 - **[Austin Pet Alive!](https://www.austinpetsalive.org/hurricane-harvey-evacuations/).** Their site seems to be having high traffic outages, so [this is an alternative for APA!](https://t.co/pGfccAoGQe). And you can donate directly to their [Amazon Wishlist](https://www.amazon.com/registry/wishlist/E82TAHUQLYW8/ref=cm_sw_r_cp_ep_ws_o.dOzb4M9214S).
 - **[Dallas DogsRRR](https://www.dallasdogrrr.org/)** - Dogs were trapped in flooded kennels and boats turned away.
@@ -69,7 +72,8 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 
 ## For People of Color
 - [Black America Web ](https://blackamericaweb.com/black-america-web-relief-fund/)
-- 
+- **[South Texas Human Rights](https://southtexashumanrights.org/make-a-donation/)**
+- **[ICNA Relief](https://www.icnarelief.org/wp/)**. Muslims for Humanity
 
 ## For the homeless
 - **[Houston Coalition for the Homeless](https://www.homelesshouston.org/take-action/donate/)**
