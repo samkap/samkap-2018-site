@@ -10,7 +10,7 @@ tags:
 - corpus-christi
 ---
 
-Houston has seen 22in+ with more expectation and surrounding areas like Austin have seen 4-9in. I'm seeing a lot of great tweets about where to donate, so I thought I'd share a list here of what I've come across or donated to thus far.
+ I'm seeing a lot of great tweets about where to donate, so I thought I'd share a list here of what I've come across or donated to thus far. **Last Updated: Tuesday, 29th of August, at 11:19pm, Texas Standard Time (CDT)**
 
 ## General
 - **[Launch Good](https://www.launchgood.com/project/storm_harvey_emergency_response#!/)**. Launch Good is a Muslim crowdfunding site. They're raising 10k.
@@ -96,7 +96,7 @@ Note: Attorneys will be needed because officials in Texas changed the laws on ho
 - **[Cotton Bureau](http://www.cottonbureau.com) has a few tees up with designer proceeds going to Texas **[here](https://cottonbureau.com/products/texas-4)** and **[here](https://cottonbureau.com/products/lets-do-it-for-texas-yall)**
 
 ## Scams to be aware of
-- [Marketplace](https://twitter.com/Marketplace/status/902730115838337024)
+- [Marketplace](https://www.marketplace.org/2017/08/29/life/hurricane-harvey-flooding-dredges-scams-and-hoaxes)
 
 ### Additional Resources
 - A lot of these links came from social media, mostly from **[@jiatolentino](https://twitter.com/jiatolentino/status/901851531577884674)**. 
