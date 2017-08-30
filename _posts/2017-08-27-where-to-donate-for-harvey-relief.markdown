@@ -49,8 +49,9 @@ Houston has seen 22in+ with more expectation and surrounding areas like Austin h
 ## Children's Hospitals
 - **[Driscoll Children's Hospital](https://co.clickandpledge.com/advanced/default.aspx?wid=45664)**
 
-## Helping Schools
+## Helping Schools and Students
 - **[Donor's Choose](https://www.donorschoose.org/hurricane-harvey)**
+- **[Houston Independent School District Family Support](http://www.houstonisd.org/Page/164281)**
 
 ## Shelter
 - **[AirBnB](https://www.airbnb.com/disaster/hurricaneharveyevacuees?sf109003285=1)** has free places to stay with no service fees. 
