@@ -10,7 +10,7 @@ tags:
 - corpus-christi
 ---
 
- I'm seeing a lot of great tweets about where to donate, so I thought I'd share a list here of what I've come across or donated to thus far. **Last Updated: Tuesday, 29th of August, at 11:31pm, Texas Standard Time (CDT)**
+ I'm seeing a lot of great tweets about where to donate, so I thought I'd share a list here of what I've come across or donated to thus far. **Last Updated: Tuesday, 29th of August, at 10:31pm, Texas Standard Time (CDT)**
 
 ## General
 - **[Launch Good](https://www.launchgood.com/project/storm_harvey_emergency_response#!/)**. Launch Good is a Muslim crowdfunding site. They're raising 10k.
