@@ -13,6 +13,7 @@ tags:
  I'm seeing a lot of great tweets about where to donate, so I thought I'd share a list here of what I've come across or donated to thus far. **Last Updated: Tuesday, 29th of August, at 10:31pm, Texas Standard Time (CDT)**
 
 ## General
+- [The Rebuild Texas Fund](https://www.rebuildtx.org/)
 - **[Launch Good](https://www.launchgood.com/project/storm_harvey_emergency_response#!/)**. Launch Good is a Muslim crowdfunding site. They're raising 10k.
 - **[Salvation Army Austin](https://give.salvationarmyusa.org/site/Donation2;jsessionid=00000000.app340b?df_id=27651&mfc_pref=T&27651.donation=form1&NONCE_TOKEN=09144B4DDAFD7687A8B0C5937B421EC6)**
 - Local to Houston, **[The Montrose Center](https://my.reason2race.com/DNicol/HurricaneHarveyLGBTQDisasterReliefFund2017)**. TMC specifically helps the LGBTQ community but is helping everyone during this time.
