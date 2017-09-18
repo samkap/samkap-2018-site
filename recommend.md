@@ -11,12 +11,15 @@ I share recommendations a lot, so here they are all in one place, because I also
 ## Books
 
 ### Learning Design (including UI and Web Design)
-- [Responsive Web Design]
-- [Designing the Invisible]
+- [Responsive Web Design](https://abookapart.com/products/responsive-web-design) by Ethan Marcotte
+- [Designing the Invisible] by Mark Boulton
 - [Front End Style Guides](http://www.maban.co.uk/projects/front-end-style-guides/)
 - [Designing for the web](http://www.designingfortheweb.co.uk/)
 - [Web Performance](https://andydavies.me/books/#webperformance)
 - [Designing Interface Animations](http://rosenfeldmedia.com/books/designing-interface-animation/)
+
+
+
 ### Learning JavaScript
 1. [JavaScript & jQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)
 2. [Eloquent JavaScript](https://www.amazon.com/Eloquent-JavaScript-2nd-Ed-Introduction/dp/1593275846/ref=sr_1_8?s=books&ie=UTF8&qid=1502142089&sr=1-8&keywords=javascript)
