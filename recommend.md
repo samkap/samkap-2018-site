@@ -12,7 +12,6 @@ I share recommendations a lot, so here they are all in one place, because I also
 
 ### Learning Design (including UI and Web Design)
 - [Responsive Web Design](https://abookapart.com/products/responsive-web-design) by Ethan Marcotte
-- [Designing the Invisible] by Mark Boulton
 - [Front End Style Guides](http://www.maban.co.uk/projects/front-end-style-guides/)
 - [Designing for the web](http://www.designingfortheweb.co.uk/)
 - [Web Performance](https://andydavies.me/books/#webperformance)
