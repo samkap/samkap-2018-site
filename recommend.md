@@ -27,20 +27,13 @@ I share recommendations a lot, so here they are all in one place, because I also
 
 ### Newsletters
 
-## Podcasts
-
-bibliographies
-==============
-
-Some links that I find myself frequently sharing with others. Will continue to add over time. For books check out my [GoodReads](http://www.goodreads.com/samkap) account.
-
-
 ## Design
 ### Branding 
 * [LogoDesignLove’s brand identity style guides list](http://www.logodesignlove.com/brand-identity-style-guides)
 * [Find Brand Guidelines on the web](http://findguidelin.es/)
 * [Designing Brand Identity - book](http://www.amazon.com/Designing-Brand-Identity-Essential-Branding/dp/1118099206)
 * [The Brand Gap](http://www.amazon.com/The-Brand-Gap-Distance-Business/dp/0321348109/ref=pd_sim_b_1?ie=UTF8&refRID=17C792H5AXJ3AD8EB7ZT)
+
 ### Content
 * [Content Choreography – Jordan M](http://www.jordanm.co.uk/lab/contentchoreography)
 
@@ -112,6 +105,7 @@ Some links that I find myself frequently sharing with others. Will continue to a
 *   [Wes Anderson color palettes](http://wesandersonpalettes.tumblr.com/)
 *   [The real star of "Grand Budapest Hotel"? Graphic Design](http://www.fastcodesign.com/3027566/the-real-star-of-the-grand-budapest-hotel-graphic-design)
 
+## Podcasts
 ### Web Design and Dev
 * [The Responsive Web Design Podcast](http://responsivewebdesign.com/podcast/)
 * [ShopTalkShow](http://shoptalkshow.com/)
