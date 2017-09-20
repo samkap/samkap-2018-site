@@ -70,6 +70,31 @@ I share recommendations a lot, so here they are all in one place, because I also
 *   [Dieter Rams' 10 Design Principles](https://readymag.com/shuffle/dieter-rams/2/)
 *   [Designing for emotion](http://www.abookapart.com/products/designing-for-emotion)
 
+## Podcasts
+### Web Design and Dev
+* [The Responsive Web Design Podcast](http://responsivewebdesign.com/podcast/)
+* [ShopTalkShow](http://shoptalkshow.com/)
+* [The Big Web Show](http://5by5.tv/bigwebshow)
+* [Design Details](http://www.designdetails.fm/)
+* [NBSP](http://goodstuff.fm/nbsp)
+* [On the grid](http://5by5.tv/onthegrid)
+* [Path to Performance](http://pathtoperf.com/)
+* [StyleGuides Podcast](http://styleguides.io/podcast/)
+* [The Web Ahead](http://5by5.tv/webahead)
+
+### Non-web Design
+* [Design Matters with Debbie Millman](http://designobserver.com/topic/designmatters/1039)
+
+### General cool topics (The More You Know!)
+* [Transmission](http://goodstuff.fm/transmission/)
+* [99% Invisible](http://99percentinvisible.org/)
+* [Stuff you should know](http://www.stuffyoushouldknow.com/podcasts/)
+
+## Documentaries
+### About the Web
+* [CODE: Debugging the Gender Gap](https://www.netflix.com/title/80130565) (Link to Netflix), [blog post]() about the movie. 
+* [What Comes Next is the Future](http://www.futureisnext.com) (watch below)
+<iframe src="https://player.vimeo.com/video/177267839?byline=0&portrait=0" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/177267839">What Comes Next Is the Future (2016)</a> from <a href="https://vimeo.com/bearded">Bearded Studio</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## Communication
 ### On Speaking
@@ -104,32 +129,6 @@ I share recommendations a lot, so here they are all in one place, because I also
 *   [Designing the Grand Budapest Hotel](http://www.creativereview.co.uk/cr-blog/2014/march/grand-budapest-hotel)
 *   [Wes Anderson color palettes](http://wesandersonpalettes.tumblr.com/)
 *   [The real star of "Grand Budapest Hotel"? Graphic Design](http://www.fastcodesign.com/3027566/the-real-star-of-the-grand-budapest-hotel-graphic-design)
-
-## Podcasts
-### Web Design and Dev
-* [The Responsive Web Design Podcast](http://responsivewebdesign.com/podcast/)
-* [ShopTalkShow](http://shoptalkshow.com/)
-* [The Big Web Show](http://5by5.tv/bigwebshow)
-* [Design Details](http://www.designdetails.fm/)
-* [NBSP](http://goodstuff.fm/nbsp)
-* [On the grid](http://5by5.tv/onthegrid)
-* [Path to Performance](http://pathtoperf.com/)
-* [StyleGuides Podcast](http://styleguides.io/podcast/)
-* [The Web Ahead](http://5by5.tv/webahead)
-
-### Non-web Design
-* [Design Matters with Debbie Millman](http://designobserver.com/topic/designmatters/1039)
-
-### General cool topics (The More You Know!)
-* [Transmission](http://goodstuff.fm/transmission/)
-* [99% Invisible](http://99percentinvisible.org/)
-* [Stuff you should know](http://www.stuffyoushouldknow.com/podcasts/)
-
-## Documentaries
-### About the Web
-* [CODE: Debugging the Gender Gap](https://www.netflix.com/title/80130565) (Link to Netflix), [blog post]() about the movie. 
-* [What Comes Next is the Future](http://www.futureisnext.com) (watch below)
-<iframe src="https://player.vimeo.com/video/177267839?byline=0&portrait=0" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/177267839">What Comes Next Is the Future (2016)</a> from <a href="https://vimeo.com/bearded">Bearded Studio</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ### Spices
 * Turmeric
