@@ -6,15 +6,15 @@ Key:
 layout: page
 ---
 
-## Diversity, Equity, & Inclusion
+# Diversity, Equity, & Inclusion
 
 This page is a growing resource of thoughts and resources around Equity and Inclusion. Last Updated: **Sept 26th, 2017**. 
 
-### Diversity Training
+## Diversity Training
 - [Project Implicit from Harvard](https://implicit.harvard.edu/implicit/)
 - [Creative Morning's Diversity](https://youtu.be/5pj8E-XbRzE)
 
-### Tools
+## Tools
 
 #### Hiring & Job Searching
 - [Textio](https://textio.com/) 
