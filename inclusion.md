@@ -45,6 +45,6 @@ This page is a growing resource of thoughts and resources around Equity and Incl
 
 #### Good Examples of Diversity, Equity, & Inclusion
 - [NPR](http://thin.npr.org/) has a text only version of their site. How cool. How browser and user-friendly.
--
+- [Accessibility at Trivago](http://tech.trivago.com/2017/09/26/accessibility-at-trivago/)
 
 
