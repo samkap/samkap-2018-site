@@ -9,4 +9,4 @@ Last week, I attended the Liz Carpenter lecture at University of Texas, Austin,
 Check it out below:
 
 
-</div><iframe width="560" height="315" src="https://www.youtube.com/embed/PR9iIAWJAeE?rel=0" frameborder="0" allowfullscreen></iframe>
+</div> <iframe width="560" height="315" src="https://www.youtube.com/embed/PR9iIAWJAeE?rel=0" frameborder="0" allowfullscreen></iframe>
