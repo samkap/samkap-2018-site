@@ -1,6 +1,7 @@
 ---
 title: Dan Rather Lecture at UT
 date: 2017-10-09 14:27:00 -05:00
+published: false
 ---
 
 Last week, I attended the Liz Carpenter lecture at University of Texas, Austin,
