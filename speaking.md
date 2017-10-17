@@ -6,10 +6,10 @@ layout: default
 ## Speaking
 
 ### Upcoming
-- **[FusionConf](http://fusionconf.io/)**, Sept 2017, Speaker, Charlotte, NC, TBD
-
+- **[Austin Design Week](https://austindesignweek.org/), Nov 2017, Moderator, Austin, TX “Making Design for Good a Part of Your Career”
 
 ### Recent
+- **[FusionConf](http://fusionconf.io/)**, Sept 2017, Speaker, Charlotte, NC, “Diversity in Design”
 - **[ACT-W](http://austin.act-w.org)**, Aug 2017, Speaker, Austin, TX, “Challenging the Status Quo”
 - **[CreativeMornings / Austin](https://creativemornings.com/talks/sam-kapila/)**, July 2017, Speaker, Austin, TX, “Equality”
 - **[ConvergeSE](http://austin.act-w.org)**, June 2017, Speaker, Columbia, SC, “Using Design to improve Diversity & Inclusion”
