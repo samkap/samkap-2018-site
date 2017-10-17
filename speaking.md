@@ -6,7 +6,7 @@ layout: default
 ## Speaking
 
 ### Upcoming
-- **[Austin Design Week](https://austindesignweek.org/), Nov 2017, Moderator, Austin, TX “Making Design for Good a Part of Your Career”
+- **[Austin Design Week](https://austindesignweek.org/)**, Nov 2017, Moderator, Austin, TX “Making Design for Good a Part of Your Career”
 
 ### Recent
 - **[FusionConf](http://fusionconf.io/)**, Sept 2017, Speaker, Charlotte, NC, “Diversity in Design”
