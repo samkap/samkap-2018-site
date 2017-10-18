@@ -11,4 +11,5 @@ tags:
 
 Just finished reading Pao's [Reset](https://www.amazon.com/Reset-Fight-Inclusion-Lasting-Change/dp/039959101X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=). It's a needed book for the tech industry at this time, and I wanted to share her interview with Trevor Noah.
 
-<div style="background-color:#000000;width:520px;"><div style="padding:4px;"><iframe src="//media.mtvnservices.com/embed/mgid:arc:video:comedycentral.com:2aa16dc0-e3fd-4f8b-8235-ab866d5ceeae" frameborder="0" allowfullscreen="true"></iframe></div></div>
+<div style="background-color:#000000;width:520px;"><div style="padding:4px;"><iframe width="560" height="315" 
+ src="//media.mtvnservices.com/embed/mgid:arc:video:comedycentral.com:2aa16dc0-e3fd-4f8b-8235-ab866d5ceeae" frameborder="0" allowfullscreen="true"></iframe></div></div>
