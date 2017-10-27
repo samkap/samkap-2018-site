@@ -13,3 +13,4 @@ Just finished reading Pao's [Reset](https://www.amazon.com/Reset-Fight-Inclusion
 
 <iframe width="560" height="315" 
  src="//media.mtvnservices.com/embed/mgid:arc:video:comedycentral.com:2aa16dc0-e3fd-4f8b-8235-ab866d5ceeae" frameborder="0" allowfullscreen="true"></iframe>
+asdasd
