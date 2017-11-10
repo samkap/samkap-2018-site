@@ -8,7 +8,7 @@ layout: default
    {% if post.categories contains 'featured' %}
    <article>
     <span class="meta">FEATURED POST : {{ post.date | date: site.date_format }}</span>
-    <a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
+    <a href="{{ post.url | prepend: site.baseurl }}"><h1>{{ post.title }}</h1></a>
     <p>{{ post.content | truncatewords:100 | strip_html }}&nbsp;
       <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">→</a>
     </p>
