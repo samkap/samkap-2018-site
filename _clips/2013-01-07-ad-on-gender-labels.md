@@ -1,6 +1,6 @@
 ---
 title: Pantene ad looks into gender labels
-date: 2013-01-07 00:00:00 Z
+date: 2013-01-06 18:00:00 -06:00
 categories:
 - clips
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Microsoft survey about that young girls & STEM
-date: 2017-03-04 18:14:00 Z
+date: 2017-03-04 12:14:00 -06:00
 categories:
 - clips
 crosspost_to_medium: false

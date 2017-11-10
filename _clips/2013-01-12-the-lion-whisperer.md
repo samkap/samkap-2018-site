@@ -1,6 +1,6 @@
 ---
 title: The Lion Whisperer and a GoPro
-date: 2013-01-12 00:00:00 Z
+date: 2013-01-11 18:00:00 -06:00
 categories:
 - clips
 tags:

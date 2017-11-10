@@ -1,6 +1,6 @@
 ---
 title: Collapsed Navigation toggle
-date: 2017-02-02 13:52:00 Z
+date: 2017-02-02 07:52:00 -06:00
 categories:
 - clips
 layout: post

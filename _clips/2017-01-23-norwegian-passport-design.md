@@ -1,6 +1,6 @@
 ---
 title: Pass — Neue — New, relevant &amp; remarkable
-date: 2017-01-23 00:07:00 Z
+date: 2017-01-22 18:07:00 -06:00
 categories:
 - clips
 layout: post

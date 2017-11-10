@@ -1,6 +1,6 @@
 ---
 title: Taking On the 2017 Read Harder Challenge? Start Here.
-date: 2017-01-08 10:33:00 Z
+date: 2017-01-08 04:33:00 -06:00
 categories:
 - clips
 layout: post

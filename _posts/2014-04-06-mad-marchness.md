@@ -1,6 +1,6 @@
 ---
 title: Mad Marchness
-date: 2014-04-06 00:00:00 Z
+date: 2014-04-05 19:00:00 -05:00
 tags:
 - podcasts
 - community

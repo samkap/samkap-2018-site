@@ -1,6 +1,6 @@
 ---
 title: An easy to use sushi-making kit that'll cut down on your sushi bar bills.
-date: 2016-12-26 12:47:00 Z
+date: 2016-12-26 06:47:00 -06:00
 categories:
 - clips
 layout: post
