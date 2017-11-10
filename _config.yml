@@ -5,7 +5,7 @@ collections:
   clips:
     title: Clips
     output: true
-    permalink: "/:year/:month/:day/"
+    permalink: clips/:year/:month/:day/
   food:
     title: Food
     output: true
