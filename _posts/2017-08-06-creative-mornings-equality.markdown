@@ -11,9 +11,9 @@ tags:
 - community
 ---
 
-On August 21st, I spoke at [Creative Mornings](https://creativemornings.com/talks/sam-kapila) in Austin about their monthly, global theme, “equality”.
+On August 21st, I spoke at [Creative Mornings](https://creativemornings.com/talks/sam-kapila) in Austin, for their global theme, “equality”.
 
-This was something I’ve only dreamed of since Creative Mornings began, so getting to speak in my home city in front of people I love and people I admire, was a honor.
+This was something I’ve only dreamed of since Creative Mornings began—as I was reminded by one of the organizers—so getting to speak in my home city in front of people I love and people I admire, was a honor.
 
 Creative Mornings uploaded the edited video of my talk, some awesome attendees made sketches, and I felt really lucky to be able to speak about a topic I care about deeply: *Equality*. Check out some parts of the event below!
 
