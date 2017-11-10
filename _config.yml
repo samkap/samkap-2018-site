@@ -5,7 +5,6 @@ collections:
   clips:
     title: Clips
     output: false
-    permalink: "/clips/"
   food:
     title: Food
     output: true
