@@ -2,6 +2,9 @@
 title: Sam Kapila
 timezone: America/Chicago
 collections:
+  clips:
+    title: Clips
+    output: true
   food:
     title: Food
     output: true
