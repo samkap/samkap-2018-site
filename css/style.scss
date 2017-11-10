@@ -581,7 +581,7 @@ footer .inner {
     margin-top: 60px;
   }
 
-  h3,
+  .recent h1, h3,
   h4,
   h5,
   h6 {
@@ -625,7 +625,8 @@ footer .inner {
       flex-basis: 30%;
 
     &:first-of-type {
-      flex-basis: 75%;
+      flex-basis: 66%;
+      margin-right: 10%;
       margin-bottom: 2em;
       font-size: 130%;
     }
