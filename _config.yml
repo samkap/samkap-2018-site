@@ -9,8 +9,7 @@ collections:
   food:
     title: Food
     output: true
-    Ingredients:
-    - 
+    permalink: ":date"
   posts:
     title: Posts
     output: true
