@@ -4,7 +4,7 @@ timezone: America/Chicago
 collections:
   clips:
     title: Clips
-    output: true
+    output: false
     permalink: "/clips/"
   food:
     title: Food
