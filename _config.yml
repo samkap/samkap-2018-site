@@ -2,9 +2,6 @@
 title: Sam Kapila
 timezone: America/Chicago
 collections:
-  inclusion:
-    title: Inclusion
-    output: true
   posts:
     title: Posts
     output: true
