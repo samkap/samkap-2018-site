@@ -18,18 +18,17 @@ layout: default
 -  **[Front End Design Conference](http://www.frontenddesignconference.com/)**, June 2016, St Pete, Florida, “Design Research”
 
 ### Past
-<li><a class="bold" href="https://www.eventbrite.com/e/refresh-columbia-november-2014-registration-14328658403">Refresh Columbia</a>, Nov 2014, Speaker, “Design Research”</li>
-<li><a class="bold" href="http://www.convergefl.com">ConvergeFL</a>, Nov 2014, Keynote, “The (hover) state of web design education” </li>
-<li><a class="bold" href="http://www.tennshow2014.com">AIGA Tenn Show 2014</a>, Oct 2014, Judge and Guest Speaker</li>
-<li><a class="bold" href="http://charleston.webafternoon.com/">Web Afternoon Charleston</a>, Oct 2014, Speaker, “The (hover) state of web design education”</li>
-<li><a class="bold" href="http://charleston.webafternoon.com/">Aggregate Conference</a>, Sept 2014, Speaker, “Design Research”</li>
-<li><a class="bold" href="https://www.facebook.com/events/284326435089364/?ref_dashboard_filter=past">Refresh Austin</a>, Sept 2014, Speaker, Panel Moderator, The State of Front End</li>
-<li><a class="bold" href="http://www.convergese.com">ConvergeSE</a>, May 2014, Keynote, “The (hover) state of web design education”</li>
-<li><a class="bold" href="#" >Web Leadership Day</a>, Jun 2013,
-“RWD vs Native Apps”, Panel, <a href="http://www.youtube.com/watch?v=G6vl5vLz3bo&list=PLxtytQtmHMVMBfEPV71DOW9HMiYqInTF_" >video</a></li>
-<li><a class="bold" href="http://html5tx.com/pages/speakers" >HTML5TX 2013</a>, Jan 2013,
-“Teaching the designer of the 21st century” with William Moner, Grayson Lawrence. <a href="http://eventifier.co/event/html5tx/samkap" >open session</a></li>
-<li><a class="bold" href="http://www.txstatemcweek.com">Mass Comm Week</a>, Oct 2012,
-“Design 1-Up”, Panel, <a href="http://www.ustream.tv/recorded/26581450" >video</a> and <a href="http://www.samkapila.com/sharing/mcweek" >notes</a></li>
+*   [Refresh Columbia](https://www.eventbrite.com/e/refresh-columbia-november-2014-registration-14328658403), Nov 2014, Speaker, “Design Research”
+*   [ConvergeFL](http://www.convergefl.com), Nov 2014, Keynote, “The (hover) state of web design education”
+*   [AIGA Tenn Show 2014](http://www.tennshow2014.com), Oct 2014, Judge and Guest Speaker
+*   [Web Afternoon Charleston](http://charleston.webafternoon.com/), Oct 2014, Speaker, “The (hover) state of web design education”
+*   [Aggregate Conference](http://charleston.webafternoon.com/), Sept 2014, Speaker, “Design Research”
+*   [Refresh Austin](https://www.facebook.com/events/284326435089364/?ref_dashboard_filter=past), Sept 2014, Speaker, Panel Moderator, The State of Front End
+*   [ConvergeSE](http://www.convergese.com), May 2014, Keynote, “The (hover) state of web design education”
+*   [Web Leadership Day](#), Jun 2013, “RWD vs Native Apps”, Panel, [video](http://www.youtube.com/watch?v=G6vl5vLz3bo&list=PLxtytQtmHMVMBfEPV71DOW9HMiYqInTF_)
+*   [HTML5TX 2013](http://html5tx.com/pages/speakers), Jan 2013, “Teaching the designer of the 21st century” with William Moner, Grayson Lawrence. [open session](http://eventifier.co/event/html5tx/samkap)
+*   [Mass Comm Week](http://www.txstatemcweek.com), Oct 2012, “Design 1-Up”, Panel, [video](http://www.ustream.tv/recorded/26581450) and [notes](http://www.samkapila.com/sharing/mcweek)
 
 ![speaking at ConvergeSE 2017. Photo by Ben Callahan](/img/speaking.jpg)
+
+<small>Photo by Ben Callahan</small>

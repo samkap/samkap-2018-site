@@ -6,7 +6,7 @@ layout: default
 
 ## Writing & Interviews
 
-Along with being a monthly contributor for [net magazine](http://www.creativebloq.com)'s "Focus On" column, here is some pieces I've written, podcasted, contributed to or interviewed for:
+Along with being a monthly contributor for [net magazine](http://www.creativebloq.com)'s "Focus On" column, here is some pieces I've written, recorded, contributed to or interviewed for:
 
 - [How to enhance photography on your site](http://www.creativebloq.com/features/how-to-enhance-photography-on-your-website), net Magazine, December 2016 issue and online
 - [3 top tools for testing web performance](http://www.creativebloq.com/features/3-top-tools-for-testing-web-performance), net Magazine, November 2016 issue and online
@@ -17,7 +17,7 @@ Along with being a monthly contributor for [net magazine](http://www.creativeblo
 - [Tips for choosing vibrant colours for web projects](http://www.creativebloq.com/web-design/tips-choosing-vibrant-colours-web-projects-61620832), net Magazine, June 2016 issue and online
 - [Learn how to animate Scalable Vector Graphics](http://www.creativebloq.com/web-design/learn-how-animate-scalable-vector-graphics-51620196), net Magazine, May 2016 issue and online
 - [Focus On Portfolio Design](http://www.creativebloq.com/portfolios/how-make-cohesive-online-design-portfolio-111517909), net Magazine, December 2015 issue and online.
-<!-- <li><a href="" class="bold"></a></li> --> - ["You've got this"](https://the-pastry-box-project.net/sameera-kapila/2015-december-10), The Pastry Box Project, December 2015
+- ["You've got this"](https://the-pastry-box-project.net/sameera-kapila/2015-december-10), The Pastry Box Project, December 2015
 - ["Choosing Nothing: Be Kind, Please Unwind"](https://the-pastry-box-project.net/sameera-kapila/2015-october-7), The Pastry Box Project, October 2015
 - [25 Hottest Web Design Techniques](http://www.creativebloq.com/netmag/25-hottest-web-design-techniques-81516153), The Iron Yard Design student work featured in article
 - ["Design, Dinner, and A Show"](https://the-pastry-box-project.net/sameera-kapila/2015-august-14), The Pastry Box Project, August 2015
