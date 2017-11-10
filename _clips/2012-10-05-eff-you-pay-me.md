@@ -1,6 +1,6 @@
 ---
 title: F*** You, Pay Me, Mike Monteiro on Clients
-date: 2012-10-05 22:05:00 Z
+date: 2012-10-05 17:05:00 -05:00
 categories:
 - clips
 tags:

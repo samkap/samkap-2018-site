@@ -1,6 +1,6 @@
 ---
 title: Ira Glass on Storytelling
-date: 2013-11-25 00:00:00 Z
+date: 2013-11-24 18:00:00 -06:00
 categories:
 - clips
 tags:

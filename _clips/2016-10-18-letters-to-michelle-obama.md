@@ -1,6 +1,6 @@
 ---
 title: To the First Lady, with Love
-date: 2016-10-18 00:00:00 Z
+date: 2016-10-17 19:00:00 -05:00
 categories:
 - clips
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Pomplamoose’s “Get Lucky” and “Happy” cover mash-up
-date: 2014-02-22 00:00:00 Z
+date: 2014-02-21 18:00:00 -06:00
 categories:
 - clips
 layout: post

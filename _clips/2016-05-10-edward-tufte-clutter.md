@@ -1,6 +1,6 @@
 ---
 title: Edward Tufte on Clutter
-date: 2016-05-10 00:00:00 Z
+date: 2016-05-09 19:00:00 -05:00
 categories:
 - clips
 layout: post

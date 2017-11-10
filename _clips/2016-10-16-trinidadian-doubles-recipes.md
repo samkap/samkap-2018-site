@@ -1,6 +1,6 @@
 ---
 title: Trinidadian Doubles Recipes
-date: 2016-10-16 00:00:00 Z
+date: 2016-10-15 19:00:00 -05:00
 categories:
 - clips
 layout: post

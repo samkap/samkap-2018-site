@@ -1,6 +1,6 @@
 ---
 title: Debugging the Gender Gap [video]
-date: 2015-04-27 00:00:00 Z
+date: 2015-04-26 19:00:00 -05:00
 categories:
 - clips
 layout: post

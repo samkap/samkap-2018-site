@@ -1,3 +1,8 @@
+---
+title: The Hard Truth About Soft Skills
+date: 2014-04-20 00:00:00 -05:00
+---
+
 ﻿---
 layout: post
 title: The Hard Truth about Soft Skills

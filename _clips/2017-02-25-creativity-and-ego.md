@@ -1,6 +1,6 @@
 ---
 title: Creativity and Ego cannot go together
-date: 2017-02-25 00:00:00 Z
+date: 2017-02-24 18:00:00 -06:00
 categories:
 - clips
 layout: post

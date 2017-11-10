@@ -1,6 +1,6 @@
 ---
 title: Idea Evolution
-date: 2014-11-16 00:00:00 Z
+date: 2014-11-15 18:00:00 -06:00
 categories:
 - clips
 layout: post

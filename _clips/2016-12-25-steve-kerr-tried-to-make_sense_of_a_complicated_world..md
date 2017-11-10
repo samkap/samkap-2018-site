@@ -1,6 +1,6 @@
 ---
 title: Steve Kerr NYT Post
-date: 2016-12-25 18:21:00 Z
+date: 2016-12-25 12:21:00 -06:00
 categories:
 - clips
 layout: post

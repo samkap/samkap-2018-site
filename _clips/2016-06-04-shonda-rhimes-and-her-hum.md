@@ -1,6 +1,6 @@
 ---
 title: The more I play. The more I feel my hum.
-date: 2016-06-04 00:00:00 Z
+date: 2016-06-03 19:00:00 -05:00
 categories:
 - clips
 layout: post
