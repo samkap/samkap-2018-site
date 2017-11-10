@@ -11,6 +11,8 @@ collections:
   food:
     title: food
     output: true
+    Ingredients:
+    - 
 email: your-email@domain.com
 description: Sam Kapila is a design and educator in Austin, TX. Sam writes and speaks
   about Responsive Web Design, design strategy, and research, and diversity and inclusion
