@@ -2,12 +2,12 @@
 title: Wrote, spoke, and two months later
 date: 2014-07-04 00:00:00 Z
 layout: post
-Ttgs:
+Tags:
 - articles
 - writing
 - design
 - speaking
-desc: 
+desc:
 ---
 
 It seems appropriate to release a few unfinished drafts on Independence Day; they deserve their freedom! Here’s a few updates from the past few months:

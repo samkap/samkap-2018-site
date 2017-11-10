@@ -1,10 +1,9 @@
 ---
 title: Two Jolenes
 date: 2014-04-25 00:00:00 Z
-categories:
-- clips
 tags:
-- music,video
+- music
+- video
 layout: post
 desc: The various versions of a song I’ve had stuck in my head all week
 ---
@@ -21,6 +20,3 @@ Another version of “Jolene” I really enjoy comes from Miley Cyrus’ backyar
 
 
 Both versions give me chills.
-
-
-

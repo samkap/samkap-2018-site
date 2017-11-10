@@ -2,7 +2,12 @@
 title: Mad Marchness
 date: 2014-04-06 00:00:00 Z
 tags:
-- podcasts,community,texas-state,austin,travel,music
+- podcasts
+- community
+- texas-state
+- austin
+- travel
+- music
 layout: post
 desc: The month where everything happens and I'm playing catch-up!
 ---
@@ -22,6 +27,3 @@ As I suspected, March came and went. Since I moved to Texas six years ago, it ha
 
 
 I think this covers all of the March Madness! More soon!
-
-
-
