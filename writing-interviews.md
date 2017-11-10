@@ -7,7 +7,7 @@ layout: default
 ## Writing & Interviews
 
 Along with being a monthly contributor for [net magazine](http://www.creativebloq.com)'s "Focus On" column, here is some pieces I've written, recorded, contributed to or interviewed for:
-
+- [Get up to speed with CSS Grid](http://www.creativebloq.com/features/get-up-to-speed-with-css-grid), net Magazine, January 2017 issue and online
 - [How to enhance photography on your site](http://www.creativebloq.com/features/how-to-enhance-photography-on-your-website), net Magazine, December 2016 issue and online
 - [3 top tools for testing web performance](http://www.creativebloq.com/features/3-top-tools-for-testing-web-performance), net Magazine, November 2016 issue and online
 - [Creating web icons that break the language barrier](http://www.creativebloq.com/features/creating-web-icons-that-break-the-language-barrier), net Magazine, November 2016 issue and online
