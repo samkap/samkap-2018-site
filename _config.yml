@@ -11,6 +11,7 @@ collections:
     title: Food
     output: true
     layout: post
+    permalink: food/:year/:month/:day/:title
   posts:
     title: Posts
     output: true
