@@ -10,8 +10,8 @@ collections:
   food:
     title: Food
     output: true
-    layout: post
     permalink: food/:year/:month/:day/:title
+    layout: post
   posts:
     title: Posts
     output: true
