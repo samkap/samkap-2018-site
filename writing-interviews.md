@@ -5,7 +5,7 @@ position: 6
 layout: default
 ---
 
-## Writing & Interviews
+## Writing, Interviews, and Community
 
 Along with being a monthly contributor for [net magazine](http://www.creativebloq.com)'s "Focus On" column, here is some pieces I've written, recorded, contributed to or interviewed for:
 - [Get up to speed with CSS Grid](http://www.creativebloq.com/features/get-up-to-speed-with-css-grid), net Magazine, January 2017 issue and online
