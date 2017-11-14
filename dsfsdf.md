@@ -9,15 +9,15 @@ layout: default
 
 I write and participate in the design and development community. Along with being a former monthly contributor for [net magazine](http://www.creativebloq.com)'s "Focus On" column, here are some pieces I've written, recorded, contributed to or interviewed for as well as tech community events I've been a part of:
 
-### Community 
+### Community
 
-* [HACKTX](http://www.hacktx.com), October 2017, Austin, TX, Final Round Judge with Bob Metcalfe 
+* [HACKTX](http://www.hacktx.com), October 2017, Austin, TX, Final Round Judge with Bob Metcalfe
 
 * [NetAwards 2015](http://thenetawards.com)
 
 * netAwards 2014
 
-### Writing 
+### Writing
 
 * [Get up to speed with CSS Grid](http://www.creativebloq.com/features/get-up-to-speed-with-css-grid), net Magazine, January 2017 issue and online
 
@@ -74,14 +74,10 @@ I write and participate in the design and development community. Along with bein
 ---
 
 ### Elsewhere
-
-<ul>
-<li><a href="http://www.twitter.com/samkap">Tweeting on Twitter</a></li>
-<li><a href="http://codepen.io/samkap">Experimenting on Codepen</a></li>
-<li><a href="http://lanyrd.com/profile/samkap/">Meeting up on Lanyard</a></li>
-<li><a href="http://www.dribbble.com/samkap">Sketching on Dribbble</a></li>
-<li><a href="http://www.goodreads.com/samkap">Reading on Goodreads</a></li>
-<li><a href="http://samkap.vsco.co/">Viewing on VSCO Grid</a></li>
-<!-- <li><a href="https://www.everlane.com/n/sl6ruw">Buy clothing from Everlane</a> -->
-</ul>
-<p><a href="http://www.samkapila.com/feed">RSS</a></p>
+*   [Tweeting on Twitter](http://www.twitter.com/samkap)
+*   [Experimenting on Codepen](http://codepen.io/samkap)
+*   [Meeting up on Lanyard](http://lanyrd.com/profile/samkap/)
+*   [Sketching on Dribbble](http://www.dribbble.com/samkap)
+*   [Reading on Goodreads](http://www.goodreads.com/samkap)
+*   [Viewing on VSCO Grid](http://samkap.vsco.co/)
+* [RSS](http://www.samkapila.com/feed.xml)
