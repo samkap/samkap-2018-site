@@ -7,6 +7,7 @@ tags:
 - css
 - html
 - gardening
+layout: post
 ---
 
 Two of my favorite things together: [CSS grids and gardens](http://cssgridgarden.com/)
