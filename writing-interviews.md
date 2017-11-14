@@ -1,6 +1,7 @@
 ---
 title: Writing & Interviews
 permalink: "/writing-interviews/"
+position: 6
 layout: default
 ---
 

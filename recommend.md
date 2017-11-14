@@ -1,6 +1,7 @@
 ---
 title: Recommendations
 permalink: "/recommendations/"
+position: 2
 layout: page
 ---
 

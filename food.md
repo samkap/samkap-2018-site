@@ -1,5 +1,6 @@
 ---
 title: Food
+position: 7
 layout: page
 ---
 

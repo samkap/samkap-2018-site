@@ -1,6 +1,7 @@
 ---
 title: Posts
 permalink: "/posts/"
+position: 0
 Key: 
 layout: page
 ---

@@ -1,5 +1,6 @@
 ---
 title: Home
+position: 3
 home: true
 layout: home
 ---

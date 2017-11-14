@@ -1,6 +1,7 @@
 ---
 title: Clips
 permalink: "/clips/"
+position: 1
 layout: page
 ---
 
