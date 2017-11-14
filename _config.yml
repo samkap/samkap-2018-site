@@ -9,7 +9,7 @@ collections:
   food:
     title: Food
     output: true
-    permalink: ":date"
+    layout: post
   posts:
     title: Posts
     output: true
