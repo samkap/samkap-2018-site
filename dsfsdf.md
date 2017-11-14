@@ -80,4 +80,4 @@ I write and participate in the design and development community. Along with bein
 *   [Sketching on Dribbble](http://www.dribbble.com/samkap)
 *   [Reading on Goodreads](http://www.goodreads.com/samkap)
 *   [Viewing on VSCO Grid](http://samkap.vsco.co/)
-* [RSS](http://www.samkapila.com/feed.xml)
+*   [RSS](http://samkapila.com/feed.xml)
