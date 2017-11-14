@@ -33,6 +33,7 @@ This page is a growing resource of thoughts and resources around Equity and Incl
 
 ### Accessibility resources
 - [A11yProject.com](http://a11yproject.com/)
+- [Planning for Accessibility](https://alistapart.com/article/planning-for-accessibility) by Laura Kalbag
 - [MDN checklist](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Mobile_accessibility_checklist) Mozilla Accessibility Checklists
 - [MDN Semantic HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) : Writing HTML that supports 
 - [Color Accessibility Workflows from A List Apart](https://alistapart.com/article/color-accessibility-workflows)
