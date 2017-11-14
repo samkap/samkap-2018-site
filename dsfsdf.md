@@ -1,6 +1,6 @@
 ---
 title: Writing & Community
-permalink: "/writing-interviews/"
+permalink: "/writing-and-community/"
 position: 6
 layout: default
 ---
