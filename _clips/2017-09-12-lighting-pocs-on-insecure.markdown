@@ -7,6 +7,7 @@ tags:
 - diversity
 - inclusion
 - television
+layout: post
 ---
 
 [Keeping ‘Insecure’ lit: HBO cinematographer Ava Berkofsky on properly lighting black faces](https://mic.com/articles/184244/keeping-insecure-lit-hbo-cinematographer-ava-berkofsky-on-properly-lighting-black-faces#.2Y8nOzjt0), via @mic
