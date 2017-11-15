@@ -2,14 +2,15 @@
 title: Quick performance boost on the site
 date: 2017-11-14 19:16:00 -06:00
 published: false
+tags:
+- code
+- performance
 layout: post
 ---
 
-I'm sitting at home, with a sore throat and an almost-gone fever. I loathe not feeling productive and with Firefox's new blazing fast, Quantum, I can't help think about it and conversely, my lack of performance while sick. In order to cheer myself up and feel mildly productive, I thought I'd pick apart my site with a few accessibility tools and speed up the performance speed a tad. I'd writing this as I go through each step. The following are the steps I took LIVE:
+I'm sitting at home, with a sore throat and an almost-gone fever. I loathe not feeling productive and with Firefox's new blazing fast, Quantum, I can't help think about it and conversely, my lack of performance while sick. In order to cheer myself up and feel mildly productive, I thought I'd pick apart my site with a few performance speed tools a tad. I'd writing this as I go through each step. The following are the steps I took LIVE:
 
-## 1. First, re-read Dave's posts on RWD Bloats: [one]() and [two]().
-
-Based on Dave's advice, check my grades with quick tests from [Google PageSpeed](https://developers.google.com/speed/pagespeed/insights/) and [WebPageTest](https://www.webpagetest.org/).
+## 1. First, re-read Dave's posts on RWD Bloats: [one](daverupert.com/2014/07/rwd-bloat/) and [two](http://daverupert.com/2014/07/rwd-bloat-part-ii/). Based on Dave's advice, check my grades with quick tests from [Google PageSpeed](https://developers.google.com/speed/pagespeed/insights/) and [WebPageTest](https://www.webpagetest.org/).
 
 ### Google PageSpeed
 
@@ -44,3 +45,15 @@ This is interesting and I don't need to change my fonts any time soon, so I chec
 Okay, so it is favicons. I don't need six. I should only have three, I think. One favicon, that photo of me, and my logo. The other three are coming, mainly for the purpose of serving as icons on mobile devices. I don't know about anyone else, but I don't even have my own site on my home screen. I feel like this is unnecessary to keep, so I take it out of my `head` includes, and in the process, clean up spaces and unused code in six other includes. I feel better about it, but I'm not sure if it's actually helping yet.
 
 I also, re-optimized my logo (7k, no change) and the photo at the bottom of me (15.8k to 14.3k).
+
+## Quick Results
+After taking maybe 45-90min with a few random breaks and about six commits, here's how the page did: 
+
+### Google PageSpeed Results
+
+I went from a 75 on Mobile and 87 on Desktop, to 87 on Mobile and 95 on Desktop! Yay, so that makes me excited for when my brain and body aren't all fever-y and I can dive into this cache stuff.
+
+### Google PageSpeed Results
+For this I was able to shave of a few hundredths of a second, to bring down load time. I did get rid of some images and added Disqus back in. Not sure how much all of this is playing into it. On first run, load time came down from 1.363s to 1.125s, with first byte at down from 0.230s to 0.168s . Fully loaded came down the most from 1.487s to 1.168s. I took out favicons and down-saved my images. The fonts in bytes was still in the 50s but I know 10kb came out from unchecking opentype features. My very sleepy and now hungry guess thinks the additional 5kb saved came from image optimizing and making removing other favicons. 
+
+
