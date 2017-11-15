@@ -19,8 +19,9 @@ Both Mobile and Desktop have the same issues. According to Google, two important
 ![desktop-02-start.png](/uploads/desktop-02-start.png)
 These are things I'm not being lazy about, at least on this page, but I'm glad that images are optimized (yay [ImageOptim](https://imageoptim.com/) but if you know of a great Jekyll plug-in that could do this, let me know!
 
+### WebPageTest
 ![webpagetest-start.png](/uploads/webpagetest-start.png)
-Yay! Only one F! This is *just *like school all over again. Kidding. But according to this Typekit is out of control, making up over 54-point-freaking-7-percent (54.7%) of my site's bytes. That seems like a lot and I don't like. Also, I have six images on home, and I don't quite see why until favicons have anything to do with it. Now armed with knowledge, let's see what we can do about it. Here goes!
+Yay! Only one F! This is \*just \*like school all over again. Kidding. But according to this Typekit is out of control, making up over 54-point-freaking-7-percent (54.7%) of my site's bytes. That seems like a lot and I don't like. Also, I have six images on home, and I don't quite see why until favicons have anything to do with it. Now armed with knowledge, let's see what we can do about it. Here goes!
 
 ## 1. Moved Typekit to below my content
 
@@ -38,9 +39,8 @@ I jumped into my Kit Settings and saw a "Optimize performance" option. It links 
 
 This is interesting and I don't need to change my fonts any time soon, so I check it.
 
-\## 3. Now, this six image thing
+## 3. Now, this six image thing
 
 Okay, so it is favicons. I don't need six. I should only have three, I think. One favicon, that photo of me, and my logo. The other three are coming, mainly for the purpose of serving as icons on mobile devices. I don't know about anyone else, but I don't even have my own site on my home screen. I feel like this is unnecessary to keep, so I take it out of my `head` includes, and in the process, clean up spaces and unused code in six other includes. I feel better about it, but I'm not sure if it's actually helping yet.
 
-I also, re-optimized my logo (7k, no change) and the photo at the bottom of me (
-
+I also, re-optimized my logo (7k, no change) and the photo at the bottom of me (15.8k to 14.3k).
