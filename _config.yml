@@ -6,16 +6,20 @@ collections:
     title: Clips
     output: true
     permalink: clips/:year/:month/:day/:title
-    layout: post
+    values:
+      layout: posts
   food:
     title: Food
     output: true
     permalink: food/:year/:month/:day/:title
-    layout: food
+    values:
+      layout: posts
   posts:
     title: Posts
     output: true
     layout: post
+    values:
+      layout: posts
   uploads:
     title: Uploads
     output: true
