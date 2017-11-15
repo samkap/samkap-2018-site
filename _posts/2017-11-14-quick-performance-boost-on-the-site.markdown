@@ -7,7 +7,7 @@ tags:
 layout: post
 ---
 
-I'm sitting at home, with a sore throat and an almost-gone fever. I loathe not feeling productive and with Firefox's new blazing fast, Quantum, I can't help think about it and my lack of performance while sick. In order to cheer myself up and feel mildly productive, I thought I'd pick apart my site with a few performance speed tools a tad. I'm writing this as I go through each step. The following are the steps I took LIVE:
+I'm sitting at home, with a sore throat and an almost-gone fever. I loathe feeling unproductive. And, with Firefox's new blazing fast, Quantum, I can't help but feel level more sick and tired. In order to cheer myself up and feel mildly productive, I thought I'd pick apart my site with a few performance speed tools, but briefly. I know better than to get too deep into code when not in a focused state of mind. So, I'll keep this brief and write I go through each step. The following are the steps I took:
 
 ## 1. First, re-read Dave's posts on RWD Bloats.
 
@@ -71,7 +71,7 @@ I went from a 75 on Mobile and 87 on Desktop, to 87 on Mobile and 95 on Desktop!
 ![webpagetest results which went from 1.487s to 1.168s, fully loaded](/uploads/webpagetest-end.png)
 {: .full}
 
-For this I was able to shave off a few hundredths of a second, to reduce load time. I did get rid of some images and added Disqus back in. Not sure how much all of this is playing into it. On the first run, load time came down from 1.363s to 1.125s, with the first byte at down from 0.230s to 0.168s. Fully loaded came down the most from 1.487s to 1.168s. I took out favicons and down-saved my images. The fonts in bytes were still in the 50s but I know 10kb came out from unchecking OpenType features. My very sleepy and now hungry guess thinks the additional 5kb saved came from image optimizing and making removing other favicons.
+For this I was able to shave off a few hundredths of a second, to reduce load time. I did get rid of some images and added Disqus back in. Not sure how much all of this is playing into it. On the first run, load time came down from 1.363s to 1.125s, with the first byte at down from 0.230s to 0.168s. Fully loaded came down the most from 1.487s to 1.168s. I took out favicons and down-saved my images. The fonts in bytes were still in the 50s but I know 10kb came out from unchecking OpenType features. My sleepy and now hungry guess is the remaining 5kb came from image optimizing and making removing other favicons.
 
 
 <style>
