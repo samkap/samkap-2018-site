@@ -1,6 +1,6 @@
 ---
 title: PosterForTomorrow Results Announced
-date: 2012-10-12 18:00:00 Z
+date: 2012-10-12 13:00:00 -05:00
 tags:
 - awards
 - student-work

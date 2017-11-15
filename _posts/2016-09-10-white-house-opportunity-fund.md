@@ -1,6 +1,6 @@
 ---
 title: The Tech Opportunity Fund & The White House
-date: 2016-09-10 00:00:00 Z
+date: 2016-09-09 19:00:00 -05:00
 tags:
 - white-house
 - opportunity

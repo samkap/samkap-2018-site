@@ -7,7 +7,6 @@ tags:
 - gender
 - community
 layout: post
-
 ---
 
 Identify as a lady in tech? Check out [Tech Ladies®](https://www.hiretechladies.com/join/?kid=GDT52). Tech Ladies® is a community that connects women to the best jobs and opportunities in tech.

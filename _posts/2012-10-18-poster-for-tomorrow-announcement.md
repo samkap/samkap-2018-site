@@ -1,6 +1,6 @@
 ---
 title: Poster for Tomorrow Announcement
-date: 2012-10-18 01:23:00 Z
+date: 2012-10-17 20:23:00 -05:00
 tags:
 - texas-state
 - student-work
