@@ -1,7 +1,6 @@
 ---
 title: Quick performance boost on the site
 date: 2017-11-14 19:16:00 -06:00
-published: false
 tags:
 - code
 - performance
