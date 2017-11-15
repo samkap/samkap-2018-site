@@ -23,7 +23,7 @@ description: Sam Kapila is a design and educator in Austin, TX. Sam writes and s
   about Responsive Web Design, design strategy, and research, and diversity and inclusion
   in tech. She is the Director of Academic Operations and Diversity at The Iron Yard,
   and taught at Texas State University for six years before that.
-baseurl:
+baseurl: 
 url: http://samkapila.com
 twitter_username: samkap
 github_username: samkap
@@ -41,13 +41,13 @@ logo-image: "/img/ampersam.svg"
 nav-breaking-point: 520px
 paginate_path: "/page-:num/"
 sitemap:
-    filename: "/sitemap.xml"
-    exclude:
-        - "/atom.xml"
-        - "/feed.xml"
-        - "/feed/index.xml"
-    include_posts:
-        - "/index.html"
-        - "/clips/index.md"
-    change_frequency_name: "change_frequency"
-    priority_name: "priority"
+  filename: "/sitemap.xml"
+  exclude:
+  - "/atom.xml"
+  - "/feed.xml"
+  - "/feed/index.xml"
+  include_posts:
+  - "/index.html"
+  - "/clips/index.md"
+  change_frequency_name: change_frequency
+  priority_name: priority
