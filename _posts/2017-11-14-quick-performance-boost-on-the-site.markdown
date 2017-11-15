@@ -36,4 +36,11 @@ I jumped into my Kit Settings and saw a "Optimize performance" option. It links 
 
 > Increasing the cache timeout means that you will no longer be able to make quick changes to this kit. When this option is enabled, updates may take up to a week to be visible to all your visitors; disabling the option won’t take full effect until after a week, either. Use this option only if you don't plan to make any further changes to your kit.
 
-This is interesting and I don't need to chance my fonts any time soon, so I check it.
+This is interesting and I don't need to change my fonts any time soon, so I check it.
+
+\## 3. Now, this six image thing
+
+Okay, so it is favicons. I don't need six. I should only have three, I think. One favicon, that photo of me, and my logo. The other three are coming, mainly for the purpose of serving as icons on mobile devices. I don't know about anyone else, but I don't even have my own site on my home screen. I feel like this is unnecessary to keep, so I take it out of my `head` includes, and in the process, clean up spaces and unused code in six other includes. I feel better about it, but I'm not sure if it's actually helping yet.
+
+I also, re-optimized my logo (7k, no change) and the photo at the bottom of me (
+
