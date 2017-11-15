@@ -9,6 +9,7 @@ tags:
 - inclusion
 - meditation
 - speaking
+layout: post
 ---
 
 ## Intro to Positive Leadership and Flourishing Organizations 
