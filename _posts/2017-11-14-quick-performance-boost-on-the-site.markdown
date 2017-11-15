@@ -76,6 +76,6 @@ For this I was able to shave off a few hundredths of a second, to reduce load ti
 
 <style>
 article img {
-  border: 2px gray solid;
+  border: 2px #004A55 solid;
 }
 </style>
