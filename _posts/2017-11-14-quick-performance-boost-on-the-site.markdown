@@ -14,7 +14,7 @@ Based on Dave's advice, check my grades with quick tests from [Google PageSpeed]
 ### Google PageSpeed
 
 ![desktop-01-start.png](/uploads/desktop-01-start.png)
-Both Mobile and Desktop have the same issues. According to Google, two important things to fix are: "Eliminate render-blocking JavaScript and CSS in above-the-fold content" that can be broken up into a few steps, and "Leverage browser caching", which I have no idea how to do, yet.
+Both Mobile and Desktop have the same issues. According to Google, two important things to fix are: "Eliminate render-blocking JavaScript and CSS in above-the-fold content" that can be broken up into a few steps, and "Leverage browser caching", which I have no idea how to do, yet. So, this, friends, I will not be doing at this time. I would hate to mis-read something while sick and make a big mistake. So I'll return to this later.
 
 ![desktop-02-start.png](/uploads/desktop-02-start.png)
 These are things I'm not being lazy about, at least on this page, but I'm glad that images are optimized (yay [ImageOptim](https://imageoptim.com/) but if you know of a great Jekyll plug-in that could do this, let me know!
