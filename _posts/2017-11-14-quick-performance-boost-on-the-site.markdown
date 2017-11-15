@@ -72,3 +72,10 @@ I went from a 75 on Mobile and 87 on Desktop, to 87 on Mobile and 95 on Desktop!
 {: .full}
 
 For this I was able to shave off a few hundredths of a second, to reduce load time. I did get rid of some images and added Disqus back in. Not sure how much all of this is playing into it. On the first run, load time came down from 1.363s to 1.125s, with the first byte at down from 0.230s to 0.168s. Fully loaded came down the most from 1.487s to 1.168s. I took out favicons and down-saved my images. The fonts in bytes were still in the 50s but I know 10kb came out from unchecking OpenType features. My very sleepy and now hungry guess thinks the additional 5kb saved came from image optimizing and making removing other favicons.
+
+
+<style>
+article img {
+  border: 2px gray solid;
+}
+</style>
