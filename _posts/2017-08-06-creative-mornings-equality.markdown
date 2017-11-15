@@ -9,6 +9,7 @@ tags:
 - sketch
 - austin
 - community
+layout: post
 ---
 
 On August 21st, I spoke at [Creative Mornings](https://creativemornings.com/talks/sam-kapila) in Austin, for their global theme, “equality”.
