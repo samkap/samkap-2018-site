@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang }}" prefix="og: http://ogp.me/ns#">
-
 <head>
 	{% include head.html %}
 </head>
-
 <body class="{{page.title}}">
+	{% include header.html %}
 	{% if page.cover-image %}
 	<div class="cover-image-container">
 		<img alt="Cover image" src="{{ site.baseurl }}/img/covers/{{ page.cover-image }}">
 	</div>
-	{% endif %} {% include header.html %}
+	{% endif %}
 	<div class="wrap">
 		<main>
 			{{ content }}
@@ -19,5 +18,4 @@
 	{% include footer.html %}
 </body>
 {% include scripts.html %}
-
 </html>
