@@ -7,7 +7,7 @@ tags:
 layout: post
 ---
 
-I'm sitting at home, with a sore throat and an almost-gone fever. I loathe not feeling productive and with Firefox's new blazing fast, Quantum, I can't help think about it and conversely, my lack of performance while sick. In order to cheer myself up and feel mildly productive, I thought I'd pick apart my site with a few performance speed tools a tad. I'm writing this as I go through each step. The following are the steps I took LIVE:
+I'm sitting at home, with a sore throat and an almost-gone fever. I loathe feeling unproductive. And, with Firefox's new blazing fast, Quantum, I can't help but feel level more sick and tired. In order to cheer myself up and feel mildly productive, I thought I'd pick apart my site with a few performance speed tools, but briefly. I know better than to get too deep into code when not in a focused state of mind. So, I'll keep this brief and write I go through each step. The following are the steps I took:
 
 ## 1. First, re-read Dave's posts on RWD Bloats.
 
@@ -43,12 +43,11 @@ So, before you get mad at me, know that I'm mad at me. I do know better, I was b
 Log into Typekit and see if I'm missing any optimization settings there. My kit is 64k, 54k if I don't keep the OpenType feature. For now, I will keep it on and maybe come back to this later.
 
 ![typekit-02.png](/uploads/typekit-02.png)
-{: .full .img-only}
+{: .full}
 
 I jumped into my Kit Settings and saw a "Optimize performance" option. It links to [more info](https://helpx.adobe.com/typekit/using/optimizing-performance.html), which states:
 
 > Increasing the cache timeout means that you will no longer be able to make quick changes to this kit. When this option is enabled, updates may take up to a week to be visible to all your visitors; disabling the option won’t take full effect until after a week, either. Use this option only if you don't plan to make any further changes to your kit.
-{: .notice--info}
 
 This is interesting and I don't need to change my fonts anytime soon, so I check it.
 
@@ -71,7 +70,7 @@ I went from a 75 on Mobile and 87 on Desktop, to 87 on Mobile and 95 on Desktop!
 ![webpagetest results which went from 1.487s to 1.168s, fully loaded](/uploads/webpagetest-end.png)
 {: .full}
 
-For this I was able to shave off a few hundredths of a second, to reduce load time. I did get rid of some images and added Disqus back in. Not sure how much all of this is playing into it. On the first run, load time came down from 1.363s to 1.125s, with the first byte at down from 0.230s to 0.168s. Fully loaded came down the most from 1.487s to 1.168s. I took out favicons and down-saved my images. The fonts in bytes were still in the 50s but I know 10kb came out from unchecking OpenType features. My very sleepy and now hungry guess thinks the additional 5kb saved came from image optimizing and making removing other favicons.
+For this I was able to shave off a few hundredths of a second, to reduce load time. I did get rid of some images and added Disqus back in. Not sure how much all of this is playing into it. On the first run, load time came down from 1.363s to 1.125s, with the first byte at down from 0.230s to 0.168s. Fully loaded came down the most from 1.487s to 1.168s. I took out favicons and down-saved my images. The fonts in bytes were still in the 50s but I know 10kb came out from unchecking OpenType features. My sleepy and now hungry guess is the remaining 5kb came from image optimizing and making removing other favicons.
 
 
 <style>
