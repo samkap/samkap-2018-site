@@ -4,6 +4,8 @@ position: 5
 layout: default
 ---
 
+
+
 ## Speaking
 
 ### Upcoming
@@ -29,7 +31,3 @@ layout: default
 *   [Web Leadership Day](#), Jun 2013, “RWD vs Native Apps”, Panel, [video](http://www.youtube.com/watch?v=G6vl5vLz3bo&list=PLxtytQtmHMVMBfEPV71DOW9HMiYqInTF_)
 *   [HTML5TX 2013](http://html5tx.com/pages/speakers), Jan 2013, “Teaching the designer of the 21st century” with William Moner, Grayson Lawrence. [open session](http://eventifier.co/event/html5tx/samkap)
 *   [Mass Comm Week](http://www.txstatemcweek.com), Oct 2012, “Design 1-Up”, Panel, [video](http://www.ustream.tv/recorded/26581450) and [notes](http://www.samkapila.com/sharing/mcweek)
-
-![speaking at ConvergeSE 2017. Photo by Ben Callahan](/img/speaking.jpg)
-
-<small>Photo by Ben Callahan</small>
