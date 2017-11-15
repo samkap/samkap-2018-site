@@ -2,18 +2,7 @@
 ---
 
 @import  "../_sass/reset";
-//
-// .floral {
-//   // float: left;
-//   background: url("../img/floral.png") repeat;
-//   // background-attachment: fixed;
-//   background-size: 100%;
-//   height: 100%;
-//   position: fixed;
-//   width: 20%;
-//   top: 0;
-//   bottom: 0;
-// }
+
 
 main {
   padding: 0 6%;
@@ -23,6 +12,7 @@ $color1: #004A55; // dark blue
 $color2: #A7CE3A; // diff green
 $color3: #F87D09; // orange
 $color4: #DBE8E8;
+$gray: #f2f3f3;
 
 ::selection {
   background: $color2;
@@ -41,7 +31,7 @@ $color4: #DBE8E8;
   clear: both;
   height: 0;
 }
-$gray: #F6F6F6;
+
 
 * {
   -webkit-box-sizing: border-box;
@@ -137,12 +127,13 @@ li * {
 img {
   max-width: 100%;
   display: block;
-  margin: 0 auto;
 }
 
 .img-only {
   margin: 0 -15px;
-  background-color: $gray;
+  img {
+    border: solid $gray 2px;
+  }
 }
 
 .img-only-source {
@@ -227,42 +218,25 @@ tr:last-child {
 
 
 blockquote {
-  padding: 0 20px;
+  padding: 20px 15px 20px 30px;
   font-style: italic;
+  background-color: #eef7fa;
+  border-radius: 4px;
+  box-shadow: 0 1px 1px rgba(82,173,200,0.25);
 }
 
-blockquote::after,
-blockquote::before {
-  font-weight: 400;
-  font-size: 80px;
-  color: $color2;
-  display: block;
-  text-align: center;
-  vertical-align: bottom;
-  height: 40px;
-  font-style: normal;
-}
-
-blockquote::before {
-  content: "";
-  margin-top: 30px;
-}
-
-blockquote::after {
-  content: "";
-  margin-bottom: 30px;
-}
 
 code {
   font-family: "Source Code Pro", monospace;
 }
 
 p code {
-  font-size: 0.7em;
+  font-size: 0.8em;
   display: inline-block;
   border-radius: 2px;
   background-color: $gray;
-  border: 1px solid $gray;
+  border-radius: 4px;
+  box-shadow: 0 1px 1px rgba(122,130,136,0.25);
   padding: 0 3px;
 }
 
@@ -296,6 +270,12 @@ small a {
   z-index: -9999;
   opacity: 0.7;
   width: 100%;
+  height: 200px;
+  overflow: hidden;
+  img{
+    width: 100%;
+      filter: blur(5px) grayscale(80%);
+  }
 }
 
 .cover-image-container::after {
@@ -410,6 +390,7 @@ input[type="submit"] {
 
 #disqus_thread {
   margin-bottom: 50px;
+  max-width: 800px;
 }
 
 footer {
@@ -497,6 +478,17 @@ footer .inner {
 
   .posts {
     padding: 2.5em 0;
+    h1, h2, h3, blockquote, p {
+      max-width: 800px;
+    }
+
+    p {
+    font-size: 1.1em;
+    }
+
+    p.full {
+    max-width: 100%;
+    }
   }
 
   header {
@@ -597,8 +589,8 @@ footer .inner {
   }
 
   blockquote {
-    // padding: 0 30px;
     font-size: 1.3em;
+
   }
 
   hr {
@@ -639,6 +631,7 @@ footer .inner {
         font-size: 75%;
         hyphens: 5;
         margin: 0;
+
       }
 }
 
