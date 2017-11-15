@@ -43,12 +43,11 @@ So, before you get mad at me, know that I'm mad at me. I do know better, I was b
 Log into Typekit and see if I'm missing any optimization settings there. My kit is 64k, 54k if I don't keep the OpenType feature. For now, I will keep it on and maybe come back to this later.
 
 ![typekit-02.png](/uploads/typekit-02.png)
-{: .full .img-only}
+{: .full}
 
 I jumped into my Kit Settings and saw a "Optimize performance" option. It links to [more info](https://helpx.adobe.com/typekit/using/optimizing-performance.html), which states:
 
 > Increasing the cache timeout means that you will no longer be able to make quick changes to this kit. When this option is enabled, updates may take up to a week to be visible to all your visitors; disabling the option won’t take full effect until after a week, either. Use this option only if you don't plan to make any further changes to your kit.
-{: .notice--info}
 
 This is interesting and I don't need to change my fonts anytime soon, so I check it.
 
