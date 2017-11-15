@@ -55,8 +55,11 @@ After taking maybe 45-90min with a few random breaks and about six commits, here
 
 ### Google PageSpeed Results
 <figure>
+
 ![Google PageSpeed Results](/uploads/desktop-01-end.png)
+
 </figure>
+
 I went from a 75 on Mobile and 87 on Desktop, to 87 on Mobile and 95 on Desktop! Yay, so that makes me excited for when my brain and body aren't all fever-y and I can dive into this caching stuff.
 
 ### Google PageSpeed Results
