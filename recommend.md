@@ -5,9 +5,15 @@ position: 3
 layout: page
 ---
 
-# Recommendations
+## Recommendations
 
 I share recommendations a lot, so here they are all in one place, because I also hoard resources a lot!
+
+## For Austinites
+- [Women Who Code](https://www.meetup.com/Women-Who-Code-Austin/) meetup group
+- [Girl Develop It](https://www.meetup.com/Girl-Develop-It-Austin/)
+
+\* \ These meetups have national or international chapters
 
 ## Books
 
