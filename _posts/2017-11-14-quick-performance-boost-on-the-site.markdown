@@ -54,9 +54,9 @@ I also, re-optimized my logo (7k, no change) and the photo at the bottom of me (
 After taking maybe 45-90min with a few random breaks and about six commits, here's how the page did: 
 
 ### Google PageSpeed Results
-
+<figure>
 ![Google PageSpeed Results](/uploads/desktop-01-end.png)
-
+</figure>
 I went from a 75 on Mobile and 87 on Desktop, to 87 on Mobile and 95 on Desktop! Yay, so that makes me excited for when my brain and body aren't all fever-y and I can dive into this caching stuff.
 
 ### Google PageSpeed Results
