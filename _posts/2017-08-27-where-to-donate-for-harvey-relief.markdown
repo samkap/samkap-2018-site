@@ -8,6 +8,7 @@ tags:
 - texas
 - houston
 - corpus-christi
+layout: post
 ---
 
  I'm seeing a lot of great tweets about where to donate, so I thought I'd share a list here of what I've come across or donated to thus far. **Last Updated: Tuesday, 29th of August, at 10:31pm, Texas Standard Time (CDT)**
