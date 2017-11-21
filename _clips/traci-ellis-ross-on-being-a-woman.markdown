@@ -15,4 +15,6 @@ layout: post
 
 I feel like I could watch this over and over. It's a beautiful love letter to yourself and the women in your lives.
 
-{.full}﻿﻿﻿﻿﻿﻿﻿﻿﻿<script async src="//player-backend.cnevids.com/script/video/5a0a2a62148bb036f9000026.js?iu=/3379/glamour.dart/share"></script>
+﻿﻿﻿﻿﻿﻿﻿﻿﻿<script async src="//player-backend.cnevids.com/script/video/5a0a2a62148bb036f9000026.js?iu=/3379/glamour.dart/share"></script>
+
+{: .full}
