@@ -69,7 +69,7 @@ I share recommendations a lot, so here they are all in one place, because I also
 
 ### Content
 
-* [Content Choreography – Jordan M](http://www.jordanm.co.uk/lab/contentchoreography)
+* [Content Choreography](http://www.jordanm.co.uk/lab/contentchoreography) by Jordan M
 
 * [Nicely Said ](http://www.nicelysaid.co/resources)by Nicole Fenton
 
