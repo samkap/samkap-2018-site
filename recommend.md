@@ -17,7 +17,7 @@ I share recommendations a lot, so here they are all in one place, because I also
 
 * [Tech Ladies](http://www.hiretechladies.com) meetup group\* (I'm the Austin City Organizer)
 
-* [Refresh Austin](https://www.meetup.com/Austin-Web-Design/) meetup group
+* [Refresh Austin](https://www.meetup.com/Austin-Web-Design/) meetup group\*
 
 \* These meetups have national or international chapters
 
@@ -25,23 +25,27 @@ I share recommendations a lot, so here they are all in one place, because I also
 
 * [Responsive Web Design](https://abookapart.com/products/responsive-web-design) by Ethan Marcotte
 
-* [Front End Style Guides ](http://www.maban.co.uk/projects/front-end-style-guides/)
+* [Front End Style Guides](http://www.maban.co.uk/projects/front-end-style-guides/)  by Anna Debenham
 
-* [Designing for the web](http://www.designingfortheweb.co.uk/)
+* [Designing for the web](http://www.designingfortheweb.co.uk/) by Mark Boulton
 
-* [Web Performance](https://andydavies.me/books/#webperformance)
+* [Web Performance](https://andydavies.me/books/#webperformance) by Andy Davies
 
-* [Designing Interface Animations](http://rosenfeldmedia.com/books/designing-interface-animation/)
+* [Designing Interface Animations](http://rosenfeldmedia.com/books/designing-interface-animation/) by Val Head
+
+* [The Shape of Design](http://shapeofdesignbook.com/) by Frank Chimero
+
+* [Pixel Perfect Precision](http://ustwo.com/blog/the-ustwo-pixel-perfect-precision-handbook-3/) by ustwo
 
 ### Books for Learning JavaScript
 
-* [JavaScript & jQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)
+* [JavaScript & jQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647) by John Duckett
 
-* [Eloquent JavaScript](https://www.amazon.com/Eloquent-JavaScript-2nd-Ed-Introduction/dp/1593275846/ref=sr_1_8?s=books&ie=UTF8&qid=1502142089&sr=1-8&keywords=javascript)
+* [Eloquent JavaScript](https://www.amazon.com/Eloquent-JavaScript-2nd-Ed-Introduction/dp/1593275846/ref=sr_1_8?s=books&ie=UTF8&qid=1502142089&sr=1-8&keywords=javascript) by Marijn Haverbeke
 
-* [JavaScript for Web Designers](https://abookapart.com/products/javascript-for-web-designers)
+* [JavaScript for Web Designers](https://abookapart.com/products/javascript-for-web-designers) by Mat Marquis
 
-* [JavaScript & jQuery The Missing Manual](https://www.amazon.com/JavaScript-jQuery-Missing-Manual-Manuals/dp/1491947071/ref=sr_1_3?ie=UTF8&qid=1502142181&sr=8-3&keywords=javascript\+jquery)
+* [JavaScript & jQuery The Missing Manual](https://www.amazon.com/JavaScript-jQuery-Missing-Manual-Manuals/dp/1491947071/ref=sr_1_3?ie=UTF8&qid=1502142181&sr=8-3&keywords=javascript\+jquery) by David Sawyer McFarland
 
 ### Newsletters
 
@@ -67,17 +71,19 @@ I share recommendations a lot, so here they are all in one place, because I also
 
 * [Content Choreography – Jordan M](http://www.jordanm.co.uk/lab/contentchoreography)
 
+* [Nicely Said ](http://www.nicelysaid.co/resources)by Nicole Fenton
+
 ### RWD
 
 * ["RWD is bad for Performance" is Good for Performance](http://timkadlec.com/2014/07/rwd-is-bad-for-performance-is-good-for-performance/)
 
 ### Web Typography
 
-* [Advanced Web Typography by Elliot Jay Stocks](http://advancedwebtypography.com/)
+* [Advanced Web Typography ](http://advancedwebtypography.com/)by Elliot Jay Stocks
 
 * [CopyPasteCharacter](http://copypastecharacter.com/)
 
-* [Quotes and Accents – Jessica Hische](http://copypastecharacter.com/)
+* [Quotes and Accents](http://copypastecharacter.com/)  by Jessica Hische
 
 * [Typ.io (Web Typography gallery)](http://www.typ.io)
 
