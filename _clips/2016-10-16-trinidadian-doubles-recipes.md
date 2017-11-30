@@ -6,5 +6,4 @@ categories:
 layout: post
 ---
 
-Today I ate some amazing Trinidadian Doubles, and [found a great recipe](http://www.simplytrinicooking.com/doubles/) with visual steps of the process.
-
+Today I ate some amazing Trinidadian Doubles, and [found a great recipe](http://www.simplytrinicooking.com/doubles/) and [another one](https://spoonuniversity.com/recipe/trinidadian-doubles-recipe-beats-american-street-food-any-day) with visual steps of the process.
