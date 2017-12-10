@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-I revisited notes at the plethora of conferences I ended this year. In April, I attended [Collision Conference](https://collisionconf.com/) in one of my favorite cities, New Orleans. While the conference felt disconnected, some of the facilitated roundtables were beneficial. For over two years, I managed over 40 people (most, remote), so the team culture tracks piqued my interest. Sameer Dholakia, the CEO of SendGrid facilitated for a session about leadership values. He shared how he approached creating a culture at SendGrid and value-guiding questions. He shared insights about recruiting, psychometric assessments, and team-building camps. For Dholakia [and SendGrid](https://sendgrid.com/about/), the culture came down to their 4H’s that are : 
+I revisited notes at the plethora of conferences I ended this year. In the Spring, I attended [Collision Conference](https://collisionconf.com/) in one of my favorite cities, New Orleans. While the conference felt disconnected, some of the facilitated roundtables were beneficial. For over two years, I managed over 40 people (most, remote), so the team culture tracks piqued my interest. Sameer Dholakia, the CEO of SendGrid facilitated for a session about leadership values. He shared how he approached creating a culture at SendGrid and value-guiding questions. He shared insights about recruiting, psychometric assessments, and team-building camps. For Dholakia [and SendGrid](https://sendgrid.com/about/), the culture came down to their 4H’s that are : 
 * Happy
 * Hungry
 * Humble
