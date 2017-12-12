@@ -11,7 +11,7 @@ I'm done speaking for **2017**. Looking forward to **2018**!
 
 
 ### Recent
-- **[Austin Design Week](https://austindesignweek.org/)**, Nov 2017, Moderator, Austin, TX “Making Design for Good a Part of Your Career”
+- **[Austin Design Week](https://austindesignweek.org/schedule/making-design-for-good-a-part-of-your-career)**, Nov 2017, Moderator, Austin, TX “Making Design for Good a Part of Your Career”
 - **[FusionConf](http://fusionconf.io/)**, Sept 2017, Speaker, Charlotte, NC, “Diversity in Design”
 - **[ACT-W](http://austin.act-w.org)**, Aug 2017, Speaker, Austin, TX, “Challenging the Status Quo”
 - **[CreativeMornings / Austin](https://creativemornings.com/talks/sam-kapila/)**, July 2017, Speaker, Austin, TX, “Equality”
