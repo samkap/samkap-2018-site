@@ -7,7 +7,7 @@ layout: default
 
 ## Writing, Interviews, and Community
 
-I write and participate in the design and development community. Along with being a former monthly contributor for [net magazine](http://www.creativebloq.com)'s "Focus On" column, here are some pieces I've written, recorded, contributed to or interviewed for as well as tech community events I've been a part of:
+I write and participate in the design and development community. Along with being a former monthly contributor for [net magazine](http://www.creativebloq.com)'s "Focus On" column and [The Pastry Box Project](https://the-pastry-box-project.net/), here contributions I've made to the design and development community.
 
 ### Community & Review
 * [HACKTX](http://www.hacktx.com), October 2017, Austin, TX, Final Round Judge along with Bob Metcalfe
