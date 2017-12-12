@@ -11,9 +11,9 @@ I write and participate in the design and development community. Along with bein
 
 ### Community & Review
 * [HACKTX](http://www.hacktx.com), October 2017, Austin, TX, Final Round Judge along with Bob Metcalfe
-* [net Awards 2015](http://thenetawards.com)
+* [net Awards 2015](http://thenetawards.com), 2015, United Kingdom
 * [HACKTX](http://www.hacktx.com), November 2015, Austin, TX, Judge
-* [net Awards 2014](http://thenetawards.com)
+* [net Awards 2014](http://thenetawards.com), 2014, United Kingdom
 
 
 ### Writing
