@@ -11,11 +11,11 @@ I write and participate in the design and development community. Along with bein
 
 ### Community
 
-* [HACKTX](http://www.hacktx.com), October 2017, Austin, TX, Final Round Judge with Bob Metcalfe
+* [HACKTX](http://www.hacktx.com), October 2017, Austin, TX, Final Round Judge along with Bob Metcalfe
+*
+* [net Awards 2015](http://thenetawards.com)
+* [net Awards 2014](http://thenetawards.com)
 
-* [NetAwards 2015](http://thenetawards.com)
-
-* netAwards 2014
 
 ### Writing
 
@@ -57,6 +57,7 @@ I write and participate in the design and development community. Along with bein
 
 ### Interviews
 
+* [SwitchUp: Three questions for three (awesome) women leaders at The Iron Yard](https://www.switchup.org/blog/three-questions-for-three-awesome-women-leaders-at-the-iron-yard), June 2016
 * [Hustle Podcast](http://funsize.co/hustle), Feb 2016
 
 * [Web Design Fundamentals: A Life of Learning](https://www.lynda.com/Web-Design-tutorials/Web-Design-Fundamentals/177837-2.html), Lynda.com course, Nov 2014
