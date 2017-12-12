@@ -56,7 +56,8 @@ I write and participate in the design and development community. Along with bein
 * ["5 Lessons from the RWD Classroom"](http://www.creativebloq.com/netmag/5-lessons-responsive-web-design-classroom-7135527), net Magazine, online
 
 ### Interviews
-
+* [NPR (KUT): Coding Boot Camps Aim To Help Solve Diversity Problem In Tech Sector](http://kut.org/post/coding-boot-camps-aim-help-solve-diversity-problem-tech-sector), Mar 2017
+* [SwitchUp: Introducing the #YesWeCode Fund](https://www.switchup.org/blog/introducing-the-yeswecode-fund), Mar 2017
 * [SwitchUp: Three questions for three (awesome) women leaders at The Iron Yard](https://www.switchup.org/blog/three-questions-for-three-awesome-women-leaders-at-the-iron-yard), June 2016
 * [Hustle Podcast](http://funsize.co/hustle), Feb 2016
 
