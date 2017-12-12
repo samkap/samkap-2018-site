@@ -57,8 +57,8 @@ I write and participate in the design and development community. Along with bein
 
 ### Interviews
 * [NPR (KUT): Coding Boot Camps Aim To Help Solve Diversity Problem In Tech Sector](http://kut.org/post/coding-boot-camps-aim-help-solve-diversity-problem-tech-sector), Mar 2017
-* [SwitchUp: Introducing the #YesWeCode Fund](https://www.switchup.org/blog/introducing-the-yeswecode-fund), Mar 2017
-* [SwitchUp: Three questions for three (awesome) women leaders at The Iron Yard](https://www.switchup.org/blog/three-questions-for-three-awesome-women-leaders-at-the-iron-yard), June 2016
+* [Switchup: Introducing the #YesWeCode Fund](https://www.switchup.org/blog/introducing-the-yeswecode-fund), Mar 2017
+* [Switchup: Three questions for three (awesome) women leaders at The Iron Yard](https://www.switchup.org/blog/three-questions-for-three-awesome-women-leaders-at-the-iron-yard), June 2016
 * [Hustle Podcast](http://funsize.co/hustle), Feb 2016
 
 * [Web Design Fundamentals: A Life of Learning](https://www.lynda.com/Web-Design-tutorials/Web-Design-Fundamentals/177837-2.html), Lynda.com course, Nov 2014
