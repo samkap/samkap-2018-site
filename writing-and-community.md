@@ -10,11 +10,16 @@ layout: default
 I write and participate in the design and development community. Along with being a former monthly contributor for [net magazine](http://www.creativebloq.com)'s "Focus On" column and [The Pastry Box Project](https://the-pastry-box-project.net/), here contributions I've made to the design and development community.
 
 ### Community & Review
-* [HACKTX](http://www.hacktx.com), October 2017, Austin, TX, Final Round Judge along with Bob Metcalfe
-* [net Awards 2015](http://thenetawards.com), 2015, United Kingdom
-* [HACKTX](http://www.hacktx.com), November 2015, Austin, TX, Judge
-* [net Awards 2014](http://thenetawards.com), 2014, United Kingdom
 
+* [Global Diversity CFP Day](https://www.globaldiversitycfpday.com/), 2018, Workshop Mentor.
+
+* [HACKTX](http://www.hacktx.com), October 2017, Austin, TX, Final Round Judge along with Bob Metcalfe
+
+* [net Awards 2015](http://thenetawards.com), 2015, United Kingdom
+
+* [HACKTX](http://www.hacktx.com), November 2015, Austin, TX, Judge
+
+* [net Awards 2014](http://thenetawards.com), 2014, United Kingdom
 
 ### Writing
 
@@ -55,9 +60,13 @@ I write and participate in the design and development community. Along with bein
 * ["5 Lessons from the RWD Classroom"](http://www.creativebloq.com/netmag/5-lessons-responsive-web-design-classroom-7135527), net Magazine, online
 
 ### Interviews
+
 * [NPR (KUT): Coding Boot Camps Aim To Help Solve Diversity Problem In Tech Sector](http://kut.org/post/coding-boot-camps-aim-help-solve-diversity-problem-tech-sector), Mar 2017
+
 * [Switchup: Introducing the #YesWeCode Fund](https://www.switchup.org/blog/introducing-the-yeswecode-fund), Mar 2017
+
 * [Switchup: Three questions for three (awesome) women leaders at The Iron Yard](https://www.switchup.org/blog/three-questions-for-three-awesome-women-leaders-at-the-iron-yard), June 2016
+
 * [Hustle Podcast](http://funsize.co/hustle), Feb 2016
 
 * [Web Design Fundamentals: A Life of Learning](https://www.lynda.com/Web-Design-tutorials/Web-Design-Fundamentals/177837-2.html), Lynda.com course, Nov 2014
@@ -75,10 +84,17 @@ I write and participate in the design and development community. Along with bein
 ---
 
 ### Elsewhere
-*   [Tweeting on Twitter](http://www.twitter.com/samkap)
-*   [Experimenting on Codepen](http://codepen.io/samkap)
-*   [Meeting up on Lanyard](http://lanyrd.com/profile/samkap/)
-*   [Sketching on Dribbble](http://www.dribbble.com/samkap)
-*   [Reading on Goodreads](http://www.goodreads.com/samkap)
-*   [Viewing on VSCO Grid](http://samkap.vsco.co/)
-*   [RSS](http://samkapila.com/feed.xml)
+
+* [Tweeting on Twitter](http://www.twitter.com/samkap)
+
+* [Experimenting on Codepen](http://codepen.io/samkap)
+
+* [Meeting up on Lanyard](http://lanyrd.com/profile/samkap/)
+
+* [Sketching on Dribbble](http://www.dribbble.com/samkap)
+
+* [Reading on Goodreads](http://www.goodreads.com/samkap)
+
+* [Viewing on VSCO Grid](http://samkap.vsco.co/)
+
+* [RSS](http://samkapila.com/feed.xml)
