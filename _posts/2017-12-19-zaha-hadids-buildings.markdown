@@ -15,3 +15,4 @@ Thinking about this Zaha Hadid building near the New York Highline in West Chels
 ![A residential building ](https://manage.siteleaf.com/api/v2/sites/595bc40c4fe77b4da98a2383/source/_uploads/IMG_1964.JPG?download)*Photo from the Highline, with my friends in October*
 
 ![A Google image search for the retro, yet futuristic building from The Jetsons](/uploads/Screen%20Shot%202017-12-19%20at%206.51.31%20PM.png)
+{: .full}
