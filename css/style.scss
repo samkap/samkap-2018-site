@@ -168,6 +168,7 @@ h6 {
 
 h1 {
   font-size: 2.1em;
+  line-height: 1.2;
 }
 
 h2 {
@@ -188,6 +189,7 @@ h6 {
   display: block;
   font-weight: 600;
   font-size: 0.8em;
+
 }
 
 .fluid-width-video-wrapper {
@@ -363,6 +365,9 @@ input[type="submit"] {
   cursor: pointer;
 }
 
+.posts {
+    padding: 2.5em 0;
+}
 .pagination {
   margin-top: -30px;
   font-family: "din-2014", Verdana, sans-serif;
@@ -480,7 +485,6 @@ footer .inner {
   }
 
   .posts {
-    padding: 2.5em 0;
     h1, h2, h3, blockquote, p {
       max-width: 800px;
     }
@@ -569,6 +573,7 @@ footer .inner {
 
   h1 {
     font-size: 2.6em;
+
   }
 
   h2 {
