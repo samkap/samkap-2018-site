@@ -44,7 +44,7 @@ So, before you get mad at me, know that I'm mad at me. I do know better, I was b
 Log into Typekit and see if I'm missing any optimization settings there. My kit is 64k, 54k if I don't keep the OpenType feature. For now, I will keep it on and maybe come back to this later.
 
 ![typekit-02.png](/uploads/typekit-02.png)
-{: .full}
+{: .full} 
 
 I jumped into my Kit Settings and saw a "Optimize performance" option. It links to [more info](https://helpx.adobe.com/typekit/using/optimizing-performance.html), which states:
 
@@ -69,7 +69,7 @@ After taking maybe 45-90min with a few random breaks and about six commits, here
 
 I went from a 75 on Mobile and 87 on Desktop, to 87 on Mobile and 95 on Desktop! Yay, so that makes me excited for when my brain and body aren't all fever-y and I can dive into this caching stuff.
 
-### Google PageSpeed Results
+### WebPage Test Results
 
 ![webpagetest results which went from 1.487s to 1.168s, fully loaded](/uploads/webpagetest-end.png)
 {: .full}
