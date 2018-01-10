@@ -24,4 +24,5 @@ group :jekyll_plugins do
    gem "jekyll-paginate"
    gem "hawkins"
    gem "jekyll-twitter-plugin"
+
 end
