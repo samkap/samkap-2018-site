@@ -1,6 +1,7 @@
 ---
 title: GoT captures  perfectly what its like to be a WIT
 date: 2017-08-14 22:41:00 -05:00
+layout: post
 categories:
 - clips
 tags:
@@ -12,7 +13,7 @@ tags:
 - ally
 ---
 
-Game of Thrones, S7E5 captures  perfectly what its like to be a woman in tech. 
+Game of Thrones, S7E5 captures  perfectly what its like to be a woman in tech.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A tweet so good, you want to print it out, and bring it to every meeting ever. <a href="https://t.co/xSVVJHlVEE">https://t.co/xSVVJHlVEE</a></p>&mdash; Sam Kap (@samkap) <a href="https://twitter.com/samkap/status/897294545054027776">August 15, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

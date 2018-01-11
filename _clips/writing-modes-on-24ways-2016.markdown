@@ -12,4 +12,3 @@ layout: post
 ---
 
 [Writing Modes on 24Ways (2016)](https://24ways.org/2016/css-writing-modes/) by Jen Simmons
-

@@ -1,6 +1,7 @@
 ---
 title: Chance the Rapper, on NPR's Tiny Desk
 date: 2017-07-05 19:09:00 -05:00
+layout: post
 categories:
 - clips
 ---
