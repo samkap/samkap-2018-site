@@ -1,7 +1,6 @@
 ---
 title: GoT captures  perfectly what its like to be a WIT
 date: 2017-08-14 22:41:00 -05:00
-layout: post
 categories:
 - clips
 tags:
@@ -11,6 +10,7 @@ tags:
 - inclusion
 - equality
 - ally
+layout: post
 ---
 
 Game of Thrones, S7E5 captures  perfectly what its like to be a woman in tech.
