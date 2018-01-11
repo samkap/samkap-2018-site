@@ -14,7 +14,7 @@ When I was asked to be a keynote speaker at [ConvergeSE](http://www.convergese.c
 
 ### Prep Talk
 
-As ConvergeSE drew closer, my outline turned into notes, notes into sentences, sentences into speech, and speech into slides. I knew what I wanted to say—mostly. I found myself preparing for the talk just as I would for a class lecture: well-structured and planned out, yet open enough to allow for the mood in the room or a random question to sway the conversation. I thought I was ready. And then, suddenly, I panicked. \*Unsuccessfully trying to control my nerves:\*
+As ConvergeSE drew closer, my outline turned into notes, notes into sentences, sentences into speech, and speech into slides. I knew what I wanted to say—mostly. I found myself preparing for the talk just as I would for a class lecture: well-structured and planned out, yet open enough to allow for the mood in the room or a random question to sway the conversation. I thought I was ready. And then, suddenly, I panicked. **Unsuccessfully trying to control my nerves:**
 
 > “Does this sound better?”, she asked her cats.
 
