@@ -6,7 +6,6 @@ categories:
 tags:
 - gaming
 layout: post
-
 ---
 
 Monument Valley 2 is out and it's short, but lovely.

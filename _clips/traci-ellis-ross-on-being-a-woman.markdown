@@ -11,8 +11,6 @@ tags:
 layout: post
 ---
 
-
-
 I feel like I could watch this over and over. It's a beautiful love letter to yourself and the women in your lives.
 > My life is mine.
 

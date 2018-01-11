@@ -1,7 +1,6 @@
 ---
 title: Notes from Women In Tech Summit
 date: 2017-08-23 13:24:00 -05:00
-layout: post
 categories:
 - clips
 tags:
@@ -10,6 +9,7 @@ tags:
 - inclusion
 - events
 - startups
+layout: post
 ---
 
 ### Building and Sustaining Inclusive Culture in the Tech Industry
