@@ -28,4 +28,4 @@ Before I was born, my grandfather used to bring ice-creams home for my sister ba
 
 > Over the past few years, the photographer Christopher Payne visited the factory dozens of times, documenting every phase of the manufacturing process. His photographs capture the many different worlds hidden inside the complex’s plain brick exterior. The basement, where workers process charcoal, is a universe of absolute gray: gray shirts, gray hands, gray machines swallowing gray ingredients. A surprising amount of the work is done manually; it can take employees multiple days off to get their hands fully clean. Pencil cores emerge from the machines like fresh pasta, smooth and wet, ready to be cut into different lengths and dried before going into their wooden shells.
 
-![soft pastel leads being put into wood slots](https://static01.nyt.com/images/2018/01/14/magazine/14mag-pencil16/14mag-pencil16-superJumbo.jpg)
+![soft pastel leads being put into cedar slats](https://static01.nyt.com/images/2018/01/14/magazine/14mag-pencil16/14mag-pencil16-superJumbo.jpg)
