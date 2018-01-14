@@ -1,6 +1,8 @@
 ---
 title: 'NYT: Inside One of America’s Last Pencil Factories'
 date: 2018-01-12 17:57:00 -06:00
+categories:
+- clips
 tags:
 - design
 - inspiration
