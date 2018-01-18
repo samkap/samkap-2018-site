@@ -5,11 +5,11 @@ position: 3
 layout: page
 ---
 
-## Recommendations
+# Recommendations
 
 I share recommendations a lot, so here they are all in one place, because I also hoard resources a lot!
 
-## For Austinites
+## For Austinites and Austin visitors
 
 * [Women Who Code](https://www.meetup.com/Women-Who-Code-Austin/) meetup group\*
 
