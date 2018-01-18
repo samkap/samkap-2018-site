@@ -7,6 +7,7 @@ tags:
 - diversity
 - inclusion
 - management
+layout: post
 ---
 
 [How to Really Improve Your Diversity Recruitment Initiatives](https://www.glassdoor.com/employers/blog/how-to-really-improve-your-diversity-recruitment-initiatives/)

@@ -9,13 +9,14 @@ tags:
 - inclusion
 - events
 - startups
+layout: post
 ---
 
 ### Building and Sustaining Inclusive Culture in the Tech Industry
 - Panelists from Dell & Homeaway on the first panel talking about how diversity means different things in different places #womenintech summit
 - Diversity is a completely integrated business process
 - Panelists from Dell & Homeaway on the first panel talking about how diversity means different things in different places
-- "Diversity is a completely integrated business process" - @mellieprice from @capitalfactory 
+- "Diversity is a completely integrated business process" - @mellieprice from @capitalfactory
 You're not going to have change just by hosting WiT events
 - Panelists: Diversity work requires double time... If you can do that from the start that's a big (good) deal
 - The panelist from Dell would like to see convos around age in diversity. I'd like to see accessibility, too!
