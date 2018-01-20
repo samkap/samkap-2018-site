@@ -47,6 +47,8 @@ gems:
 exclude:
 - Gemfile
 - Gemfile.lock
+- node_modules
+- gulpfile.js
 date_format: "%b %-d, %Y"
 logo-image: "/img/ampersam.svg"
 nav-breaking-point: 520px
