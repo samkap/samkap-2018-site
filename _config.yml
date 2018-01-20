@@ -18,18 +18,21 @@ collections:
     layout: post
     values:
       layout: posts
-  uploads:
-    title: Uploads
-    output: true
   tweets:
     title: Posts
     output: true
     layout: county
     values:
       layout: posts
+  uploads:
+    title: Uploads
+    output: true
 email: your-email@domain.com
-description: Sam Kapila is a design and educator in Austin, TX. Sam writes and speaks about Responsive Web Design, design strategy, and research, and diversity and inclusion in tech. She a former Director of Academic Operations and Diversity and university design instructor.
-baseurl:
+description: Sam Kapila is a design and educator in Austin, TX. Sam writes and speaks
+  about Responsive Web Design, design strategy, and research, and diversity and inclusion
+  in tech. She a former Director of Academic Operations and Diversity and university
+  design instructor.
+baseurl: 
 url: http://samkapila.com
 twitter_username: samkap
 github_username: samkap

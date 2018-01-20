@@ -5,11 +5,11 @@ position: 3
 layout: page
 ---
 
-## Recommendations
+# Recommendations
 
 I share recommendations a lot, so here they are all in one place, because I also hoard resources a lot!
 
-## For Austinites
+## For Austinites and Austin visitors
 
 * [Women Who Code](https://www.meetup.com/Women-Who-Code-Austin/) meetup group\*
 
@@ -137,23 +137,15 @@ I share recommendations a lot, so here they are all in one place, because I also
 
 * [ShopTalkShow](http://shoptalkshow.com/)
 
+* [The Web Ahead](http://5by5.tv/webahead)
+
+* [StyleGuides Podcast](http://styleguides.io/podcast/)
+
 * [The Big Web Show](http://5by5.tv/bigwebshow)
 
 * [Design Details](http://www.designdetails.fm/)
 
 * [NBSP](http://goodstuff.fm/nbsp)
-
-* [On the grid](http://5by5.tv/onthegrid)
-
-* [Path to Performance](http://pathtoperf.com/)
-
-* [StyleGuides Podcast](http://styleguides.io/podcast/)
-
-* [The Web Ahead](http://5by5.tv/webahead)
-
-### Non-web Design
-
-* [Design Matters with Debbie Millman](http://designobserver.com/topic/designmatters/1039)
 
 ### General cool topics (The More You Know!)
 
@@ -170,7 +162,10 @@ I share recommendations a lot, so here they are all in one place, because I also
 * [CODE: Debugging the Gender Gap](https://www.netflix.com/title/80130565) (Link to Netflix), [blog post]() about the movie.
 
 * [What Comes Next is the Future](http://www.futureisnext.com) (watch below)
-  <iframe src="https://player.vimeo.com/video/177267839?byline=0&portrait=0" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/177267839">What Comes Next Is the Future (2016)</a> from <a href="https://vimeo.com/bearded">Bearded Studio</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+  
+<iframe src="https://player.vimeo.com/video/177267839?byline=0&portrait=0" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/177267839">What Comes Next Is the Future (2016)</a> from <a href="https://vimeo.com/bearded">Bearded Studio</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+{: .full}
 
 ## Communication
 
