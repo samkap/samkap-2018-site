@@ -1,6 +1,6 @@
 ---
 title: Every successful relationship is successful for the same exact reasons — Quartz
-date: 2017-01-23 00:23:00 Z
+date: 2017-01-22 18:23:00 -06:00
 layout: post
 category: clips
 crosspost_to_medium: false

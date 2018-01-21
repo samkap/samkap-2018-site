@@ -1,6 +1,6 @@
 ---
 title: Jack White on inspiration and work ethic
-date: 2013-11-25 16:02:00 Z
+date: 2013-11-25 10:02:00 -06:00
 tags:
 - video
 - inspiration

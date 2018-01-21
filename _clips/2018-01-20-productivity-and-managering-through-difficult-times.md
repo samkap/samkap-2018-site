@@ -1,9 +1,11 @@
 ---
 title: Productivity and Managering through difficult times
 date: 2018-01-20 12:48:00 -06:00
+categories:
+- clips
 layout: post
-categories: clips
 ---
+
 [Lara Hogan](https://twitter.com/lara_hogan)'s post on [managering during difficult times](http://larahogan.me/blog/being-a-manager-in-terrible-times/) and [Eileen Webb](https://twitter.com/webmeadow)'s [post on productivity](https://thehumaninthemachine.com/eileen-webb/2017-january-5) are both worth reading after a year like 2017.
 
 Here are some parts that I clipped and think about quite a bit.
