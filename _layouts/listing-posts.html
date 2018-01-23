@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+{{content}}
+
+
+{% for post in site.posts %}
+
+ <article>
+<small>{{ post.date | date: site.date_format }}</small>
+   <h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+ <p>{{ post.content | truncatewords:40 | strip_html }}</p>
+ </article>
+ {% endfor %}
+
+<style>
+h2 {
+  margin-bottom: 4em;
+}
+article {
+  margin-bottom: 3em;
+  max-width: 700px;
+}
+
+article p {
+  font-size: .9em;
+}
+
+article h4 small {
+  font-size: .7em;
+}
+</style>

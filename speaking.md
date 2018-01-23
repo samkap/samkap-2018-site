@@ -2,12 +2,13 @@
 title: Speaking
 position: 5
 layout: default
+permalink: /speaking/
 ---
 
 ## Speaking
 
 ### Upcoming
-I'm done speaking for **2017**. Looking forward to **2018**!
+- No speaking dates at this time
 
 
 ### Recent
