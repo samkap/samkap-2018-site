@@ -1,8 +1,8 @@
 ---
 title: Speaking
+permalink: "/speaking/"
 position: 5
 layout: default
-permalink: /speaking/
 ---
 
 ## Speaking

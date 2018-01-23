@@ -2,7 +2,7 @@
 title: Posts
 permalink: "/posts/"
 position: 0
-Key:
+Key: 
 layout: listing-posts
 ---
 
