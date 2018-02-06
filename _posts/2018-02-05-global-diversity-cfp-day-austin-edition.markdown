@@ -30,8 +30,6 @@ Simply, ikigai is about the overlap of a few different areas, that work well in 
 
 <br>
 
-<br>
-
 I also spoke about how I use simplified version of the Scientific Metholody to hypothesis, create a process, test, analyze, and conclude in a talk. It's sort of an approach I took on the design process in my [master's thesis](https://ecommons.txstate.edu/handle/10877/4271).
 
 Organizer, Cecy Correa, who also organizes <abbr title="Girl Develop It">GDI</abbr> Austin caught of a few moments from the workshop, including a gif of my "teaching arms" flailing around.
