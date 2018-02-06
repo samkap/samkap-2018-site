@@ -41,7 +41,6 @@ Organizer, Cecy Correa, who also organizes <abbr title="Girl Develop It">GDI</ab
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">HUGE thanks to our speakers for <a href="https://twitter.com/hashtag/gdcfpday?src=hash&ref_src=twsrc%5Etfw">#gdcfpday</a> in Austin <a href="https://twitter.com/jlengstorf?ref_src=twsrc%5Etfw">@jlengstorf</a> <a href="https://twitter.com/marisamorby?ref_src=twsrc%5Etfw">@marisamorby</a> and our mentors <a href="https://twitter.com/tehviking?ref_src=twsrc%5Etfw">@tehviking</a> <a href="https://twitter.com/deekapila?ref_src=twsrc%5Etfw">@deekapila</a> <a href="https://twitter.com/samkap?ref_src=twsrc%5Etfw">@samkap</a> <a href="https://twitter.com/elyseholladay?ref_src=twsrc%5Etfw">@elyseholladay</a> <a href="https://twitter.com/rubynpearl?ref_src=twsrc%5Etfw">@rubynpearl</a>! <br><br>And thanks to <a href="https://twitter.com/returnpath?ref_src=twsrc%5Etfw">@ReturnPath</a> <a href="https://twitter.com/ContextIO?ref_src=twsrc%5Etfw">@ContextIO</a> for hosting and sponsoring!<a href="https://twitter.com/hashtag/MakeTheTalkHappen?src=hash&ref_src=twsrc%5Etfw">#MakeTheTalkHappen</a> <a href="https://t.co/O4Aisgfz8H">pic.twitter.com/O4Aisgfz8H</a></p>— GDI.ATX (@gdiatx) <a href="https://twitter.com/gdiatx/status/959923108248514563?ref_src=twsrc%5Etfw">February 3, 2018</a>
 </blockquote>
 
-</blockquote>
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
