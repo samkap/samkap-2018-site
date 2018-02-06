@@ -2,6 +2,10 @@
 title: Global Diversity CFP Day — Austin edition
 date: 2018-02-05 18:46:00 -06:00
 published: false
+tags:
+- diversity
+- conferences
+- speaking
 ---
 
 Over the weekend, my sister, Dee (a Product Manager at VISA) and I mentored a workshop at the Austin event for [Global Diversity CFP Day](https://www.globaldiversitycfpday.com/), a world-wide, day-long event featuring "numerous workshops hosted around the globe encouraging and advising newbie speakers to put together \[their\] very first talk proposal and share \[their\] own individual perspective on any subject of interest to people in tech".
@@ -36,3 +40,5 @@ Organizer, Cecy Correa, who also organizes <abbr title="Girl Develop It">GDI</ab
 </blockquote>
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+If you're looking for speaking resources, there are a few in my [first post about public speaking](http://samkapila.com/2014/08/03/speaking-up.html).
