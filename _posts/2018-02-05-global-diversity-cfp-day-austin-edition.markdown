@@ -26,7 +26,7 @@ Simply, ikigai is about the overlap of a few different areas, that work well in 
 
 ![A venn diagram from the Toronto Start illustrating the overlaps of the 4 principles of ikigai](https://assets.weforum.org/editor/tyvToPYsyaZXtaFiUISw-P6abde6j84YSh5o3tXq81c.jpg)*From [Chaaipani](https://chaaipani.com/ikigai/)*
 
-<br>
+<br><br><br>
 
 I also spoke about how I use simplified version of the Scientific Metholody to hypothesis, create a process, test, analyze, and conclude in a talk. It's sort of an approach I took on the design process in my [master's thesis](https://ecommons.txstate.edu/handle/10877/4271).
 
