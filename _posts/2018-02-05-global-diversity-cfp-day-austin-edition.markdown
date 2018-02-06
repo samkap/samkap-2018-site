@@ -8,9 +8,10 @@ tags:
 - women
 - community
 - global
+layout: post
 ---
 
-Over the weekend, my sister, Dee (a Product Manager at VISA) and I mentored a workshop at the Austin event for [Global Diversity CFP Day](https://www.globaldiversitycfpday.com/), a world-wide, day-long event featuring "numerous workshops hosted around the globe encouraging and advising newbie speakers to put together \[their\] very first talk proposal and share \[their\] own individual perspective on any subject of interest to people in tech".
+Over the weekend, my sister, Dee (a Product Manager at VISA) and I mentored a workshop at the Austin event for [Global Diversity CFP Day](https://www.globaldiversitycfpday.com/), a worldwide, day-long event featuring "numerous workshops hosted around the globe encouraging and advising newbie speakers to put together \[their\] very first talk proposal and share \[their\] own individual perspective on any subject of interest to people in tech".
 
 Dee and I love collaborating when we can (we've both served on tech panels together here and there), and it was great to mentor and share our different ways of approaching public speaking. We have different ways that we approach topic ideas, framing a talk, gathering feedback, creating day-of-speaking routines,  and addressing audience questions and comments.
 
@@ -26,13 +27,13 @@ Simply, ikigai is about the overlap of a few different areas, that work well in 
 
 4. What you can get paid for.
 
-![A venn diagram from the Toronto Start illustrating the overlaps of the 4 principles of ikigai](https://assets.weforum.org/editor/tyvToPYsyaZXtaFiUISw-P6abde6j84YSh5o3tXq81c.jpg)*From [Chaaipani](https://chaaipani.com/ikigai/)*
+![A Venn diagram from the Toronto Start illustrating the overlaps of the 4 principles of ikigai](https://assets.weforum.org/editor/tyvToPYsyaZXtaFiUISw-P6abde6j84YSh5o3tXq81c.jpg)*From [Chaaipani](https://chaaipani.com/ikigai/)*
 
 <br>
 
 <br>
 
-I also spoke about how I use simplified version of the Scientific Metholody to hypothesis, create a process, test, analyze, and conclude in a talk. It's sort of an approach I took on the design process in my [master's thesis](https://ecommons.txstate.edu/handle/10877/4271).
+I also spoke about how I use a simplified version of the Scientific Metholody to hypothesize, create a process, test, analyze, and conclude in a talk. It's sort of an approach I took on the design process in my [master's thesis](https://ecommons.txstate.edu/handle/10877/4271).
 
 Organizer, Cecy Correa, who also organizes <abbr title="Girl Develop It">GDI</abbr> Austin caught of a few moments from the workshop, including a gif of my "teaching arms" flailing around.
 
