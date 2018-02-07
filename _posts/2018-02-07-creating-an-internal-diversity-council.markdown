@@ -2,6 +2,15 @@
 title: Creating an Internal Diversity Council
 date: 2018-02-07 11:38:00 -06:00
 published: false
+tags:
+- diversity
+- inclusion
+- the-iron-yard
+- leadership
+- equality
+- students
+- teaching
+layout: post
 ---
 
 *This is the first part in a series about the experience of starting and running a diversity council. In the first post, I share what inspired us and how we got started. In future posts, I’ll share what we achieved in the year we operated and lessons learned along the way.*
