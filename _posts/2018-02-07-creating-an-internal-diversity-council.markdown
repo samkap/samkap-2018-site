@@ -1,7 +1,6 @@
 ---
 title: Creating an Internal Diversity Council
 date: 2018-02-07 11:38:00 -06:00
-published: false
 tags:
 - diversity
 - inclusion
