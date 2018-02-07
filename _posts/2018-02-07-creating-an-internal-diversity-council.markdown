@@ -23,9 +23,7 @@ In March 2016, we visited the White House to pledge our participation for The Op
 
 #### **Setting up the Council**
 
-In the early summer of 2016, we strategize the formation of the council. Through brainstorming and reflecting with our company,we focused the Council on five pillars: **Staff, Students, Community, Scholarships, and Communication. **By organizing into these five focus areas was instrumental, each task force is able to focus on tangible and achievable goals.** **We officially began our work on September 1st, 2016.
-
-Weeks earlier, in a company-wide email, we shared the goals and intended structure for the council and our one-year minimum appointment. We shared our quarterly schedule, definitions of each pillar, and the nomination process. The council included members of Academics, Operations, Human Resources, Corporate Training, Marketing, and Product.
+In the early summer of 2016, we strategized the formation of the council. Through brainstorming and reflecting with our company, we focused the Council on five pillars: Staff, Students, Community, Scholarships, and Communication. **By organizing into these five focus areas was instrumental, each pillar task force is able to focus on tangible and achievable goals.** We officially began our work on September 1st, 2016. Weeks earlier, in a company-wide email, we shared the goals and intended structure for the council and our one-year minimum appointment. We shared our quarterly schedule, definitions of each pillar, and the nomination process. The council included members of Academics, Operations, Human Resources, Corporate Training, Marketing, and Product.
 
 For each of the pillars, two team members served as co-chairs to provide backup when needed and a sounding board for initiatives. The remaining team members volunteered to help in areas they felt most equipped. When we formed, we had about 20 members in our council, while our company was just over 100. This was incredibly encouraging and energizing.
 
