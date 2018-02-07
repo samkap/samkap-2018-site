@@ -27,4 +27,4 @@ In the early summer of 2016, we strategized the formation of the council. Throug
 
 For each of the pillars, two team members served as co-chairs to provide backup when needed and a sounding board for initiatives. The remaining team members volunteered to help in areas they felt most equipped. When we formed, we had about 20 members in our council, while our company was just over 100. This was incredibly encouraging and energizing.
 
-*The next post will include our kick-off and council actions.*
+*The next post will include our kick-off and council actions. For more D&I resources, stop by [here](http://samkapila.com/inclusion), or [watch my Creative Mornings talk](https://creativemornings.com/talks/sam-kapila/)*
