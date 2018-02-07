@@ -10,6 +10,7 @@ tags:
 - equality
 - students
 - teaching
+image: "/uploads/samkap.png"
 layout: post
 ---
 
