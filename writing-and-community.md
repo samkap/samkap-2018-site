@@ -11,15 +11,15 @@ I write and participate in the design and development community. Along with bein
 
 ### Community & Review
 
-* [Global Diversity CFP Day](https://www.globaldiversitycfpday.com/), 2018, Workshop Mentor.
 
-* [HACKTX](http://www.hacktx.com), October 2017, Austin, TX, Final Round Judge along with Bob Metcalfe
+* [HACKTX](http://www.hacktx.com), Oct 2017, Austin, TX, Final Round Judge along with Bob Metcalfe
 
-* [net Awards 2015](http://thenetawards.com), 2015, United Kingdom
-
-* [HACKTX](http://www.hacktx.com), November 2015, Austin, TX, Judge
-
-* [net Awards 2014](http://thenetawards.com), 2014, United Kingdom
+* [net Awards 2015](http://thenetawards.com), 2015, UK-based, International
+* [SassConf](http://www.sassconf.com), 2015, Speaker Mentor
+* [AIGA South Carolina InShow #20](https://southcarolina.aiga.org/meet-the-inshow-20-judges/), 2015, Columbia, SC, Judge
+* [HACKTX](http://www.hacktx.com), Nov 2015, Austin, TX, Judge
+* [AIGA Tenn Show 2014](http://www.tennshow2014.com), Oct 2014, Judge and Guest Speaker
+* [net Awards 2014](http://thenetawards.com), 2014, UK-based, International
 
 ### Writing
 

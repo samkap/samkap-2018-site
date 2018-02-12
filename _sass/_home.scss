@@ -1,6 +1,7 @@
 section {
   display: block;
   flex: 1;
+
   .featured {
     padding-top: 3em;
   }
@@ -21,27 +22,11 @@ h6 {
 .recent {
   display: block;
   flex: 1;
-
   article {
     margin-bottom: 40px;
   }
 }
 @media all and (min-width: 760px) {
-  section {
-    display: flex;
-    justify-content: space-between;
-    flex-direction: row;
-    flex-wrap: wrap;
-    .featured {
-      flex-basis: 66%;
-      align-self: flex-end;
-      h1 {
-        font-size: 2em;
-      }
-
-
-    }
-  }
   .clips-group,
   .recent {
     display: flex;
@@ -66,18 +51,64 @@ h6 {
       }
     }
   }
+
+  .about-me {
+    background: $color1;
+    padding: 3em 6%;
+    overflow: hidden;
+
+    .intro {
+      float: left;
+      width: 62%;
+      margin-right: 8%;
+    }
+
+    p {
+      margin-top: 0;
+      font-size: 0.9em;
+    }
+
+    img {
+      max-width: 100%;
+    }
+
+    figure {
+      float: left;
+      width: 30%;
+    }
+
+    figcaption {
+      font-size: 50%;
+      margin-top: 15px;
+      font-style: italic;
+    }
+  }
 }
 @media screen and (min-width: 1080px) {
+  section {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    .featured {
+      flex-basis: 66%;
+      align-self: flex-end;
+
+      h1 {
+        font-size: 2em;
+      }
+    }
+  }
+
   .clips-group,
   .recent {
-    padding: 6em 0;
+    padding: 5em 0;
   }
 }
 
-
 .about-me {
-background: $color1;
-padding: 1em 6%;
+  background: $color1;
 
   p {
     color: $color2;
@@ -93,9 +124,7 @@ padding: 1em 6%;
     max-width: 100%;
   }
 
-  figure {
-    width: 60%;
-  }
+
 
   figcaption {
     font-size: 50%;
@@ -103,37 +132,4 @@ padding: 1em 6%;
     font-style: italic;
     color: white;
   }
-}
-@media all and (min-width: 760px) {
-.about-me {
-  background: $color1;
-  padding: 3em 6%;
-  overflow: hidden;
-
-  .intro {
-    float: left;
-    width: 62%;
-    margin-right: 8%;
-  }
-
-  p {
-    margin-top: 0;
-    font-size: 0.9em;
-  }
-
-  img {
-    max-width: 100%;
-  }
-
-  figure {
-    float: left;
-    width: 30%;
-  }
-
-  figcaption {
-    font-size: 50%;
-    margin-top: 15px;
-    font-style: italic;
-  }
-}
 }

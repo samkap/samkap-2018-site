@@ -141,6 +141,10 @@ small a {
     margin: 20px 0;
   }
 
+.Posts p {
+      margin-top: 0;
+    }
+
   ol,
   ul {
     padding-left: 50px;
@@ -172,6 +176,7 @@ small a {
     font-size: 1.2em;
   }
 
+
   blockquote {
     font-size: 1.3em;
   }
@@ -179,6 +184,10 @@ small a {
   hr {
     margin: 1em auto;
   }
+}
+
+h4 a {
+  border: 0;
 }
 @media all and (min-width: 760px) {
   h1 {

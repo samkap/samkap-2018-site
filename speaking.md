@@ -12,6 +12,7 @@ layout: default
 
 
 ### Recent
+- **[Global Diversity CFP Day](https://www.eventbrite.com/e/global-diversity-cfp-day-tickets-42210751494#)**, Feb 2018, Workshop Lead with Dee Kapila, Austin. 
 - **[Austin Design Week](https://austindesignweek.org/schedule/making-design-for-good-a-part-of-your-career)**, Nov 2017, Moderator, Austin, TX “Making Design for Good a Part of Your Career”
 - **[FusionConf](http://fusionconf.io/)**, Sept 2017, Speaker, Charlotte, NC, “Diversity in Design”
 - **[ACT-W](http://austin.act-w.org)**, Aug 2017, Speaker, Austin, TX, “Challenging the Status Quo”
