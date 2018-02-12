@@ -3,13 +3,13 @@ title: Diversity, Equity, & Inclusion
 date: 2017-06-03 14:19:00 -05:00
 permalink: "/inclusion/"
 position: 2
-Key: 
-layout: page
+Key:
+layout: inclusion
 ---
 
 ## Diversity, Equity, & Inclusion
 
-This page is a growing resource of thoughts and resources around Equity and Inclusion. Last Updated: **Sept 26th, 2017**. 
+This page is a growing resource of thoughts and resources around Equity and Inclusion. Last Updated: **February 11th, 2018**.
 
 ### Diversity Training
 - [Project Implicit from Harvard](https://implicit.harvard.edu/implicit/)
@@ -26,16 +26,15 @@ This page is a growing resource of thoughts and resources around Equity and Incl
 - [Gender Decoder](http://gender-decoder.katmatfield.com/) : Job posting gender decoding test
 
 ### Development Tools and Checklists
-- [Pa11y](https://github.com/pa11y/pa11y) : Command line tool 
+- [Pa11y](https://github.com/pa11y/pa11y) : Command line tool
 - [A11yProject.com](http://a11yproject.com/checklist.html)
 - [Wave](http://wave.webaim.org/)
 - [WCAG 2.0 Checklist](http://webaim.org/standards/wcag/checklist)
 
 ### Accessibility resources
 - [A11yProject.com](http://a11yproject.com/)
-- [Planning for Accessibility](https://alistapart.com/article/planning-for-accessibility) by Laura Kalbag
 - [MDN checklist](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Mobile_accessibility_checklist) Mozilla Accessibility Checklists
-- [MDN Semantic HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) : Writing HTML that supports 
+- [MDN Semantic HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) : Writing HTML that supports
 - [Color Accessibility Workflows from A List Apart](https://alistapart.com/article/color-accessibility-workflows)
 - [WebAIM](http://webaim.org/)
 
@@ -50,5 +49,3 @@ This page is a growing resource of thoughts and resources around Equity and Incl
 - [NPR](http://thin.npr.org/) has a text only version of their site. How cool. How browser and user-friendly.
 - [Accessibility at Trivago](http://tech.trivago.com/2017/09/26/accessibility-at-trivago/)
 - [Microsoft's Inclusive Toolkit](https://www.microsoft.com/en-us/design/inclusive)
-
-

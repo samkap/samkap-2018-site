@@ -1,0 +1,40 @@
+
+
+.gr_grid_container {
+  display: grid;
+  width: 100%;
+  padding: 2em 0;
+  margin: 0 auto;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 2em;
+  grid-row-gap: 2em;
+  align-items: end;
+}
+.gr_grid_book_container {
+  img {
+    box-sizing: border-box;
+    width: 100%;
+    border: 1px gray solid;
+    box-shadow: 1px 1px 4px gray;
+  }
+}
+
+.shell {
+  background: #f2f3f3;
+}
+
+.inclusion {
+  margin-top: 3em;
+}
+
+@media screen and (min-width: 50em) {
+  .gr_grid_container {
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  }
+
+
+  .shell main {
+    padding: 3em 6%;
+  }
+
+}

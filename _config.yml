@@ -1,7 +1,6 @@
 ---
 title: Sam Kapila
 timezone: America/Chicago
-port: 4444
 collections:
   clips:
     title: Clips
