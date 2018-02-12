@@ -4,18 +4,15 @@ GEM
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
     colorator (1.1.0)
-    cssminify2 (2.0.1)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.5)
-    execjs (2.7.0)
     ffi (1.9.21)
     forwardable-extended (2.6.0)
     hawkins (2.0.5)
       em-websocket (~> 0.5)
       jekyll (~> 3.1)
-    htmlcompressor (0.4.0)
     http_parser.rb (0.6.0)
     jekyll (3.3.1)
       addressable (~> 2.4)
@@ -30,18 +27,14 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-feed (0.9.3)
       jekyll (~> 3.3)
-    jekyll-minifier (0.1.2)
-      cssminify2 (~> 2.0)
-      htmlcompressor (~> 0.3)
-      jekyll (~> 3.0)
-      uglifier (~> 2.7)
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
+    jekyll-seo-tag (2.4.0)
+      jekyll (~> 3.3)
     jekyll-twitter-plugin (2.0.0)
     jekyll-watch (1.5.1)
       listen (~> 3.0)
-    json (2.1.0)
     kramdown (1.16.2)
     liquid (3.0.6)
     listen (3.1.5)
@@ -65,9 +58,6 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
-    uglifier (2.7.2)
-      execjs (>= 0.3.0)
-      json (>= 1.8.0)
 
 PLATFORMS
   ruby
@@ -76,8 +66,8 @@ DEPENDENCIES
   hawkins
   jekyll (= 3.3.1)
   jekyll-feed (~> 0.6)
-  jekyll-minifier
   jekyll-paginate
+  jekyll-seo-tag
   jekyll-twitter-plugin
   minima (~> 2.0)
 

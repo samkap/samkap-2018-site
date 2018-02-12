@@ -34,6 +34,7 @@ h6 {
     flex-wrap: wrap;
     .featured {
       flex-basis: 66%;
+      align-self: flex-end;
       h1 {
         font-size: 2em;
       }
