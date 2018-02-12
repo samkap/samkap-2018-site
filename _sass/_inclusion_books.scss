@@ -14,17 +14,19 @@
   img {
     box-sizing: border-box;
     width: 100%;
-    border: 1px gray solid;
-    box-shadow: 1px 1px 4px gray;
   }
 }
 
 .shell {
-  background: #f2f3f3;
-}
+    padding: 4em 0;
+    background: $color1;
+  }
 
 .inclusion {
   margin-top: 3em;
+  h3 {
+    color: $color2;
+  }
 }
 
 @media screen and (min-width: 50em) {
@@ -33,8 +35,6 @@
   }
 
 
-  .shell main {
-    padding: 3em 6%;
-  }
+
 
 }
