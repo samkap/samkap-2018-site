@@ -22,12 +22,9 @@ collections:
     title: Uploads
     output: true
 
-description: Sam Kapila is a design and educator in Austin, TX. Sam writes and speaks
-  about Responsive Web Design, design strategy, and research, and diversity and inclusion
-  in tech. She a former Director of Academic Operations and Diversity and university
-  design instructor.
+description: Sam Kapila is a design and educator in Austin, TX. Sam writes and speaks about Responsive Web Design, design strategy, and research, and diversity and inclusion in tech. She a former Director of Academic Operations and Diversity and university design instructor.
 baseurl:
-url: http://samkapila.com
+url: https://samkapila.com
 twitter_username: samkap
 github_username: samkap
 markdown: kramdown
