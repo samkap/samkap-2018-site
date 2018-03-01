@@ -44,6 +44,7 @@ In July 2017, we announced a company closure slated for November 2017. Our counc
 *Megan Smith, former CTO for the United States (left), Jessica (right), and I at the #CS4All Summit at The White House, October 2016.*
 
 * October 2016: The **White House invites student, Patrick, (and instructor, Tom) to share their #OpportunityProject**, at an onsite, science fair style event. Patrick presented their project to Megan Smith,  instructor was present, as well.
+
 ![Patrick presenting to Meghan Smith](/uploads/patrickwhitehouse.jpg)
 
 
