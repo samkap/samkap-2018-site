@@ -12,7 +12,7 @@ image: "/uploads/samkap.png"
 layout: post
 ---
 
-*This is the second part in a series about the experience of starting and running a diversity council. If you missed the first post, it can be found [here](http://samkapila.com/posts/2018/02/07/creating-an-internal-diversity-council.html). In the second post, I share the importance of creating structure and communication, the importance of achievable tasks, and what we achieved in one year. In the next post, I’ll share lessons learned along the way.*
+*This is the second part in a series about the experience of starting and running a diversity council. If you missed the first post, it can be found [here](http://samkapila.com/2018/02/07/creating-an-internal-diversity-council.html). In the second post, I share the importance of creating structure and communication, the importance of achievable tasks, and what we achieved in one year. In the next post, I’ll share lessons learned along the way.*
 
 ## Starting the Council with a Communication Strategy
 
