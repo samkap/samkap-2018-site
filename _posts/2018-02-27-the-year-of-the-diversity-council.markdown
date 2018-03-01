@@ -66,7 +66,7 @@ In July 2017, we announced a company closure slated for November 2017. Our counc
 ![Photo of speakers at SXSW](/uploads/yeswecodeannouncement.jpg)
 {: .full}
 
-_HBCU track at SXSW 2017, announcing the #YesWeCode Fund. From left: Felix Flores, National Director for #YesWeCode; Sam Kapila, Director of Academic Operations & Diversity at TIY, Van Jones Founder of DreamCorps & #YesWeCode; Tess Posner, Managing Director of TechHire; Felecia Hatcher, White House 2014 Champion of Change, Co-Founder of CodeFeverMiami and Tech; Rodney Sampson, partner at TechSquare Labs; and John Hope Bryant, Founder, Chairman and CEO of Operation HOPE, March 2017, SXSW._
+*HBCU track at SXSW 2017, announcing the #YesWeCode Fund. From left: Felix Flores, National Director for #YesWeCode; Sam Kapila, Director of Academic Operations & Diversity at TIY, Van Jones Founder of DreamCorps & #YesWeCode; Tess Posner, Managing Director of TechHire; Felecia Hatcher, White House 2014 Champion of Change, Co-Founder of CodeFeverMiami and Tech; Rodney Sampson, partner at TechSquare Labs; and John Hope Bryant, Founder, Chairman and CEO of Operation HOPE, March 2017, SXSW.*
 
 * April 2017: **Attendance at [HOPE Global Forum 2017](hopeglobalforums.org)**, “Uplifting the Invisible Class”, to learn more about the socio-economic barriers our students below the poverty line could face.
 
