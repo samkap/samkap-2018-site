@@ -34,7 +34,7 @@ Half way through the year, I transitioned from Director of Instruction, to Direc
 
 In July 2017, we announced a company closure slated for November 2017. Our council concluded its first year in September, with one last meeting as a group. Inspired by [Zapier’s timeline of diversity initiatives](https://zapier.com/jobs/working-on-diversity-and-inclusivity/), which is absolutely fantastic, here are a few things we achieved in our year:
 
-* · September 2016: **Creation of the Diversity Council**, with about 20 members representing all areas of the organization explore and finalize Mission, bylaws, and definitions.
+* September 2016: **Creation of the Diversity Council**, with about 20 members representing all areas of the organization explore and finalize Mission, bylaws, and definitions.
 
 * October 2016: **[Vice President, Joe Biden announces the Tech Opportunity Fund](https://obamawhitehouse.archives.gov/blog/2016/09/09/listen-vice-president-biden-training-americans-jobs-future)**, in St. Louis, Missouri. The scholarship, founded by TIY and others, provides access to bootcamp education to underrepresented people of color and women who are low income.
 
