@@ -1,7 +1,6 @@
 ---
 title: The Year of The Diversity Council
-date: 2018-02-27 15:07:00 -06:00
-published: false
+date: 2018-02-26 15:07:00 -06:00
 tags:
 - diversity
 - inclusion
@@ -10,6 +9,7 @@ tags:
 - students
 - teaching
 image: "/uploads/samkap.png"
+layout: post
 ---
 
 *This is the second part in a series about the experience of starting and running a diversity council. If you missed the first post, it can be found [here](samkapila.com/posts/2018/02/07/creating-an-internal-diversity-council.html). In the second post, I share the importance of creating structure and communication, the importance of achievable tasks, and what we achieved in one year. In the next post, I’ll share lessons learned along the way.*
