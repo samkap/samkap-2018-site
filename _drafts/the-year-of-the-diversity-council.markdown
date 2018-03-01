@@ -45,9 +45,6 @@ In July 2017, we announced a company closure slated for November 2017. Our counc
 
 * October 2016: The **White House invites student, Patrick, (and instructor, Tom) to share their #OpportunityProject**, at an onsite, science fair style event. Patrick presented their project to Megan Smith,  instructor was present, as well.
 
-![Patrick presenting to Meghan Smith](/uploads/patrickwhitehouse.jpg)
-
-
 * October 2016: Staff Diversity Chair attends **Google’s in-person Unconscious Bias training**, leading to council training and review of company hiring policies.
 
 * November 2016: **Corporate Training staff work with students and  American Sign Language (ASL) interpreters** on policies for the classroom.
