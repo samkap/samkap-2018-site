@@ -80,6 +80,6 @@ In July 2017, we announced a company closure slated for November 2017. Our counc
 
 * June 2017: Student Co-chairs collaborate with Product team to create a **deployment accessibility checklist** for future code deployments.
 
-As a council and as a company, we were extremely committed to improving the state of diversity and inclusion. Hopefully, by sharing this, it can help you, the reader, take something our year, and bring change to your workplace and our industry. This isn't easy work, but the ripple effect it can cause is worth it.
+As a council and as a company, we were extremely committed to improving the state of diversity and inclusion. Hopefully, by sharing this, it can help you, the reader, take something our year, and bring change to your workplace and our industry. This isn't easy work, but the much needed impact it can make is worth it. 
 
 *Stay tuned for the next post about lessons learned. For more D&I resources, stop by [here](http://samkapila.com/inclusion), or [watch my Creative Mornings talk](https://creativemornings.com/talks/sam-kapila/).*
