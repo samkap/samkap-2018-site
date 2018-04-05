@@ -8,8 +8,8 @@ layout: default
 ## Speaking
 
 ### Upcoming
-- [Women Talk: Conferences](https://www.eventbrite.com/e/women-talk-conferences-austin-tickets-44351675054), April 10th, 2018, Austin
-- [Peers Conference](http://www.peersconf.com/), April 25–7, 2018, Austin
+- **[Women Talk: Conferences](https://www.eventbrite.com/e/women-talk-conferences-austin-tickets-44351675054)**, April 10th, 2018, Austin
+- **[Peers Conference](http://www.peersconf.com/)**, April 25–7, 2018, Austin
 
 
 ### Recent
