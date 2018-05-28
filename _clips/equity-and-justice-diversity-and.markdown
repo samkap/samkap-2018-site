@@ -1,6 +1,6 @@
 ---
 title: Equity and Justice, Diversity and Inclusion
-date: 2018-05-12 22:00:00 +0000
+date: 2018-05-12 17:00:00 -05:00
 categories:
 - clips
 ---
