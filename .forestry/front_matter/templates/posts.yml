@@ -28,6 +28,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _clips/cult-of-the-complex.md
 - _clips/poaching-an-egg.md
 - _clips/link-css-variables-are-a-sometimes-food.markdown
 - _clips/equity-and-justice-diversity-and.markdown
