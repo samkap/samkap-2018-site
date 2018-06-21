@@ -28,6 +28,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _clips/link-just-work.md
 - _clips/link-don-t-just-copy-the-font-face-out-of-google-fonts-urls.md
 - _clips/link-css-variables-are-a-sometimes-food.markdown
 - _clips/equity-and-justice-diversity-and.markdown
