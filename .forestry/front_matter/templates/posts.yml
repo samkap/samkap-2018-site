@@ -24,3 +24,4 @@ fields:
   default: post
 pages:
 - _clips/link-css-easing-cheat-sheet.md
+- _clips/never-assume-anything-the-golden-rules-for-inclusive-design.md
