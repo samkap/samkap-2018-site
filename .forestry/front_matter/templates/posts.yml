@@ -22,4 +22,3 @@ fields:
   config:
     required: true
   default: post
-pages:
