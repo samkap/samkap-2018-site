@@ -1,15 +1,14 @@
-
-
 .gr_grid_container {
+  align-items: end;
   display: grid;
-  width: 100%;
-  padding: 2em 0;
-  margin: 0 auto;
-  grid-template-columns: 1fr 1fr 1fr;
   grid-column-gap: 2em;
   grid-row-gap: 2em;
-  align-items: end;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin: 0 auto;
+  padding: 2em 0;
+  width: 100%;
 }
+
 .gr_grid_book_container {
   img {
     box-sizing: border-box;
@@ -18,23 +17,19 @@
 }
 
 .shell {
-    padding: 4em 0;
-    background: $color1;
-  }
-
-.inclusion {
-  margin-top: 3em;
-  h3 {
-    color: $color2;
-  }
+  background: $color1;
+  padding: 4em 0;
 }
 
+.inclusion {
+  color: $color2;
+
+  h3 {
+    margin-top: 3em;
+  }
+}
 @media screen and (min-width: 50em) {
   .gr_grid_container {
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
   }
-
-
-
-
 }
