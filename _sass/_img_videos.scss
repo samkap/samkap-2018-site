@@ -32,13 +32,13 @@ object {
 }
 /***********************Image GRid***********************/
 .img-grid {
-  width: 100%;
+  background: pink;
   display: grid;
-  grid-template-columns: 100%;
-  grid-template-rows: 25%;
   grid-column-gap: 1%;
   grid-row-gap: 10px;
-  background: pink;
+  grid-template-columns: 100%;
+  grid-template-rows: 25%;
+  width: 100%;
 
   img {
     max-width: 100%;

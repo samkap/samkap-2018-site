@@ -22,6 +22,7 @@ h6 {
 .recent {
   display: block;
   flex: 1;
+
   article {
     margin-bottom: 40px;
   }
@@ -30,10 +31,10 @@ h6 {
   .clips-group,
   .recent {
     display: flex;
-    justify-content: space-between;
     flex-direction: row;
-    padding: 3em 0;
     flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 3em 0;
 
     article {
       margin-bottom: 0;
@@ -92,8 +93,8 @@ h6 {
     flex-wrap: wrap;
 
     .featured {
-      flex-basis: 66%;
       align-self: flex-end;
+      flex-basis: 66%;
 
       h1 {
         font-size: 2em;
@@ -124,12 +125,10 @@ h6 {
     max-width: 100%;
   }
 
-
-
   figcaption {
-    font-size: 50%;
-    margin-top: 15px;
-    font-style: italic;
     color: white;
+    font-size: 50%;
+    font-style: italic;
+    margin-top: 15px;
   }
 }

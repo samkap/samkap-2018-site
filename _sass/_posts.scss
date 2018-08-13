@@ -13,8 +13,9 @@ a.read-more {
 }
 
 .posts {
-    padding: 2.5em 0;
+  padding: 2.5em 0;
 }
+
 .pagination {
   margin-top: -30px;
   font-family: "din-2014", Verdana, sans-serif;
@@ -43,19 +44,22 @@ a.read-more {
   margin-bottom: 50px;
   max-width: 800px;
 }
-
 @media all and (min-width: 680px) {
   .posts {
-    h1, h2, h3, blockquote, p {
+    blockquote,
+    h1,
+    h2,
+    h3,
+    p {
       max-width: 800px;
     }
 
     p {
-    font-size: 1.1em;
+      font-size: 1.1em;
     }
 
     p.full {
-    max-width: 100%;
+      max-width: 100%;
     }
   }
 }
