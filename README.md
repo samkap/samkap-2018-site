@@ -10,8 +10,9 @@
 * \[x\] Refactor and organize Sass and components
 * \[x\] Figure out certificates and make sure site serves `https`
 * \[x\] Add to-do list to readme
+* [x] Add Hound
 * \[ \] Clean up forestry
-* \[ \] add browser sync notes in here because I always forget 
+* \[ \] add browser sync notes in here because I always forget
 * \[ \] Experiment with CSS Grid (half done, basic grid on Inclusion section)
 * \[ \] Reflow content and redesign on Writing & Community page
 * \[ \] Organize Speaking page to include option to contact or videos of talks
