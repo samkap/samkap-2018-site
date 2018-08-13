@@ -25,3 +25,4 @@ fields:
 pages:
 - _clips/link-css-easing-cheat-sheet.md
 - _clips/never-assume-anything-the-golden-rules-for-inclusive-design.md
+- _clips/browser-sync-for-jekyll.md
