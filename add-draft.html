@@ -42,13 +42,13 @@ permalink: /add-draft.html
 					<label for="password" class="sr-only">password</label>
 					<input type="password" class="form-control" id="password" placeholder="GitHub password">
 				</div>
-				<input type="button" class="btn btn-default" id="go" value="Post" /> 
+				<input type="button" class="btn btn-default" id="go" value="Post" />
 				<a class="btn btn-link" data-toggle="collapse" href="#submitform" aria-expanded="false" aria-controls="submitform">Remember username/password</a>
 			</div>
 			<div class="collapse" id="submitform">
 				<br>
 				<div class="well">
-					<p>Because of the way this form works (the form data is not sumbitted, as forms usually do), your browser may not ask you to remember the username/password. 
+					<p>Because of the way this form works (the form data is not sumbitted, as forms usually do), your browser may not ask you to remember the username/password.
 					<br>If you'd like to save them to your password manager, fill them in and click this button.
 					<br>This will not create a new post!</p>
 					<input type="submit" class="btn btn-default" value="Trick browser to save username/password">
@@ -79,11 +79,11 @@ permalink: /add-draft.html
 			}
 			return result;
 		}
-		
+
 		function getSelectionText() {
 			return text;
 		}
-		
+
 		function post_file(title) {
 			var d = new Date()
 			var dd = d.getDate()
@@ -108,16 +108,17 @@ permalink: /add-draft.html
 			var d = new Date()
 			return d.toISOString()
 		}
-		
-		var API_NEW_POST = 'https://api.github.com/repos/{{ site.github.repo }}/contents/_posts/' ;
+
+		var API_NEW_POST = 'https://api.github.com/repos/{{ site.github.repo }}/contents/_clips/' ;
 		$("#go").click(function() {
 			var user = $('#username').val() ;
 			var password = $('#password').val() ;
 			var title = $('#p_title').val() ;
 			var link = $('#p_link').val() ;
-			
+
 			var p_body = '---\n' ;
 			p_body = p_body + 'layout: post \n' ;
+			p_body = p_body + 'categories: clips \n' ;
 			p_body = p_body + 'published: false \n';
 			p_body = p_body + 'title: "' + title +'" \n';
 			p_body = p_body + 'date: '+ post_date() +' \n' ;
@@ -129,7 +130,7 @@ permalink: /add-draft.html
 			p_body = p_body + 'bodyclass: post \n';
 			p_body = p_body + '---\n';
 			p_body = p_body + '\n' + $('#p_body').val();
-			
+
 			var posted_ok = false ;
 			$.ajax({
 				dataType: "json",
@@ -141,8 +142,8 @@ permalink: /add-draft.html
 					message: 'posted via web',
 					branch: '{{ site.github.branch }}'
 				}),
-				beforeSend: function(xhr) { 
-					xhr.setRequestHeader("Authorization", "Basic " + btoa(user+":"+password)); 
+				beforeSend: function(xhr) {
+					xhr.setRequestHeader("Authorization", "Basic " + btoa(user+":"+password));
 				},
 				success: function(data) {
 					posted_ok = true ;
@@ -159,7 +160,7 @@ permalink: /add-draft.html
 				},
 			});
 		});
-		
+
 		query_params = get_query();
 		if (query_params) {
 			src_body = '';
