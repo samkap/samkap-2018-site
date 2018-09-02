@@ -128,7 +128,6 @@ permalink: /add-draft.html
 			p_body = p_body + 'ogtype: article \n';
 			p_body = p_body + 'bodyclass: post \n';
 			p_body = p_body + '---\n';
-			p_body = p_body + ' '[' '+ title +' ']' + '(' '+ link +' ')'';
 			p_body = p_body + '\n' + $('#p_body').val();
 
 			var posted_ok = false ;
@@ -147,7 +146,7 @@ permalink: /add-draft.html
 				},
 				success: function(data) {
 					posted_ok = true ;
-					$('#container1').html('<h2>Successfully posted to {{ site.title }}</h2') ;
+					$('#container1').html('<h2>Successfully posted!</h2>') ;
 				},
 				error: function(request, status, error) {
 					responseText = jQuery.parseJSON( request.responseText );
