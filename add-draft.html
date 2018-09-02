@@ -128,7 +128,7 @@ permalink: /add-draft.html
 			p_body = p_body + 'ogtype: article \n';
 			p_body = p_body + 'bodyclass: post \n';
 			p_body = p_body + '---\n';
-			p_body = p_body + '\n' + $('#p_body').val();
+			p_body = p_body + '\n' + $('#p_body').val() + '[' + title + ']' + '(' '+ link +' ')';
 
 			var posted_ok = false ;
 			$.ajax({
