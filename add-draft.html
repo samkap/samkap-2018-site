@@ -126,8 +126,9 @@ permalink: /add-draft.html
 				p_body = p_body + 'link: '+ link +' \n' ;
 			}
 			p_body = p_body + 'ogtype: article \n';
-			p_body = p_body + 'bodyclass: post \n';
 			p_body = p_body + '---\n';
+			p_body = p_body + '[ '+ title +' ]( '+ link +' ) ';
+
 			p_body = p_body + '\n' + $('#p_body').val();
 
 			var posted_ok = false ;
