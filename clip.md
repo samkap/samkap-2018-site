@@ -2,15 +2,15 @@
 title: Clips
 permalink: "/clips/"
 position: 1
-layout: page
+layout: default
 ---
 
-## Shorter notes, links, and thoughts. This is where I collect, where I organize, and where I think.
+<section class="posts">
+<h2>Shorter notes, links, and thoughts. This is where I collect, where I organize, and where I think.</h2>
 
 <div class="clips-group">
 {% assign clips = site.clips | reverse %}
 {% for post in clips  %}
-
 
 <article>
 <small>  {{ post.date | date: site.date_format }}</small>
@@ -19,6 +19,7 @@ layout: page
 </article>
   {% endfor %}
 </div>
+<section>
 
 <style>
 .clips-group article {

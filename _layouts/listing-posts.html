@@ -2,17 +2,17 @@
 layout: default
 ---
 
+<section>
 {{content}}
 
-
 {% for post in site.posts %}
-
  <article>
 <small>{{ post.date | date: site.date_format }}</small>
    <h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
  <p>{{ post.content | truncatewords:40 | strip_html }}</p>
  </article>
  {% endfor %}
+</section>
 </main>
 
 <style>

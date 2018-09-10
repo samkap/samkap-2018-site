@@ -2,7 +2,7 @@
 title: Writing & Community
 permalink: "/writing-and-community/"
 position: 6
-layout: default
+layout: page
 ---
 
 ## Writing, Interviews, and Community
@@ -80,19 +80,3 @@ I write and participate in the design and development community. Along with bein
 -   [The Frequency](http://5by5.tv/frequency/27), Nov 2012
 
 * * *
-
-### Elsewhere
-
--   [Tweeting on Twitter](http://www.twitter.com/samkap)
-
--   [Experimenting on Codepen](http://codepen.io/samkap)
-
--   [Meeting up on Lanyard](http://lanyrd.com/profile/samkap/)
-
--   [Sketching on Dribbble](http://www.dribbble.com/samkap)
-
--   [Reading on Goodreads](http://www.goodreads.com/samkap)
-
--   [Viewing on VSCO Grid](http://samkap.vsco.co/)
-
--   [RSS](http://samkapila.com/feed.xml)

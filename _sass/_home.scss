@@ -1,10 +1,5 @@
-section {
-  display: block;
-  flex: 1;
-
-  .featured {
-    padding-top: 3em;
-  }
+.featured {
+  padding-bottom: 3em;
 }
 
 .recent h3,
@@ -22,18 +17,55 @@ h6 {
 .recent {
   display: block;
   flex: 1;
+
   article {
     margin-bottom: 40px;
   }
 }
+
+.greeting {
+  color: $color2;
+}
+
+.recent-header {
+  font-size: 1em;
+  text-transform: uppercase;
+}
+
+.hightlighted-section {
+  background: $color1;
+  padding: 2em;
+
+  p {
+    color: $color2;
+    margin-bottom: 1em;
+  }
+
+  a {
+    color: white;
+    border: 0;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  figcaption {
+    font-size: 50%;
+    margin-top: 15px;
+    font-style: italic;
+    color: white;
+  }
+}
+
 @media all and (min-width: 760px) {
   .clips-group,
   .recent {
     display: flex;
     justify-content: space-between;
     flex-direction: row;
-    padding: 3em 0;
     flex-wrap: wrap;
+    padding: 3em 0;
 
     article {
       margin-bottom: 0;
@@ -52,8 +84,12 @@ h6 {
     }
   }
 
-  .about-me {
-    background: $color1;
+  .recent {
+    padding-top: 0;
+    padding-bottom: 4em;
+  }
+
+  .hightlighted-section {
     padding: 3em 6%;
     overflow: hidden;
 
@@ -84,12 +120,13 @@ h6 {
     }
   }
 }
+
 @media screen and (min-width: 1080px) {
   section {
-    display: flex;
-    justify-content: space-between;
-    flex-direction: row;
-    flex-wrap: wrap;
+    // display: flex;
+    // justify-content: space-between;
+    // flex-direction: row;
+    // flex-wrap: wrap;
 
     .featured {
       flex-basis: 66%;
@@ -101,35 +138,12 @@ h6 {
     }
   }
 
-  .clips-group,
+  .clips-group {
+    padding: 2em 0;
+  }
+
   .recent {
-    padding: 5em 0;
-  }
-}
-
-.about-me {
-  background: $color1;
-
-  p {
-    color: $color2;
-    margin-bottom: 1em;
+    padding: 1em 0 4em;
   }
 
-  a {
-    color: white;
-    border: 0;
-  }
-
-  img {
-    max-width: 100%;
-  }
-
-
-
-  figcaption {
-    font-size: 50%;
-    margin-top: 15px;
-    font-style: italic;
-    color: white;
-  }
 }
