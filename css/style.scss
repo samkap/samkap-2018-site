@@ -2,11 +2,25 @@
 ---
 
 /*********************global**********************/
-$color1: #004A55; // dark blue
-$color2: #A7CE3A; // diff green
-$color3: #F87D09; // orange
-$color4: #DBE8E8; // light blue
+$color1: #004A55;
+$color2: #A7CE3A;
+$color3: #F87D09;
+$color4: #DBE8E8;
 $gray: #f2f3f3;
+
+$max-w-base: 800px;
+
+$base-font-size: 1em;
+$base-line-height: 1.7;
+
+$base-spacing: $base-line-height * 1rem;
+$x-small-spacing: $base-spacing / 3;
+$small-spacing: $base-spacing / 2;
+$medium-spacing: $base-spacing * 1.25;
+$large-spacing: $base-spacing * 2;
+$x-large-spacing: $base-spacing * 3;
+$xx-large-spacing: $base-spacing * 4;
+
 
 @import  "../_sass/reset";
 @import  "../_sass/global";
@@ -15,18 +29,3 @@ $gray: #f2f3f3;
 @import  "../_sass/posts";
 @import  "../_sass/home";
 @import  "../_sass/inclusion_books";
-
-/* Content overwrites */
-.website-title {
-  font-family: "din-2014", Verdana, sans-serif;
-  font-weight: 600;
-  font-size: 24px;
-  text-align: center;
-  display: block;
-  background-image: none;
-  text-decoration: none !important;
-}
-
-.subtitle {
-  margin: 30px 0;
-}

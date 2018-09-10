@@ -7,19 +7,17 @@
 body {
   height: 100%;
   font-family: "din-2014",sans-serif;
-  font-size: 1.1em;
+  font-size: $base-font-size;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
-  color: #004A55;
+  color: $color1;
   background-color: white;
-  background-repeat: no-repeat;
-  background-size: 100%;
-  line-height: 1.5;
+  line-height: $base-line-height;
   word-wrap: break-word;
 }
 
 main {
-  padding: 2.5em 0;
+  padding: $medium-spacing 0;
 }
 section {
   display: block;
@@ -42,7 +40,7 @@ table {
 
 td,
 th {
-  padding: 0.8rem;
+  padding: $small-spacing;
 }
 
 th {
@@ -79,7 +77,7 @@ header {
   padding-top: 20px;
   position: relative;
   background: $color4;
-  padding: 1em 6%;
+  padding: $small-spacing 6%;
   display: block;
 }
 
@@ -123,7 +121,7 @@ nav {
 }
 
 footer {
-  font-size: 0.7em;
+  font-size: $x-small-spacing;
   text-align: center;
   // height: 140px;
   padding: 30px 0;
@@ -142,7 +140,7 @@ footer a {
 footer .inner {
   margin: 0 auto;
   padding: 0 15px;
-  max-width: 740px;
+  max-width: $max-w-base;
 }
 @media all and (min-width: 680px) {
   body {
@@ -156,7 +154,7 @@ footer .inner {
   }
 
   header {
-    padding: 2em 2% 0;
+    padding: $base-spacing 2% 0;
     Order: 2;
     flex-basis: 20%;
   }
@@ -175,7 +173,7 @@ footer .inner {
   nav {
     vertical-align: none;
     width: 100%;
-    margin: 3em 0 6em;
+    margin: $base-spacing 0 $x-large-spacing;
     display: block;
   }
 

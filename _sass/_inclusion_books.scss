@@ -3,11 +3,11 @@
 .gr_grid_container {
   display: grid;
   width: 100%;
-  padding: 2em 0;
+  padding: $base-spacing 0;
   margin: 0 auto;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-column-gap: 2em;
-  grid-row-gap: 2em;
+  grid-column-gap: $base-spacing;
+  grid-row-gap: $base-spacing;
   align-items: end;
 }
 .gr_grid_book_container {
@@ -18,7 +18,7 @@
 }
 
 .shell {
-    padding: 4em 0;
+    padding: $large-spacing 0;
     background: $color1;
   }
 
