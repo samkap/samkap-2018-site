@@ -6,7 +6,6 @@ layout: default
   <h1 class="greeting">Hi! I'm Sameera. A designer at thoughtbot, based in Austin, TX. </h1>
 </section>
 
-
 <section>
   <h2 class="recent-header">Recent Posts</h2>
   <div class="recent"> {% for post in site.posts limit: 3 %}
@@ -17,6 +16,11 @@ site.baseurl }}">→</a> </p>
     </article> {% endfor %} </div>
 </section>
 <section class="hightlighted-section">
+  <figure>
+    <img class="featured-image" src="/uploads/cm-feature.png" alt="Sketch of me by Ami">
+    <figcaption>Sketched by Ami</figcaption>
+  </figure>
+
   <article class="featured">
     {% for post in site.posts %}{% if post.categories contains 'featured' %}
     <h2 class="recent-header">Featured post</h2>

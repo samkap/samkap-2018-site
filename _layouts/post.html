@@ -9,12 +9,12 @@ comments: true
   <span class="meta">{{ page.date | date: site.date_format }} • {{ read-time }}min read</span>
   <h1>{{ page.title }}</h1>
   {{ content }}
-  <br>
+  <div class="tags">
   <small><em>tags: {% for tag in page.tags %}
 {{ tag | append: "&nbsp;" }}
 {% endfor %}</em></small>
-<br>
+</div>
 </article>
-<div id="disqus_thread"></div>
+<section id="disqus_thread"></section>
 {% include scripts.html %}
 </main>

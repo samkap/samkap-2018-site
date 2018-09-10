@@ -1,10 +1,10 @@
 ::selection {
-  background: $color2;
+  background: $color4;
   opacity: 0.5;
 }
 
 ::-moz-selection {
-  background: $color2;
+  background: $color4;
 }
 
 .bold,
@@ -23,7 +23,7 @@ a:visited {
   text-decoration: none;
   border-bottom: 1px $color2 solid;
 
-  &:hover {
+  &:hover, &:focus {
     color: $color2;
   }
 }

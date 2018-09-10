@@ -1,23 +1,16 @@
-.featured {
-  padding-bottom: 3em;
-}
-
-.recent h3,
-h4,
-h5,
-h6 {
-  font-size: 1.02em;
-}
-
-.recent h1 {
-  font-size: 1.2em;
-}
-
-.clips-group,
-.recent {
+.recent, .clips-group {
   display: block;
   flex: 1;
+  h1 {
+    font-size: 1.2em;
+  }
 
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-size: 1.02em;
+  }
   article {
     margin-bottom: 40px;
   }
@@ -35,23 +28,32 @@ h6 {
 .hightlighted-section {
   background: $color1;
   padding: 2em;
+}
+
+.featured {
+  h1 {
+    padding: 0.5em 0;
+  }
+
+  h2 {
+    color: $color4;
+  }
 
   p {
     color: $color2;
     margin-bottom: 1em;
+    max-width: 800px;
   }
 
   a {
     color: white;
     border: 0;
   }
+}
 
-  img {
-    max-width: 100%;
-  }
-
+figure {
   figcaption {
-    font-size: 50%;
+    font-size: 70%;
     margin-top: 15px;
     font-style: italic;
     color: white;
@@ -93,10 +95,11 @@ h6 {
     padding: 3em 6%;
     overflow: hidden;
 
-    .intro {
-      float: left;
+    .featured {
+      float: right;
       width: 62%;
-      margin-right: 8%;
+      margin-left: 8%;
+      padding-bottom: 0;
     }
 
     p {
@@ -112,29 +115,13 @@ h6 {
       float: left;
       width: 30%;
     }
-
-    figcaption {
-      font-size: 50%;
-      margin-top: 15px;
-      font-style: italic;
-    }
   }
 }
 
 @media screen and (min-width: 1080px) {
-  section {
-    // display: flex;
-    // justify-content: space-between;
-    // flex-direction: row;
-    // flex-wrap: wrap;
-
-    .featured {
-      flex-basis: 66%;
-      align-self: flex-end;
-
-      h1 {
-        font-size: 2em;
-      }
+  .featured {
+    h1 {
+      font-size: 2em;
     }
   }
 
