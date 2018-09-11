@@ -2,8 +2,14 @@
 title: Tentative Episode 56
 categories: ''
 layout: post
-date: 2018-09-10 00:00:00 +0000
-tags: []
+date: 2018-09-06 23:15:06 -0500
+tags:
+- podcasting
+- podcasts
+- design
+- business
+- emojis
+- thoughtbot
 images: []
 
 ---
