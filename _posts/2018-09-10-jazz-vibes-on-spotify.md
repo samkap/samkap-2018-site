@@ -2,7 +2,7 @@
 title: Jazz Vibes on Spotify
 categories: ''
 layout: post
-date: 2018-09-10 00:00:00 +0000
+date: 2018-08-20 22:10:53 -0500
 tags:
 - music
 - coding
