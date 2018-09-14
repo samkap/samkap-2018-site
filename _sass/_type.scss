@@ -23,7 +23,8 @@ a:visited {
   text-decoration: none;
   border-bottom: 1px $color2 solid;
 
-  &:hover, &:focus {
+  &:hover,
+  &:focus {
     color: $color2;
   }
 }
@@ -34,12 +35,13 @@ h3,
 h4,
 h5,
 h6 {
+  font-display: auto;
   font-family: "questa-slab";
-  font-weight: 700;
   font-style: italic;
-  word-wrap: break-word;
-  word-spacing: normal;
+  font-weight: 700;
   letter-spacing: normal;
+  word-spacing: normal;
+  word-wrap: break-word;
 }
 
 h1 {
@@ -89,11 +91,12 @@ blockquote {
   font-style: italic;
   background-color: #eef7fa;
   border-radius: 4px;
-  box-shadow: 0 1px 1px rgba(82,173,200,0.25);
+  box-shadow: 0 1px 1px rgba(82, 173, 200, 0.25);
 }
 
 code {
   font-family: "Source Code Pro", monospace;
+  font-display: auto;
 }
 
 p code {
@@ -102,13 +105,13 @@ p code {
   border-radius: 2px;
   background-color: $gray;
   border-radius: 4px;
-  box-shadow: 0 1px 1px rgba(122,130,136,0.25);
+  box-shadow: 0 1px 1px rgba(122, 130, 136, 0.25);
   padding: 0 3px;
 }
 
 pre {
   display: block;
-  background-color: rgba(0,0,0,.8);
+  background-color: rgba(0, 0, 0, 0.8);
   overflow-y: hidden;
   overflow-x: auto;
   font-size: 14px;
@@ -140,9 +143,9 @@ small a {
     margin: 20px 0;
   }
 
-.Posts p {
-      margin-top: 0;
-    }
+  .Posts p {
+    margin-top: 0;
+  }
 
   ol,
   ul {
@@ -174,7 +177,6 @@ small a {
   h6 {
     font-size: 1.2em;
   }
-
 
   blockquote {
     font-size: 1.3em;

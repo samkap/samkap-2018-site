@@ -5,13 +5,14 @@
 }
 /* Content */
 body {
-  height: 100%;
-  font-family: "din-2014",sans-serif;
-  font-size: $base-font-size;
   -webkit-font-smoothing: antialiased;
-  font-weight: 400;
-  color: $color1;
   background-color: white;
+  color: $color1;
+  font-display: auto;
+  font-family: "din-2014", sans-serif;
+  font-size: $base-font-size;
+  font-weight: 400;
+  height: 100%;
   line-height: $base-line-height;
   word-wrap: break-word;
 }
@@ -144,18 +145,18 @@ footer .inner {
 }
 @media all and (min-width: 680px) {
   body {
-    Display: flex;
+    display: flex;
     flex-direction: row;
   }
 
   .wrap {
-    Flex-basis: 80%;
-    Order: 1;
+    flex-basis: 80%;
+    order: 1;
   }
 
   header {
     padding: $base-spacing 2% 0;
-    Order: 2;
+    order: 2;
     flex-basis: 20%;
   }
 
@@ -198,6 +199,5 @@ footer .inner {
   table {
     margin: 40px auto;
   }
-
 }
 /* 650 ends*/

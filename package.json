@@ -21,5 +21,8 @@
     "gulp": "^3.9.1",
     "gulp-shell": "^0.6.5",
     "lodash": "^4.17.4"
+  },
+  "dependencies": {
+    "prettier": "^1.14.2"
   }
 }
