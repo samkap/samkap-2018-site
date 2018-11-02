@@ -17,6 +17,6 @@ images:
 
 [![logo of Shop Talk show podcast](/uploads/shoptalk_logo.png)](https://shoptalkshow.com/episodes/335/)
 
-Recently, [Shop Talk Show](https://shoptalkshow.com/) came out with a mini series on "How to think liek a front-end developer" While I may not consider myself one, I was honored to be asked, and we spent a lovely and hilarious hour talking about job titles, expectations, education, the way we work at [thoughtbot](https://www.thoughtbot.com), and a rapid fire chat about various Dribbble shots. 
+Recently, [Shop Talk Show](https://shoptalkshow.com/) came out with a mini series on "How to think like a front-end developer". While I may not consider myself one—well, not exactly that—I was honored to be asked, and we spent a lovely and hilarious hour talking about job titles, expectations, education, the way we work at [thoughtbot](https://www.thoughtbot.com), and a rapid fire chat about various Dribbble shots. 
 
-Check out the [episode](https://shoptalkshow.com/episodes/335/)
+Check out the [episode](https://shoptalkshow.com/episodes/335/), and other great episodes of people I admire like [Mina](https://shoptalkshow.com/episodes/332-how-to-think-like-a-front-end-developer-with-mina-markham/), [Brad](https://shoptalkshow.com/episodes/334/), and [Trent](https://shoptalkshow.com/episodes/333-how-to-think-like-a-front-end-developer-with-trent-walton/).
