@@ -7,12 +7,9 @@ layout: page
 
 ## Speaking
 
-### Upcoming
-- **[Women Talk: Conferences](https://www.eventbrite.com/e/women-talk-conferences-austin-tickets-44351675054)**, April 10th, 2018, Austin
-- **[Peers Conference](http://www.peersconf.com/)**, April 25–7, 2018, Austin
-
-
-### Recent
+- **[Ladies Lounge](https://generalassemb.ly/education/ladies-lounge-kickass-women-slaying-the-creative-world)**, Oct 20th, 2018, Austin
+- **[Women Talk: Conferences](https://www.eventbrite.com/e/women-talk-conferences-austin-tickets-44351675054)**, Apr 10th, 2018, Austin
+- **[Peers Conference](http://www.peersconf.com/)**, Apr 25–7, 2018, Austin
 - **[Global Diversity CFP Day](https://www.eventbrite.com/e/global-diversity-cfp-day-tickets-42210751494#)**, Feb 2018, Workshop Lead with Dee Kapila, Austin.
 - **[Austin Design Week](https://austindesignweek.org/schedule/making-design-for-good-a-part-of-your-career)**, Nov 2017, Moderator, Austin, TX “Making Design for Good a Part of Your Career”
 - **[FusionConf](http://fusionconf.io/)**, Sept 2017, Speaker, Charlotte, NC, “Diversity in Design”
@@ -22,8 +19,6 @@ layout: page
 - **[SXSW Interactive](http://opportunityhub.co/2017hbcusxsw/)**, March 2017, Austin, TX, Panelist, “Announcing The #YesWeCode Fund”
 - **[Design/Content](http://www.designcontentconf.com/)**, July 2016, Vancouver, BC, Canada, Speaker, “Design Responsive Systems”
 -  **[Front End Design Conference](http://www.frontenddesignconference.com/)**, June 2016, St Pete, Florida, “Design Research”
-
-### Past
 *   [Refresh Columbia](https://www.eventbrite.com/e/refresh-columbia-november-2014-registration-14328658403), Nov 2014, Speaker, “Design Research”
 *   [ConvergeFL](http://www.convergefl.com), Nov 2014, Keynote, “The (hover) state of web design education”
 *   [AIGA Tenn Show 2014](http://www.tennshow2014.com), Oct 2014, Judge and Guest Speaker

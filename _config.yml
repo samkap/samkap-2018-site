@@ -38,6 +38,7 @@ theme: minima
 sass:
   style: compressed
 gems:
+- bourbon
 - jekyll-feed
 - jekyll-twitter-plugin
 exclude:

@@ -5,7 +5,7 @@ position: 4
 layout: page
 ---
 
-# Hi I'm Sameera
+# Hi, I'm Sameera.
 
 I grew up in Curaçao and I live in Austin, TX. I am a designer at [thoughtbot](http://www.thoughtbot.com), a [Tech Ladies](https://www.hiretechladies.com/join/?kid=GDT52) city organizer, and serve on two advisory boards for profit and non-profit organizations. I make [playlists](https://open.spotify.com/user/hamtequila) and travel a lot. I cook and I [photograph](http://www.instagram.com/the_tableaux) the process.
 

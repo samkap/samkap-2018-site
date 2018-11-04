@@ -6,12 +6,15 @@ $color1: #004A55;
 $color2: #A7CE3A;
 $color3: #F87D09;
 $color4: #DBE8E8;
+$color5: rgb(135,49,99);
+$color6: rgb(211,198,26);
+$color7: rgb(109,164,60);
 $gray: #f2f3f3;
 
 $max-w-base: 800px;
 
-$base-font-size: 1em;
-$base-line-height: 1.7;
+$base-font-size: 1.1em;
+$base-line-height: 1.5;
 
 $base-spacing: $base-line-height * 1rem;
 $x-small-spacing: $base-spacing / 3;
@@ -21,8 +24,8 @@ $large-spacing: $base-spacing * 2;
 $x-large-spacing: $base-spacing * 3;
 $xx-large-spacing: $base-spacing * 4;
 
-
 @import  "../_sass/reset";
+@import "../bourbon/bourbon";
 @import  "../_sass/global";
 @import  "../_sass/type";
 @import  "../_sass/img_videos";
