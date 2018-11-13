@@ -196,7 +196,7 @@ h4 a {
   }
 }
 
-.Speaking {
+.Speaking, .inclusion-list  {
   a {
     border-bottom: 0px;
   }
@@ -205,15 +205,15 @@ h4 a {
     text-align: center;
   }
 
-  .pages ul {
+  .pages ul, ul {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
     grid-column-gap: 30px;
     grid-row-gap: 30px;
-    padding-left: 0;
+    grid-template-columns: 1fr 1fr 1fr;
     max-width: 100%;
+    padding-left: 0;
   }
-  
+
   li {
     background: $color4;
     border-radius: 3px;
