@@ -212,6 +212,16 @@ h4 a {
     grid-template-columns: 1fr 1fr 1fr;
     max-width: 100%;
     padding-left: 0;
+
+    @media screen and (max-width:1080px) {
+      grid-template-columns: 1fr 1fr;
+    }
+
+    @media screen and (max-width:680px) {
+      grid-template-columns: 1fr;
+    }
+
+
   }
 
   li {
