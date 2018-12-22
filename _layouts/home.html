@@ -3,7 +3,8 @@ layout: default
 ---
 
 <section class="pages">
-  <h1 class="greeting">Hi! I'm Sameera. A designer based in Austin, TX. </h1>
+  <h1 class="greeting">Hi! I'm Sameera and I'm based in Austin where I'm a Design Director, inclusion advocate, writer and contributor, speaker, educator, advisory board member, meetup organizer, plant and food hobbyist, and former executive.</h1>
+  <a href="/about" class="read-more">→</a>
 </section>
 
 <section>
@@ -11,25 +12,10 @@ layout: default
   <div class="recent"> {% for post in site.posts limit: 3 %}
     <article> <span class="meta">{{ post.date | date: site.date_format }}</span> <a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
       <p>{{ post.content | truncatewords:30 |
-        strip_html }}&nbsp; <a class="read-more" href="{{ post.url | prepend:
-site.baseurl }}">→</a> </p>
+        strip_html }}&nbsp; </p>
+        <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">→</a>
     </article> {% endfor %} </div>
 </section>
-<section class="hightlighted-section">
-  <figure>
-    <img class="featured-image" src="/uploads/cm-feature.png" alt="Sketch of me by Ami">
-    <figcaption>Sketched by Ami</figcaption>
-  </figure>
-
-  <article class="featured">
-    {% for post in site.posts %}{% if post.categories contains 'featured' %}
-    <h2 class="recent-header">Featured post</h2>
-    <span class="meta">{{ post.date | date: site.date_format }}</span>
-    <a href="{{ post.url | prepend: site.baseurl }}"><h1>{{ post.title }}</h1></a>
-    <p>{{ post.content | truncatewords:100 | strip_html }}&nbsp; <a
-    class="read-more" href="{{ post.url | prepend: site.baseurl }}">→</a> </p>
-  </article>
-</section> {% endif %} {% endfor %}
 
 <section class="clips">
 
@@ -47,4 +33,21 @@ site.baseurl }}">→</a> </p>
     {% endfor %}
   </div>
 </section>
+
+<section class="hightlighted-section">
+  <figure>
+    <img class="featured-image" src="/uploads/cm-feature.png" alt="Sketch of me by Ami">
+    <figcaption>Sketched by Ami</figcaption>
+  </figure>
+
+  <article class="featured">
+    {% for post in site.posts %}{% if post.categories contains 'featured' %}
+    <h2 class="recent-header">Featured post</h2>
+    <span class="meta">{{ post.date | date: site.date_format }}</span>
+    <a href="{{ post.url | prepend: site.baseurl }}"><h1>{{ post.title }}</h1></a>
+    <p>{{ post.content | truncatewords:100 | strip_html }}&nbsp; <a
+    class="read-more" href="{{ post.url | prepend: site.baseurl }}">→</a> </p>
+  </article>
+</section> {% endif %} {% endfor %}
+
 </main>

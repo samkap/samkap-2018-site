@@ -18,10 +18,18 @@
 
 .greeting {
   color: $color2;
+
+  .pages > & {
+    font-size: 1.3em;
+    max-width: 100%;
+  }
 }
 
 .recent-header {
-  font-size: 1em;
+  font-family: "din-2014";
+  font-style: normal;
+  font-size: .8em;
+  letter-spacing: 2px;
   text-transform: uppercase;
 }
 
