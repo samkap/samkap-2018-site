@@ -195,3 +195,42 @@ h4 a {
     font-size: 2.9em;
   }
 }
+
+.Speaking, .inclusion-list  {
+  a {
+    border-bottom: 0px;
+  }
+
+  h2 {
+    text-align: center;
+  }
+
+  .pages ul, ul {
+    display: grid;
+    grid-column-gap: 30px;
+    grid-row-gap: 30px;
+    grid-template-columns: 1fr 1fr 1fr;
+    max-width: 100%;
+    padding-left: 0;
+
+    @media screen and (max-width:1080px) {
+      grid-template-columns: 1fr 1fr;
+    }
+
+    @media screen and (max-width:680px) {
+      grid-template-columns: 1fr;
+    }
+
+
+  }
+
+  li {
+    background: $color4;
+    border-radius: 3px;
+    display: block;
+    list-style-type: none;
+    margin: 0;
+    padding: 30px;
+    text-align: left;
+  }
+}
