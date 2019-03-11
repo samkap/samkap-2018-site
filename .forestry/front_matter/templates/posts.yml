@@ -1,7 +1,6 @@
 ---
 label: Posts
 hide_body: false
-is_partial: false
 fields:
 - type: datetime
   name: date
@@ -23,14 +22,14 @@ fields:
     required: true
   default: post
 pages:
-- _clips/link-css-easing-cheat-sheet.md
-- _clips/never-assume-anything-the-golden-rules-for-inclusive-design.md
-- _clips/browser-sync-for-jekyll.md
+- _posts/2018.md
+- _posts/2018-11-02-shop-talk-show-how-to-think-like-a-front-end-developer.md
+- _posts/2018-09-16-introducing-developurrs.md
 - _posts/2018-09-17-watching-no-passport-required.md
+- _posts/2018-09-06-tentative-episode-56.md
+- _posts/2018-09-10-jazz-vibes-on-spotify.md
+- _clips/link-css-easing-cheat-sheet.md
 - _clips/link-letter-and-symbol-misrecognition-in-highly-legible-typefaces-for-general-children-dyslexic-visually-impaired-and-ageing-readers-2018-third-edition.md
 - _clips/link-variable-fonts-and-dyslexia.md
-- _posts/2018-09-10-jazz-vibes-on-spotify.md
-- _posts/2018-09-16-introducing-developurrs.md
-- _posts/2018-11-02-shop-talk-show-how-to-think-like-a-front-end-developer.md
-- _posts/2018-09-06-tentative-episode-56.md
-- _posts/2018.md
+- _clips/browser-sync-for-jekyll.md
+- _clips/never-assume-anything-the-golden-rules-for-inclusive-design.md
