@@ -2,52 +2,33 @@
 layout: default
 ---
 
-<section class="pages">
-  <h1 class="greeting">Hi! I'm Sameera and I'm based in Austin where I'm a Design Director, inclusion advocate, writer and contributor, speaker, educator, advisory board member, meetup organizer, plant and food hobbyist, and former executive.</h1>
-  <a href="/about" class="read-more">→</a>
+<section class="greeting">
+  <img src="/img/samkap.jpg" alt="">
+  <h1>Hi, I'm Sameera. I'm based in Austin where I'm a design director, inclusion advocate, writer, speaker, advisory board member, plant and food hobbyist, and former executive and educator.</h1>
 </section>
 
-<section>
-  <h2 class="recent-header">Recent Posts</h2>
-  <div class="recent"> {% for post in site.posts limit: 3 %}
+<section class="recent">
+  <div class="recent__column">
+  <h2 class="recent__header">Recent Posts</h2>
+  {% for post in site.posts limit: 3 %}
     <article> <span class="meta">{{ post.date | date: site.date_format }}</span> <a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
       <p>{{ post.content | truncatewords:30 |
-        strip_html }}&nbsp; </p>
+        strip_html }}&nbsp;
         <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">→</a>
-    </article> {% endfor %} </div>
-</section>
-
-<section class="clips">
-
-  <h2 class="recent-header">Recently bookmarked</h2>
-  <div class="recent">
-  {% assign clips = site.clips | reverse %}
-  {% for post in clips limit: 3 %}
-
-
-  <article>
-  <small>  {{ post.date | date: site.date_format }}</small>
-  <h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate:50 }}</a></h4>
-  <p>{{ post.content | truncatewords:30 | strip_html }}</p>
-  </article>
-    {% endfor %}
+    </p>
+    </article>
+  {% endfor %}
   </div>
+  <div>
+    <h2 class="recent__header">Recently bookmarked</h2>
+    {% assign clips = site.clips | reverse %}
+    {% for post in clips limit: 5 %}
+      <article>
+      <span class="meta">{{ post.date | date: site.date_format }}</span>
+      <h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate:50 }}</a></h4>
+      </article>
+    {% endfor %}
+    </div>
 </section>
-
-<section class="hightlighted-section">
-  <figure>
-    <img class="featured-image" src="/uploads/cm-feature.png" alt="Sketch of me by Ami">
-    <figcaption>Sketched by Ami</figcaption>
-  </figure>
-
-  <article class="featured">
-    {% for post in site.posts %}{% if post.categories contains 'featured' %}
-    <h2 class="recent-header">Featured post</h2>
-    <span class="meta">{{ post.date | date: site.date_format }}</span>
-    <a href="{{ post.url | prepend: site.baseurl }}"><h1>{{ post.title }}</h1></a>
-    <p>{{ post.content | truncatewords:100 | strip_html }}&nbsp; <a
-    class="read-more" href="{{ post.url | prepend: site.baseurl }}">→</a> </p>
-  </article>
-</section> {% endif %} {% endfor %}
 
 </main>

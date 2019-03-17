@@ -1,10 +1,10 @@
 ::selection {
-  background: $color4;
+  background: $color8;
   opacity: 0.5;
 }
 
 ::-moz-selection {
-  background: $color4;
+  background: $color8;
 }
 
 .bold,
@@ -38,7 +38,7 @@ h6 {
   font-display: auto;
   font-family: "questa-slab";
   font-style: italic;
-  font-weight: 700;
+  font-weight: 500;
   letter-spacing: normal;
   word-spacing: normal;
   word-wrap: break-word;
@@ -56,24 +56,23 @@ h2 {
 }
 
 .meta {
-  color: $color2;
   display: block;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 0.8em;
 }
 
 ol,
 ul {
   margin: 30px auto;
-  padding-left: 30px;
+  padding-left: 15px;
 }
 
 ul {
-  list-style: disc;
+  list-style-type: disc;
 }
 
 ol {
-  list-style: decimal;
+  list-style-type: decimal;
 }
 
 li {
@@ -87,11 +86,10 @@ li * {
 }
 
 blockquote {
-  padding: 20px 15px 20px 30px;
+  border-left: 8px solid white;
   font-style: italic;
-  background-color: #eef7fa;
-  border-radius: 4px;
-  box-shadow: 0 1px 1px rgba(82, 173, 200, 0.25);
+  margin-bottom: 15px;
+  padding: 0px 25px;
 }
 
 code {
@@ -147,11 +145,6 @@ small a {
     margin-top: 0;
   }
 
-  ol,
-  ul {
-    padding-left: 50px;
-  }
-
   li {
     padding-left: 10px;
     margin: 20px 0;
@@ -196,7 +189,8 @@ h4 a {
   }
 }
 
-.Speaking, .inclusion-list  {
+.Speaking,
+.inclusion-list {
   a {
     border-bottom: 0px;
   }
@@ -205,7 +199,8 @@ h4 a {
     text-align: center;
   }
 
-  .pages ul, ul {
+  .pages ul,
+  ul {
     display: grid;
     grid-column-gap: 30px;
     grid-row-gap: 30px;
@@ -213,11 +208,11 @@ h4 a {
     max-width: 100%;
     padding-left: 0;
 
-    @media screen and (max-width:1080px) {
+    @media screen and (max-width: 1080px) {
       grid-template-columns: 1fr 1fr;
     }
 
-    @media screen and (max-width:680px) {
+    @media screen and (max-width: 680px) {
       grid-template-columns: 1fr;
     }
   }
