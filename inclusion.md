@@ -7,7 +7,7 @@ Key:
 layout: inclusion
 
 ---
-# Diversity, Equity, & Inclusion
+# Equity & Inclusion
 
 This page is a growing resource of thoughts and resources around Equity and Inclusion. Last Updated: **April 2nd, 2019**.
 
