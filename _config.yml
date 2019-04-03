@@ -1,4 +1,4 @@
-title: Sam Kapila
+title: Samera Kapila
 timezone: America/Chicago
 collections:
   clips:
@@ -20,11 +20,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-description:
-  Sam Kapila is a design and educator in Austin, TX. Sam writes and speaks
-  about Responsive Web Design, design strategy, and research, and diversity and inclusion
-  in tech. She a former Director of Academic Operations and Diversity and university
-  design instructor.
+description: Sameera Kapila is a designer, speaker, writer, and educator based in Austin, TX. She is a Design Director at thoughtbot and always cooking.
 ? baseurl
 url: https://samkapila.com
 twitter_username: samkap
