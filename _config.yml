@@ -20,8 +20,8 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: Sameera Kapila is a designer, speaker, writer, and educator based in Austin, TX. She is a Design Director at thoughtbot and always cooking.
-? baseurl
+description: Sameera Kapila is a designer, speaker, writer, and educator based in Austin. She is a Design Director at thoughtbot and always cooking.
+baseurl:
 url: https://samkapila.com
 twitter_username: samkap
 github_username: samkap
