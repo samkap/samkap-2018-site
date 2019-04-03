@@ -6,7 +6,7 @@
 /* Content */
 body {
   -webkit-font-smoothing: antialiased;
-  background-color: white;
+  background-color: $beige;
   color: $color1;
   font-display: auto;
   font-family: "din-2014", sans-serif;
@@ -18,8 +18,8 @@ body {
 }
 
 main {
-  padding: $medium-spacing 0 0 0;
 }
+
 section {
   display: block;
   padding: 0 6%;
@@ -70,16 +70,14 @@ tr:last-child {
   min-height: 50px;
 }
 
-.wrap {
-  display: block;
-}
-
 header {
-  padding-top: 20px;
+  background: white;
+  padding-top: 30px;
   position: relative;
-  background: $color4;
   padding: $small-spacing 6%;
-  display: block;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 header img {
@@ -101,10 +99,6 @@ hr {
 }
 
 nav {
-  width: calc(100% - 70px);
-  display: inline-block;
-  vertical-align: middle;
-
   hr {
     display: none;
   }
@@ -122,14 +116,10 @@ nav {
 }
 
 footer {
+  background: white;
   font-size: $small-spacing;
   text-align: center;
-  // height: 140px;
   padding: 30px 0;
-}
-
-.togglefooter footer {
-  display: none;
 }
 
 footer a {
@@ -143,59 +133,8 @@ footer .inner {
   padding: 0 15px;
   max-width: $max-w-base;
 }
+
 @media all and (min-width: 680px) {
-  body {
-    display: flex;
-    flex-direction: row;
-  }
-
-  .wrap {
-    flex-basis: 80%;
-    order: 1;
-  }
-
-  header {
-    padding: $base-spacing 2% 0;
-    order: 2;
-    flex-basis: 20%;
-  }
-
-  header > a {
-    display: block;
-    width: 60px;
-    margin: 0 auto;
-  }
-
-  header img {
-    margin: 0 auto;
-    width: 60px;
-  }
-
-  nav {
-    vertical-align: none;
-    width: 100%;
-    margin: $base-spacing 0 $x-large-spacing;
-    display: block;
-  }
-
-  nav a {
-    display: block;
-    font-size: 0.9em;
-  }
-
-  nav hr {
-    display: block;
-  }
-
-  footer {
-    display: none;
-  }
-
-  .togglefooter footer {
-    display: block;
-    vertical-align: bottom;
-  }
-
   table {
     margin: 40px auto;
   }

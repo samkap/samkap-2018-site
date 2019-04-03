@@ -1,5 +1,4 @@
----
-title: Sam Kapila
+title: Samera Kapila
 timezone: America/Chicago
 collections:
   clips:
@@ -21,10 +20,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: Sam Kapila is a design and educator in Austin, TX. Sam writes and speaks
-  about Responsive Web Design, design strategy, and research, and diversity and inclusion
-  in tech. She a former Director of Academic Operations and Diversity and university
-  design instructor.
+description: Sameera Kapila is a designer, speaker, writer, and educator based in Austin. She is a Design Director at thoughtbot and always cooking.
 baseurl:
 url: https://samkapila.com
 twitter_username: samkap
@@ -38,14 +34,14 @@ theme: minima
 sass:
   style: compressed
 gems:
-- bourbon
-- jekyll-feed
-- jekyll-twitter-plugin
+  - bourbon
+  - jekyll-feed
+  - jekyll-twitter-plugin
 exclude:
-- Gemfile
-- Gemfile.lock
-- node_modules
-- gulpfile.js
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - gulpfile.js
 date_format: "%b %-d, %Y"
 logo-image: "/img/ampersam.svg"
 nav-breaking-point: 520px
@@ -53,12 +49,12 @@ paginate_path: "/page-:num/"
 sitemap:
   filename: "/sitemap.xml"
   exclude:
-  - "/atom.xml"
-  - "/feed.xml"
-  - "/feed/index.xml"
+    - "/atom.xml"
+    - "/feed.xml"
+    - "/feed/index.xml"
   include_posts:
-  - "/index.html"
-  - "/clips/index.md"
+    - "/index.html"
+    - "/clips/index.md"
   change_frequency_name: change_frequency
   priority_name: priority
 github:

@@ -6,12 +6,12 @@
 <body class="{{page.title}}">
 	{% include header.html %}
 
-	<div class="wrap">
 		{% if page.cover-image  %}
 		<div class="cover-image-container">
 			<img alt="Cover image" src="{{ page.cover-image }}">
-		</div>
 		{% endif %}
+
+		
 		<main>
 			{{ content }}
 		</main>
