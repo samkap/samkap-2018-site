@@ -204,12 +204,13 @@ h4 a {
     display: grid;
     grid-column-gap: 30px;
     grid-row-gap: 30px;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-bottom: 60px;
     max-width: 100%;
     padding-left: 0;
 
     @media screen and (max-width: 1080px) {
-      grid-template-columns: 1fr 1fr;
+      grid-template-columns: 1fr 1fr 1fr;
     }
 
     @media screen and (max-width: 680px) {
@@ -218,12 +219,14 @@ h4 a {
   }
 
   li {
-    background: $color4;
+    background: white;
     border-radius: 3px;
     display: block;
     list-style-type: none;
     margin: 0;
     padding: 30px;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
     text-align: left;
+    text-size: 70%;
   }
 }
