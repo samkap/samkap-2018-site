@@ -26,7 +26,6 @@ This page is a growing resource of thoughts and resources around Equity and Incl
 * [Textio](https://textio.com/) : Job posting gender leaning test
 * [Gender Decoder](http://gender-decoder.katmatfield.com/) : Job posting gender decoding test
 * [Imbalance of Culture Fits](https://alistapart.com/article/the-imbalance-of-culture-fit) by my friend, Matt Griffin
-* 
 
 ## Public Speaking & Conferences
 
@@ -41,7 +40,7 @@ This page is a growing resource of thoughts and resources around Equity and Incl
 * [Accessibility at Trivago](http://tech.trivago.com/2017/09/26/accessibility-at-trivago/)
 * [Microsoft's Inclusive Toolkit](https://www.microsoft.com/en-us/design/inclusive)
 
-## AccessibilityTools and Checklists for Development
+## Accessibility Tools and Checklists for Development
 
 * [Pa11y](https://github.com/pa11y/pa11y) : Command line tool
 * [A11yProject.com](http://a11yproject.com/checklist.html)
