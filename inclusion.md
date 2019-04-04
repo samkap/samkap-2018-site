@@ -9,7 +9,7 @@ layout: inclusion
 ---
 # Equity & Inclusion
 
-This page is a growing resource of thoughts and resources around Equity and Inclusion. Last Updated: **April 2nd, 2019**.
+This page is a growing resource of thoughts and resources around Equity and Inclusion. Last Updated: **April 3nd, 2019**.
 
 ## Organizations committed to Inclusion:
 
