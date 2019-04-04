@@ -2,19 +2,6 @@
 title: Clips
 permalink: "/clips/"
 position: 1
-layout: default
+layout: listing-clips
 ---
-
-<section class="posts">
-<h2>Shorter notes, links, and thoughts. This is where I collect, where I organize, and where I think.</h2>
-
-{% assign clips = site.clips | reverse %}
-{% for post in clips  %}
-
-<article>
-<small>  {{ post.date | date: site.date_format }}</small>
-<h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate:50 }}</a></h4>
-<p>{{ post.content | truncatewords:30 | strip_html }}</p>
-</article>
-  {% endfor %}
-<section>
+# A collection of short notes and useful links
