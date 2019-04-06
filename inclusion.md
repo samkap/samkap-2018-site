@@ -1,9 +1,9 @@
 ---
-title: Diversity, Equity, & Inclusion
+title: Equity & Inclusion
 date: 2017-06-03 19:19:00 +0000
 permalink: "/inclusion/"
 position: 2
-Key: 
+Key:
 layout: inclusion
 
 ---

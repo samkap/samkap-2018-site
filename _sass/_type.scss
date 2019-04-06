@@ -47,7 +47,7 @@ h6 {
 h1 {
   font-size: 2.1em;
   line-height: 1.2;
-  margin: .5em 0;
+  margin: 1.5em 0 .5em;
 }
 
 h2 {
@@ -157,7 +157,7 @@ small a {
   }
 
   h1 {
-    font-size: 2.6em;
+    font-size: 2.5em;
   }
 
   h2 {
@@ -184,20 +184,11 @@ small a {
 h4 a {
   border: 0;
 }
-@media all and (min-width: 760px) {
-  h1 {
-    font-size: 2.9em;
-  }
-}
 
 .Speaking,
 .inclusion-list {
   a {
     border-bottom: 0px;
-  }
-
-  h2 {
-    text-align: center;
   }
 
   .pages ul,
@@ -229,5 +220,16 @@ h4 a {
     box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
     text-align: left;
     text-size: 70%;
+  }
+}
+
+.listing-posts {
+  article {
+    margin-bottom: 3em;
+    max-width: 800px;
+  }
+
+  li {
+    font-size: .9em;
   }
 }

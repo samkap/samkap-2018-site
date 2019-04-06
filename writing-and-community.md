@@ -5,11 +5,11 @@ position: 6
 layout: page
 ---
 
-## Writing, Interviews, and Community
+# Writing, Interviews, and Community
 
 I write and participate in the design and development community. Along with being a former monthly contributor for [net magazine](http://www.creativebloq.com)'s "Focus On" column and [The Pastry Box Project](https://the-pastry-box-project.net/), here contributions I've made to the design and development community.
 
-### Community & Review
+## Community & Review
 
 -   [HACKTX](http://www.hacktx.com), Oct 2017, Austin, TX, Final Round Judge along with Bob Metcalfe
 -   [net Awards 2015](http://thenetawards.com), 2015, UK-based, International
@@ -19,7 +19,7 @@ I write and participate in the design and development community. Along with bein
 -   [AIGA Tenn Show 2014](http://www.tennshow2014.com), Oct 2014, Judge and Guest Speaker
 -   [net Awards 2014](http://thenetawards.com), 2014, UK-based, International
 
-### Writing
+## Writing
 
 -   [Get up to speed with CSS Grid](http://www.creativebloq.com/features/get-up-to-speed-with-css-grid), net Magazine, January 2017 issue and online
 
@@ -57,7 +57,7 @@ I write and participate in the design and development community. Along with bein
 
 -   ["5 Lessons from the RWD Classroom"](http://www.creativebloq.com/netmag/5-lessons-responsive-web-design-classroom-7135527), net Magazine, online
 
-### Interviews
+## Interviews
 
 -   [NPR (KUT): Coding Boot Camps Aim To Help Solve Diversity Problem In Tech Sector](http://kut.org/post/coding-boot-camps-aim-help-solve-diversity-problem-tech-sector), Mar 2017
 

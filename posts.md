@@ -2,8 +2,8 @@
 title: Posts
 permalink: "/posts/"
 position: 0
-Key: 
+Key:
 layout: listing-posts
 ---
 
-## Articles, thoughts, and long-form.
+# Articles, thoughts, and long-form
