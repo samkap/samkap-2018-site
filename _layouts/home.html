@@ -25,7 +25,7 @@ layout: default
     {% for post in clips limit: 5 %}
       <article>
       <span class="meta">{{ post.date | date: site.date_format }}</span>
-      <h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate:50 }}</a></h4>
+      <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate:50 }}</a></h3>
       </article>
     {% endfor %}
     </div>
