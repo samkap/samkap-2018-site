@@ -43,7 +43,7 @@ h6 {
 h1 {
   font-size: 1.5em;
   line-height: 1.2;
-  margin: 40px 0;
+  margin: 1.5em 0 0.5em;
 }
 
 h2 {
@@ -88,7 +88,7 @@ blockquote {
   border-left: 8px solid white;
   font-style: italic;
   margin-bottom: 15px;
-  padding: 0px 25px;
+  padding: 0 25px;
 }
 
 code {
@@ -220,7 +220,7 @@ small a {
   }
 
   h1 {
-    font-size: 2em;
+    font-size: 2.5em;
   }
 
   h2 {
@@ -240,5 +240,73 @@ small a {
 
   hr {
     margin: 1em auto;
+  }
+}
+
+h4 a {
+  border: 0;
+}
+
+.Speaking,
+.inclusion-list {
+  a {
+    border-bottom: 0;
+  }
+
+  .pages ul,
+  ul {
+    display: grid;
+    grid-column-gap: 30px;
+    grid-row-gap: 30px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-bottom: 60px;
+    max-width: 100%;
+    padding-left: 0;
+
+    @media screen and (max-width: 1080px) {
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    @media screen and (max-width: 680px) {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  li {
+    background: white;
+    border-radius: 3px;
+    display: block;
+    list-style-type: none;
+    margin: 0;
+    padding: 30px;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    text-size: 70%;
+  }
+}
+
+.listing-posts {
+
+  h2 {
+    font-size: 1.1em;
+    margin: 0;
+
+    a {
+      border-bottom: 0;
+      color: $color2;
+    }
+  }
+  
+  article {
+    margin-bottom: 3em;
+    max-width: 800px;
+  }
+
+  li {
+    font-size: 0.9em;
+  }
+
+  p {
+    margin: 0;
   }
 }

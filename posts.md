@@ -6,4 +6,4 @@ Key:
 layout: listing-posts
 ---
 
-# Articles, thoughts, and long-form.
+# Articles, thoughts, and long-form

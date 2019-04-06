@@ -5,14 +5,11 @@ layout: default
 <section class="pages listing-posts">
 {{content}}
 
-  <ul class="clip">
-  {% for post in site.posts %}
-    <li>
-      <small>{{ post.date | date: site.date_format }}</small>
-      <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-      <p>{{ post.content | truncatewords:40 | strip_html }}</p>
-    </li>
-  {% endfor %}
-  </ul>
+{% for post in site.posts %}
+ <article>
+<small>{{ post.date | date: site.date_format }}</small>
+   <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+ <p>{{ post.content | truncatewords:40 | strip_html }}</p>
+ </article>
+ {% endfor %}
 </section>
-</main>
