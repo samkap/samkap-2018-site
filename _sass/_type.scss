@@ -90,7 +90,7 @@ blockquote {
   border-left: 8px solid white;
   font-style: italic;
   margin-bottom: 15px;
-  padding: 0px 25px;
+  padding: 0 25px;
 }
 
 code {
@@ -188,7 +188,7 @@ h4 a {
 .Speaking,
 .inclusion-list {
   a {
-    border-bottom: 0px;
+    border-bottom: 0;
   }
 
   .pages ul,
@@ -234,6 +234,7 @@ h4 a {
       color: $color2;
     }
   }
+  
   article {
     margin-bottom: 3em;
     max-width: 800px;
