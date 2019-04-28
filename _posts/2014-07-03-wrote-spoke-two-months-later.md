@@ -7,14 +7,15 @@ Tags:
 - writing
 - design
 - speaking
-desc: 
+desc:
+cover-image: /img/posts/netmag1.jpg
 ---
 
 It seems appropriate to release a few unfinished drafts on Independence Day; they deserve their freedom! Here’s a few updates from the past few months:
 
 ### net Magazine
 I wrote an article for the June 2014 printed issue of [net Magazine](http://www.creativebloq.com/net-magazine) called “Thinking In Systems”. The article is about how branding and systems-based thinking can apply to the web. I was nervous about writing this but I’m glad I did. I love that we’re changing the way we’re approaching web design with smarter thinking. Get the issue [here](http://www.creativebloq.com/career/learn-how-be-your-own-boss-new-net-magazine-41411416).
-![net magazine cover on my ipad]({{site.url}}/img/posts/netmag1.jpg)
+![net magazine cover on my ipad](/img/posts/netmag1.jpg)
 <br>
 
 ### ConvergeSE

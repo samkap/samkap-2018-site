@@ -9,6 +9,7 @@ tags:
 - scholarship
 - the-iron-yard
 layout: post
+cover-image: /uploads/tech-opportunity-fund.jpg
 ---
 
 ![Meghan Smith, CTO for the US, Jessica, and Sam](/uploads/tech-opportunity-fund.jpg)

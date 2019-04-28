@@ -33,8 +33,6 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
-    jekyll-tagging (1.1.0)
-      nuggets
     jekyll-twitter-plugin (2.0.0)
     jekyll-watch (1.5.1)
       listen (~> 3.0)
@@ -47,7 +45,6 @@ GEM
     mercenary (0.3.6)
     minima (2.1.1)
       jekyll (~> 3.3)
-    nuggets (1.6.0)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.1)
@@ -73,7 +70,6 @@ DEPENDENCIES
   jekyll (= 3.3.1)
   jekyll-feed (~> 0.6)
   jekyll-paginate
-  jekyll-tagging
   jekyll-twitter-plugin
   minima (~> 2.0)
 

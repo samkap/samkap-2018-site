@@ -2,8 +2,7 @@
 title: NBSP returns live with Micah Godbolt
 date: 2015-02-23 18:00:00 -06:00
 layout: post
-desc: 
-Tags:
+tags:
 - podcasts
 - austin
 - Sketchnotes
