@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: clip 
 categories: clips 
 published: true 
 title: "Link: ColorBox by Lyft Design" 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: clip
 categories: clips
 title: 'Link: Stuck In Seattle, the story of Big Bertha'
 date: 2018-09-13 14:09:40 +0000

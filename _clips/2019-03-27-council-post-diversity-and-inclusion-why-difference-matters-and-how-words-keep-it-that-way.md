@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: clip 
 categories: clips 
 published: true 
 title: "Link: Council Post: Diversity And Inclusion: Why Difference Matters And How Words Keep It That Way" 

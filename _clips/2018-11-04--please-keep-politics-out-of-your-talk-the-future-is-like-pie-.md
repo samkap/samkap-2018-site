@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: clip
 categories: clips
 published: true
 title: "Link: Please keep politics out of your talk – The future is like pie." 

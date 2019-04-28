@@ -10,7 +10,7 @@ tags:
   - development
   - teaching
   - thoughtbot
-images:
+cover-image:
   - "/uploads/shoptalk_logo.png"
 ---
 

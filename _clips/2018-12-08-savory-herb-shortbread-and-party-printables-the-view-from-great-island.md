@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: clip 
 categories: clips 
 published: true 
 title: "Link: Savory Herb Shortbread (and Party Printables!) | The View from Great Island" 

@@ -78,5 +78,3 @@ I write and participate in the design and development community. Along with bein
 -   [The East Wing](http://5by5.tv/eastwing/52), Apr 2013
 
 -   [The Frequency](http://5by5.tv/frequency/27), Nov 2012
-
-* * *

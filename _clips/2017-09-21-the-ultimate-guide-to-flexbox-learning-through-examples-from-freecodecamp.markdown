@@ -6,7 +6,7 @@ categories:
 tags:
 - css
 - html
-layout: post
+layout: clip
 ---
 
 [The Ultimate Guide to Flexbox — Learning Through Examples](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676)

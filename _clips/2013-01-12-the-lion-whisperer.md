@@ -6,7 +6,7 @@ categories:
 tags:
 - interesting
 - video
-layout: post
+layout: clip
 desc: A touching video of Kevin Richardson, called the "Lion Whisperer" wears a GoPro
   Hero and shares his unique relationship with lions in Africa.
 ---

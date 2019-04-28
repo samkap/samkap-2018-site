@@ -3,7 +3,7 @@ title: Food Waste
 date: 2015-08-16 19:00:00 -05:00
 categories:
 - clips
-layout: post
+layout: clip
 desc: John Oliver's Food Waster bit on LWT
 Tags:
 - food

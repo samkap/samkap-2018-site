@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: clip 
 categories: clips 
 published: true 
 title: "Link: Watch Back to Back Chef | Shangela Tries to Keep Up with Carla | Bon Appétit Video | CNE" 

@@ -3,7 +3,7 @@ title: It's okay to...
 date: 2016-06-02 19:00:00 -05:00
 categories:
 - clips
-layout: post
+layout: clip
 ---
 
 The UK Gov design office put together the [most wonderful poster](http://govdesign.tumblr.com/post/144909646023/download-the-poster-its-ok-to) that applies to designers and developers, and you can print out your own copy:

@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: clip 
 categories: clips 
 published: true 
 title: "Link: How Deepak Chopra, Wellness Expert, Spends His Sundays - The New York Times" 

@@ -7,7 +7,7 @@ tags:
 - development
 - design
 - resources
-layout: post
+layout: clip
 ---
 
 [Accessibility Interview Questions](https://scottaohara.github.io/accessibility_interview_questions/) by Scott O'Hara and contributors (via message in group Slack)

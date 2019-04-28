@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: clip 
 categories: clips 
 published: true 
 title: "Link: CSS Frameworks Or CSS Grid: What Should I Use For My Project? — Smashing Magazine" 

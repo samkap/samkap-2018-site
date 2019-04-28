@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: clip 
 categories: clips 
 published: true 
 title: "Link:     It's pretty cool how Netlify CMS works with any flat file site generator | CSS-Tricks  " 

@@ -3,7 +3,7 @@ title: Edward Tufte on Clutter
 date: 2016-05-09 19:00:00 -05:00
 categories:
 - clips
-layout: post
+layout: clip
 ---
 
 > Clutter is not an attribute of information, clutter is a failure of design... fix the design rather than stripping all the detail out of the map.

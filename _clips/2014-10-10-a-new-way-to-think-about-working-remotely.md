@@ -10,7 +10,7 @@ tags:
 - design
 - process
 - productivity
-layout: post
+layout: clip
 ---
 
 ![Remote Office]({{base.url}}/img/posts/after_remote_office.jpg)

@@ -5,7 +5,7 @@ categories:
 - clips
 tags:
 - michelle
-layout: post
+layout: clip
 crosspost_to_medium: true
 cover-image: 
 ---

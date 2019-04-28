@@ -6,7 +6,7 @@ categories:
 tags:
 - sports
 - code
-layout: post
+layout: clip
 ---
 
 Heat Player Chris Bosh writes [letter to city of Miami / Heat fans](http://www.chrisbosh.com/a-letter-to-miami/). I'm gonna miss this guy.

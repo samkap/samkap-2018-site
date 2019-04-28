@@ -5,7 +5,7 @@ tags:
 - design
 - css
 - code
-layout: post
+layout: clip
 ---
 
 [CSS Variables are a sometimes food](https://medium.com/@stowball/css-variables-are-a-sometimes-food-f01dd24f51e8)

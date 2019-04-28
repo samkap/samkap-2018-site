@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: clip 
 categories: clips 
 published: true 
 title: "Link: Preventing Suicide with UX: A Case Study on Google Search | CSS-Tricks" 

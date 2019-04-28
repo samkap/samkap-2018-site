@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: clip 
 categories: clips 
 published: true 
 title: "Link: The Importance Of Manual Accessibility Testing — Smashing Magazine" 

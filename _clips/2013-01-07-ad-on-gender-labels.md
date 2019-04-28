@@ -6,7 +6,7 @@ categories:
 tags:
 - video
 - interesting
-layout: post
+layout: clip
 desc: Finally got around to posting the Pantene Philippines ad that takes on the gender
   labels many of us deal with everyday!
 ---

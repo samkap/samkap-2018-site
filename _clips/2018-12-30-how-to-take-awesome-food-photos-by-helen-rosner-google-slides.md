@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: clip 
 categories: clips 
 published: true 
 title: "Link: How to Take Awesome Food Photos by Helen Rosner - Google Slides" 
