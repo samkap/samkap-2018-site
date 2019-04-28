@@ -85,7 +85,7 @@ li * {
 }
 
 blockquote {
-  border-left: 10px solid white;
+  border-left: 10px solid $white;
   font-style: italic;
   margin-bottom: 15px;
   padding: 0 25px;
@@ -165,7 +165,7 @@ small a {
   }
 
   li {
-    background: white;
+    background: $white;
     border-radius: 3px;
     box-shadow: $shadow;
     display: block;
@@ -281,7 +281,7 @@ h4 a {
   }
 
   li {
-    background: white;
+    background: $white;
     border-radius: 3px;
     display: block;
     list-style-type: none;
@@ -317,7 +317,7 @@ h4 a {
 
   .post-container {
     align-items: center;
-    background: white;
+    background: $white;
     display: grid;
     grid-column-gap: 20px;
     grid-row-gap: 20px;
