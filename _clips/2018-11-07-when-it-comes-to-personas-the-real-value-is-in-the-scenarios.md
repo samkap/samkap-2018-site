@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: clip 
 categories: clips 
 published: true 
 title: "Link: When It Comes To Personas, The Real Value Is In The Scenarios" 

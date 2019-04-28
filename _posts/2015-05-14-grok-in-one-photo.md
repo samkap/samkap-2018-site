@@ -7,9 +7,10 @@ Tags:
 - design
 - travel
 - the-iron-yard
+cover-image: /img/posts/draplin.gif
 ---
 
 Hugs with Draplin!
 
-![Hugs with Draplin]({{ site.baseurl }}/img/posts/draplin.gif)
+![Hugs with Draplin](/img/posts/draplin.gif)
 (Photos by Nathan Spainhour)

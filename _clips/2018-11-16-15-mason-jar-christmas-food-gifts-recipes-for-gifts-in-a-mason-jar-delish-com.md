@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: clip 
 categories: clips 
 published: true 
 title: "Link: 15+ Mason Jar Christmas Food Gifts – Recipes for Gifts in a Mason Jar—Delish.com" 

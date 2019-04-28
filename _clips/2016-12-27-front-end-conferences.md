@@ -7,7 +7,7 @@ tags:
 - conferences
 - development
 crosspost_to_medium: false
-layout: post
+layout: clip
 ---
 
 From [CSS-Tricks](https://t.co/iqdU3tSaRj)

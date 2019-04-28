@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: clip 
 categories: clips 
 published: true 
 title: "Link: Cauliflower Chaat for One Recipe - NYT Cooking" 

@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: clip 
 categories: clips 
 published: true 
 title: "Link: The Best Food Books of 2018 | The New Yorker (Helen Rosner)" 

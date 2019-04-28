@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: clip 
 categories: clips 
 published: true 
 title: "Link: The Three Types of Performance Testing – CSS Wizardry – CSS Architecture, Web Performance Optimisation, and more, by Harry Roberts" 

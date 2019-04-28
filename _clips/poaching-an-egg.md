@@ -1,6 +1,6 @@
 ---
 title: Poaching an egg
-layout: post
+layout: clip
 date: 2018-05-28 00:00:00 +0000
 tags: []
 categories: []

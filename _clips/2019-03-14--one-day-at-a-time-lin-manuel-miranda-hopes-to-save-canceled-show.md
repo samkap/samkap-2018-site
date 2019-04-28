@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: clip
 categories: clips
 published: true
 title: "Link: Lin-Manuel Miranda Hopes To Save Canceled Show"

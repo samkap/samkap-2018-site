@@ -117,17 +117,17 @@ permalink: /add-draft.html
 			var link = $('#p_link').val() ;
 
 			var p_body = '---\n' ;
-			p_body = p_body + 'layout: post \n' ;
+			p_body = p_body + 'layout: clip \n' ;
 			p_body = p_body + 'categories: clips \n' ;
 			p_body = p_body + 'published: true \n';
-			p_body = p_body + 'title: "Link: ' + title +'" \n';
+			p_body = p_body + 'title: "Link: '+ title +'" \n';
 			p_body = p_body + 'date: '+ post_date() +' \n' ;
 			if( link !== '' ){
 				p_body = p_body + 'link: '+ link +' \n' ;
 			}
 			p_body = p_body + 'ogtype: article \n';
 			p_body = p_body + '---\n';
-			p_body = p_body + '[ '+ title +' ]( '+ link +' ) ';
+			p_body = p_body + '['+ title +']('+ link +') ';
 
 			p_body = p_body + '\n' + $('#p_body').val();
 

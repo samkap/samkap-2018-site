@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: clip 
 categories: clips 
 published: true 
 title: "Link: How to Make Flipino-Style Lumpia Spring Rolls - VICE Video: Documentaries, Films, News Videos" 

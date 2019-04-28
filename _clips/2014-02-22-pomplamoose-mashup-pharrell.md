@@ -3,7 +3,7 @@ title: Pomplamoose’s “Get Lucky” and “Happy” cover mash-up
 date: 2014-02-21 18:00:00 -06:00
 categories:
 - clips
-layout: post
+layout: clip
 desc: Not only does the mash-up cover sound amazing, but it's recorded as a single
   shot, funky music video.
 Tags: video, music, inspiration

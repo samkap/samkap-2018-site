@@ -4,7 +4,7 @@ title: Hidden Figures Is The First Movie With Multiple Female Leads To Remain No
 date: 2017-01-16 16:13:00 -06:00
 categories:
 - clips
-layout: post
+layout: clip
 crosspost_to_medium: false
 ---
 

@@ -6,7 +6,7 @@ categories:
 tags:
 - video
 - advice
-layout: post
+layout: clip
 ---
 
 Mike Monteiro on dealing with clients. Great advice especially for young or new designers.

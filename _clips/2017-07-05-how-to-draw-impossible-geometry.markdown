@@ -5,7 +5,7 @@ categories:
 - clips
 tags:
 - gaming
-layout: post
+layout: clip
 ---
 
 Monument Valley 2 is out and it's short, but lovely.

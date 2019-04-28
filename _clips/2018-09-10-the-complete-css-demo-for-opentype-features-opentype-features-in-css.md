@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: clip 
 categories: clips 
 published: true 
 title: "Link: The Complete CSS Demo for OpenType Features - OpenType Features in CSS" 

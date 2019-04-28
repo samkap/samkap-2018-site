@@ -3,7 +3,7 @@ title: Awesome resource on SVGs (and dos and donts)
 date: 2016-12-29 12:00:00 -06:00
 categories:
 - clips
-layout: post
+layout: clip
 crosspost_to_medium: false
 ---
 

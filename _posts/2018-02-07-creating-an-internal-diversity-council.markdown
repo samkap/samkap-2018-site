@@ -9,7 +9,7 @@ tags:
 - equality
 - students
 - teaching
-image: "/uploads/samkap.png"
+cover-image: "/uploads/diversitycouncil-tiy.png"
 layout: post
 ---
 

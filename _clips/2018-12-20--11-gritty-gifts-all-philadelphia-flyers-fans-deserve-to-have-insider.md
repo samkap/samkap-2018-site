@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: clip 
 categories: clips 
 published: true 
 title: "Link:     11 Gritty gifts all Philadelphia Flyers fans deserve to have - INSIDER" 

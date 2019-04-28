@@ -7,7 +7,7 @@ tags:
 - accessibility
 - design
 - development
-layout: post
+layout: clip
 ---
 
 Today, Trivago shared a [blog post about their thoughts on accessibility](http://tech.trivago.com/2017/09/26/accessibility-at-trivago/).

@@ -1,7 +1,7 @@
 ---
 title: Watching Bubbles Freeze
 date: 2017-12-28 12:48:00 -06:00
-layout: post
+layout: clip
 ---
 
 How cool is it watching bubbles freeze in real time?

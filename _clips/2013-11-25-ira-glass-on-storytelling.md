@@ -7,7 +7,7 @@ tags:
 - video
 - process
 - typography
-layout: post
+layout: clip
 desc: A video with typographic elements and Ira Glass audio. I could listen to him
   all day.
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: clip 
 categories: clips 
 published: true 
 title: "Link: Girls. Girls. Girls. Magazine on Instagram: “@ClaireRothstein magazine founder here 👋🏼 just sharing this image from my account which I think encapsulates @girls.girls.girls.magazine and…”" 

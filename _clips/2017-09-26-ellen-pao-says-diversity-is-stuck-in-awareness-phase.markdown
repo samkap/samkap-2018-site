@@ -8,7 +8,7 @@ tags:
 - inclusion
 - tech
 - women in tech
-layout: post
+layout: clip
 ---
 
 [Ellen Pao worries that tech’s diversity problem is stuck in “raising awareness”](https://www.vox.com/conversations/2017/9/26/16367602/ellen-pao-diversity-tech-silicon-valley-sexism) on Vox

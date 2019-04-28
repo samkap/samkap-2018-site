@@ -11,7 +11,7 @@ tags:
 - emojis
 - thoughtbot
 images: []
-
+cover-image: "https://media.simplecast.com/podcast/image/1088/small_1484757948-artwork.jpg"
 ---
 My amazing [thoughtbot](http://www.thoughtbot.com) coworker and former Iron Yard student, Dawn, and I have a new episode of Tentative, filling in for regular hosts, Kyle and Jaclyn. Dawn and I spoke about Emoji day, our latest projects, entomology and etymology, Dawn's expertise on designing filter systems, and how design and business goals align. It was such a fun episode to record.
 

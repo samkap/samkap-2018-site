@@ -17,4 +17,7 @@ I bought the sign and took it into the second space we were setting up at Penn F
 ![first step]({{ base.url}}/img/posts/first-step.jpg)
 ![second step]({{ base.url}}/img/posts/second-step.jpg)
 ![final step]({{ base.url}}/img/posts/final-step.jpg)
-<p><iframe width="420" height="315" src="https://www.youtube.com/embed/SuE38Wt28L0" frameborder="0" allowfullscreen></iframe>
+
+<div class="full">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/SuE38Wt28L0" frameborder="0" allowfullscreen></iframe>
+</div>

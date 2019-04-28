@@ -1,7 +1,7 @@
 ---
 title: Browser-sync for Jekyll
 categories: clips
-layout: post
+layout: clip
 date: 2018-08-12 23:34:50 -0500
 tags: []
 images: []

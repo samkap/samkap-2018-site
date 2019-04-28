@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: clip 
 categories: clips 
 published: true 
 title: "Link: Here's A Make-Ahead Meal Plan That Anyone Can Cook" 

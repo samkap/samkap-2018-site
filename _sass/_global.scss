@@ -3,10 +3,16 @@
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+
+html {
+  background-image: url(/img/floral.png);
+  background-repeat: repeat;
+  background-attachment: fixed;
+
+}
 /* Content */
 body {
   -webkit-font-smoothing: antialiased;
-  background-color: $beige;
   color: $color1;
   font-display: auto;
   font-family: "din-2014", sans-serif;
@@ -14,15 +20,21 @@ body {
   font-weight: 400;
   height: 100%;
   line-height: $base-line-height;
+  margin: 10px;
   word-wrap: break-word;
+  @media screen and (min-width: 680px) {
+    margin: 20px;
+  }
 }
 
 main {
+  background-color: $beige;
+  min-height: 60vh;
+  padding: 2em 5%;
 }
 
 section {
   display: block;
-  padding: 0 6%;
 }
 
 .clearfix:after {
@@ -71,10 +83,9 @@ tr:last-child {
 }
 
 header {
-  background: white;
-  padding-top: 30px;
+  background: rgba(248,248,248,.95);
   position: relative;
-  padding: $small-spacing 6%;
+  padding: $base-spacing 2%;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -116,7 +127,7 @@ nav {
 }
 
 footer {
-  background: white;
+  background: rgba(248,248,248,.95);
   font-size: $small-spacing;
   text-align: center;
   padding: 30px 0;

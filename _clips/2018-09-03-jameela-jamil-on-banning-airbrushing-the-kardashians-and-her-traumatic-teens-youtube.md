@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: clip 
 categories: clips 
 published: true 
 title: "Link: Jameela Jamil on banning airbrushing, the Kardashians and her traumatic teens - YouTube" 

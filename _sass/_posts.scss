@@ -11,11 +11,6 @@ a.read-more {
   }
 }
 
-.posts,
-.pages {
-  padding: 0 6% 2.5em 6%;
-}
-
 .pagination {
   font-family: "din-2014", Verdana, sans-serif;
   font-weight: 600;
@@ -42,43 +37,31 @@ a.read-more {
 
 #disqus_thread {
   margin-bottom: 50px;
-  max-width: 900px;
-  padding-left: 6%;
+  margin-top: 50px;
+  max-width: $max-w-base;
 }
 
-@media all and (min-width: 680px) {
-  .posts {
-    h1,
-    h2,
-    h3,
-    blockquote,
-    p,
-    span,
-    ul,
-    ol,
-    .tags {
-      max-width: $max-w-base;
-    }
+.posts,
+.pages {
 
-    .full {
-      max-width: 100%;
-    }
+  h1,
+  h2,
+  h3,
+  blockquote,
+  p,
+  span,
+  ul,
+  ol,
+  .tags {
+    max-width: $max-w-base;
   }
 
-  .posts {
-    p {
-      font-size: 1.1em;
-    }
+  .full {
+    max-width: 100%;
   }
-
-  .pages {
-    p {
-      font-size: 0.9em;
-    }
-  }
+}
 
   .tags {
     display: block;
     margin-top: 2em;
   }
-}

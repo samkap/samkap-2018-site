@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: clip 
 categories: clips 
 published: true 
 title: "Link: Build up Your Leadership Toolbox ◆ 24 ways" 

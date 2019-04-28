@@ -3,7 +3,7 @@ title: Design.watch
 date: 2014-12-27 18:00:00 -06:00
 categories:
 - clips
-layout: post
+layout: clip
 desc: 
 Tags:
 - video

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: clip
 categories: clips
 title: Write a Sentence as Clean as a Bone
 date: 2018-09-13 14:10:12 +0000

@@ -3,7 +3,7 @@ title: Outfit layering ideas
 date: 2016-12-25 12:26:00 -06:00
 categories:
 - clips
-layout: post
+layout: clip
 crosspost_to_medium: false
 ---
 

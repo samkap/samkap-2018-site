@@ -4,7 +4,7 @@ title: Michiko Kakutani, our chief book critic, met with Mr. Obama to discuss th
 date: 2017-01-22 18:15:00 -06:00
 categories:
 - clips
-layout: post
+layout: clip
 crosspost_to_medium: false
 ---
 

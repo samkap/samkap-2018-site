@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: clip
 categories: clips
-title: 'Link: The Gendered Project'
-date: 2019-03-28 22:31:55 +0000
+published: true
+title: "Link: The Gendered Project"
+date: 2019-03-28T22:31:55.371Z
 link: https://genderedproject.org/
 ogtype: article
-
 ---
-[The Gendered Project](https://genderedproject.org/ )
+[The Gendered Project](https://genderedproject.org/)

@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: clip 
 categories: clips 
 published: true 
 title: "Link: KUT's Diversity and Inclusion census study [Austin's public radio affiliate]" 

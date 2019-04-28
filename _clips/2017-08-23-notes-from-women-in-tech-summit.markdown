@@ -9,7 +9,7 @@ tags:
 - inclusion
 - events
 - startups
-layout: post
+layout: clip
 ---
 
 ### Building and Sustaining Inclusive Culture in the Tech Industry

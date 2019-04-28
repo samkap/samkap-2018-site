@@ -10,7 +10,7 @@ tags:
 - inclusion
 - equality
 - ally
-layout: post
+layout: clip
 ---
 
 Game of Thrones, S7E5 captures  perfectly what its like to be a woman in tech.

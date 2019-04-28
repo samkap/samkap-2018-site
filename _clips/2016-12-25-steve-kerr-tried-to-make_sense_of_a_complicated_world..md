@@ -3,7 +3,7 @@ title: Steve Kerr NYT Post
 date: 2016-12-25 12:21:00 -06:00
 categories:
 - clips
-layout: post
+layout: clip
 crosspost_to_medium: false
 ---
 
