@@ -27,7 +27,6 @@ fields:
     required: false
   label: title
 pages:
-- _clips/tweet-firefox-nightly-now-let-s-you-know-if-css-isn-t-being-used-and-why.md
 - _posts/2018-09-06-tentative-episode-56.md
 - _posts/2018-11-02-shop-talk-show-how-to-think-like-a-front-end-developer.md
 - _posts/2018-09-16-introducing-developurrs.md
