@@ -10,7 +10,7 @@ tags:
 - design
 - development
 - diversity
-cover-image: "/uploads/developurrs.png"
+cover-image: "/img/developurrs.png"
 
 ---
 Earlier this week, my web friend, [Andy](https://hankchizljaw.io/), interviewed me for his new project, [Developur.rs](https://developur.rs/), a series of interviews about people making the web and their pets. It was so enjoyable to be a part of and also to read the other interviews.
@@ -19,4 +19,4 @@ Ink and Leela were more than happy to be a the subject of any interview. Andy as
 
 Andy and I emailed questions and answers back and forth for a few days over email. This was my favorite part. It made emails actually fun to use again. It felt like we were catching up at pub.
 
-[![Logo for developurrs with a cat. ](/uploads/developurrs.png)](https://developur.rs/)
+[![Logo for developurrs with a cat. ](/img/developurrs.png)](https://developur.rs/)

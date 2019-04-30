@@ -9,7 +9,7 @@ tags:
 - equality
 - students
 - teaching
-cover-image: "/uploads/diversitycouncil-tiy.png"
+cover-image: "/img/diversitycouncil-tiy.png"
 layout: post
 ---
 
@@ -23,7 +23,7 @@ In March 2016, we visited the White House to pledge our participation for The Op
 
 ## Setting up the Council
 
-![diversitycouncil-tiy.png](/uploads/diversitycouncil-tiy.png)
+![diversitycouncil-tiy.png](/img/diversitycouncil-tiy.png)
 {: .full}
 
 In the early summer of 2016, we strategized the formation of the council. Through brainstorming and reflecting with our company, we focused the Council on five pillars: Staff, Students, Community, Scholarships, and Communication. **By organizing into these five focus areas was instrumental, each pillar task force is able to focus on tangible and achievable goals.** We officially began our work on September 1st, 2016. Weeks earlier, in a company-wide email, we shared the goals and intended structure for the council and our one-year minimum appointment. We shared our quarterly schedule, definitions of each pillar, and the nomination process. The council included members of Academics, Operations, Human Resources, Corporate Training, Marketing, and Product.
