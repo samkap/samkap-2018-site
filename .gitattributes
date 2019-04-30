@@ -1,12 +1,6 @@
-uploads/*.GIF filter=lfs diff=lfs merge=lfs -text
+img/*.GIF filter=lfs diff=lfs merge=lfs -text
+img/*.jpg filter=lfs diff=lfs merge=lfs -text
+img/*.png filter=lfs diff=lfs merge=lfs -text
 img/*.JPG filter=lfs diff=lfs merge=lfs -text
 img/*.PNG filter=lfs diff=lfs merge=lfs -text
 img/*.gif filter=lfs diff=lfs merge=lfs -text
-uploads/*.png filter=lfs diff=lfs merge=lfs -text
-uploads/*.JPG filter=lfs diff=lfs merge=lfs -text
-uploads/*.PNG filter=lfs diff=lfs merge=lfs -text
-uploads/*.gif filter=lfs diff=lfs merge=lfs -text
-img/*.jpg filter=lfs diff=lfs merge=lfs -text
-img/*.png filter=lfs diff=lfs merge=lfs -text
-img/*.GIF filter=lfs diff=lfs merge=lfs -text
-uploads/*.jpg filter=lfs diff=lfs merge=lfs -text
