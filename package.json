@@ -17,12 +17,13 @@
   },
   "homepage": "https://github.com/samkap/samkap.github.io#readme",
   "devDependencies": {
-    "browser-sync": "^2.23.5",
+    "browser-sync": "^2.26.5",
     "gulp": "^3.9.1",
-    "gulp-shell": "^0.6.5",
-    "lodash": "^4.17.4"
+    "gulp-shell": "^0.7.0",
+    "lodash": "^4.17.11"
   },
   "dependencies": {
+    "install": "^0.12.2",
     "prettier": "^1.14.2"
   }
 }
