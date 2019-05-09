@@ -2,7 +2,7 @@
 layout: clip
 categories: clips
 title: 'Link: 5 Powerful Lessons Arya Stark Teaches about Surviving Trauma'
-date: 2000-01-01 20:16:00 -0600
+date: 2019-05-08 20:16:00 -0500
 tags:
 - GoT
 - tv
