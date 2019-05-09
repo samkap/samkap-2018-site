@@ -20,8 +20,8 @@ sections:
   label: Food
   create: all
   match: "**/*"
-upload_dir: ''
-public_path: ''
+upload_dir: img
+public_path: https://samkap.netlify.com/img
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
